@@ -4,7 +4,7 @@
 - **Duração estimada:** ~1:43
 - **Logline:** Charlie monta uma "academia de rico" numa clareira no meio da selva, com tronco, pedra, coco e bambu. Tudo dá errado de um jeito engraçado, a esteira de bambu dispara e joga ele num monte de folha seca, e no fim quem fica preso no supino é o bode.
 - **Elenco:** Charlie · bode **Seu Juvêncio** (de passagem) · uma galinha (de passagem)
-- **Status:** ✍️ roteiro (aguardando aprovação)
+- **Status:** ✍️ roteiro aprovado · prompts do Seedance em [01-academia-seedance.md](01-academia-seedance.md)
 
 ---
 
@@ -20,7 +20,7 @@
 | 6 | 0:50–0:58 | Selfie de perto, no topo da esteira | Ele olha a descida, depois a câmera, meio desconfiado, e sobe na esteira. | "Ficou num morrinho, viu... Se ela disparar, eu vou parar no vizinho." / "Bora, turma." | **Hora da verdade:** piada de risco e vulnerabilidade. |
 | 7 | 0:58–1:10 | Fixa, lateral e aberta, mostrando a esteira inteira e o monte de folha seca no fim | Ele começa a andar, os rolos giram cada vez mais rápido, ele corre com os braços girando e é jogado da ponta da esteira, gargalhando no ar. Cai de costas no monte de folha seca, que voa pra todo lado. Ele se levanta das folhas com os braços pro alto, comemorando. | *(gargalhada no ar)* "Ahhahahaha!" / "Funcionooou!" | **Clímax / trapalhada 3.** |
 | 8 | 1:10–1:19 | Selfie, ele sentado no monte de folhas, cheio de folha no pelo | Tira as folhas do pelo enquanto ri e fala com a câmera. | "Esteira de academia vai a dez por hora. A minha vai a quarenta." / "E num gasta energia nenhuma... só a minha." | **Frase-regra** e número exagerado. |
-| 9 | 1:19–1:30 | Fixa, na altura do peito, sentado no banco do supino | Recompensa: ele quebra um dos cocos do halter numa pedra, bebe e come a polpa com os olhos fechados de prazer. | "Treino bom termina com lanche." / "Hum... agora sim." | **Recompensa.** |
+| 9 | 1:19–1:30 | Fixa, na altura do peito, sentado num toco perto do supino | Recompensa: ele quebra um dos cocos do halter numa pedra, bebe e come a polpa com os olhos fechados de prazer. | "Treino bom termina com lanche." / "Hum... agora sim." | **Recompensa.** |
 | 10 | 1:30–1:43 | Plano aberto fixo → selfie de perto | Ele vira e vê o bode Seu Juvêncio deitado embaixo do tronco do supino, preso, balindo. Charlie gargalha e aponta. Depois chega perto da câmera e cobre a lente com a mão. | "Agora quem num sobe é ele, rapaz!" *(gargalhada)* / "Marca aquele amigo que paga academia e num vai." | **Espelho** do começo + **chamada pra compartilhar** + mão na lente. |
 
 ---
