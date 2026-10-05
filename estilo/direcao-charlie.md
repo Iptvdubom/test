@@ -217,3 +217,21 @@ Exemplo: *The overall emotion shifts from confident to sheepish amusement. After
 - **Grito** pedido como "shouted" virou suspiro ofegante → peça `shouts loudly, a real startled yell`.
 - **Som de bicho** descrito só na ação não saiu → coloque também no 【Sound】 como efeito `< >`.
 - **Desconfiança** com "side-look" + boca torcida ficou estranha → `playfully suspicious, squinting with a half-smile`.
+
+---
+
+## 18. REGRA FIXA: ideias no formato do Sapulha + gancho forte nos 3 primeiros segundos
+
+**As ideias sempre seguem os formatos que fazem o Sapulha viralizar** (o mesmo TIPO, nunca o mesmo TEMA):
+1. **Receita rústica:** um prato de cidade, de padaria ou industrializado, feito do jeito mais primitivo na selva.
+2. **Obra de luxo:** algo de rico (eletrodoméstico, academia, spa, carro) recriado com material da mata, com hora da verdade.
+3. **Aventura:** um imprevisto (bicho, natureza, objeto) que vira perseguição, fuga ou missão, e termina comendo ou descansando.
+4. **Resgate e reforma:** achar algo velho ou estragado e deixar "novo de fábrica".
+
+**O gancho dos 0–3 s é obrigatório e precisa ter, ao mesmo tempo:**
+- **Impacto visual:** algo voa, cai, explode, escapa, pula ou acerta o Charlie.
+- **Som forte:** baque, estouro, grito, berro de bicho, chiado.
+- **Reação imediata do Charlie:** susto, grito ou gargalhada, com no máximo uma fala curta ("Ô!", "AAAI!", "Rapaz!").
+- **Nenhuma explicação.** O contexto vem a partir dos 3–8 s.
+
+**Teste do gancho:** se alguém visse só os 3 primeiros segundos sem som, ia querer ver o resto? Se não, o gancho não serve.

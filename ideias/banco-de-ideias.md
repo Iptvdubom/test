@@ -114,3 +114,51 @@
 - **Acontecimentos:** interroga os "suspeitos" (o bode, o pato), que ignoram ele → arma uma tocaia escondido atrás da moita, sussurrando → leva um susto com um barulho → descobre que a galinha está botando os ovos escondida dentro do chapéu de palha dele.
 - **Final:** "Esse tempo todo... no meu chapéu."
 - **Por que funciona:** formato de mistério, que prende até o fim e pode virar série ("Charlie investiga").
+
+---
+
+## Ideias no formato do Sapulha, com gancho de 3 s (regra fixa a partir daqui)
+
+| # | Ideia | Formato | Tempo | Potencial |
+|---|---|---|---|---|
+| 15 | Churros de mandioca | Receita rústica | 2:20–2:40 | Muito alto |
+| 16 | Geladeira de barro | Obra de luxo | 2:30–2:50 | Muito alto |
+| 17 | Pão de queijo gigante | Receita rústica | 2:20–2:40 | Muito alto |
+| 18 | Drive-thru da selva | Obra de luxo | 2:30–2:50 | Alto |
+| 19 | A canoa furada | Aventura | 2:40–3:10 | Muito alto |
+| 20 | Carrinho de mão turbinado | Resgate e reforma | 2:30–2:50 | Muito alto |
+
+### 15. Churros de mandioca
+- **Gancho (0–3 s):** Charlie aperta com força o tubo de bambu cheio de massa → *PLOFT*: a massa sai disparada e acerta a cara dele → gargalhada com a massa pendurada no queixo. *"Ô!"*
+- **Acontecimentos:** mostra o "bico de confeiteiro" de bambu → frita no tacho → o doce de leite feito no fogo de chão → recheia com uma seringa de taquara → o bode quer o pote.
+- **Frase-regra:** *"Churros de shopping vem com doce de leite. O meu vem com doce de leite e com mandioca que eu mesmo arranquei."*
+- **Final:** morde e o doce de leite espirra na camisa: *"Até a camisa quis provar."*
+
+### 16. Geladeira de barro
+- **Gancho (0–3 s):** Charlie abre a porta da geladeira de barro → um sapo pula direto no peito dele → *"AAAI!"* com um berro de verdade, e ele quase cai de costas.
+- **Acontecimentos:** ri do susto e tira o sapo com carinho → mostra como funciona (pote de barro dentro de outro, com areia molhada no meio) → coloca a melancia → hora da verdade no dia seguinte: *"Se num gelar, eu como quente mesmo."*
+- **Paródia de luxo:** *"Geladeira de rico tem gelo na porta. A minha tem sapo."*
+- **Final:** morde a melancia geladinha de olhos fechados → o sapo volta pra dentro da geladeira.
+
+### 17. Pão de queijo gigante
+- **Gancho (0–3 s):** Charlie tira do forno de barro um pão de queijo do tamanho de uma bola de futebol, morde, e o queijo estica até o chão. *"Rapaz!"*, com a boca cheia e gargalhando.
+- **Acontecimentos:** volta ao começo: rala o queijo na pedra → sova a massa com os pés numa gamela (força bruta) → a massa não cabe no forno → empurra com uma pá e ela entala → a porta de barro cai.
+- **Frase-regra:** *"Pão de queijo de padaria é do tamanho de uma bolinha. O meu é do tamanho do forno."*
+- **Final:** divide com o bode, e o queijo estica entre os dois.
+
+### 18. Drive-thru da selva
+- **Gancho (0–3 s):** Charlie está na janela da cabana entregando uma espiga de milho → um porco enfia a cabeça pela janela e arranca a espiga da mão dele → *"Ô, pera aí!"*
+- **Acontecimentos:** monta o "drive-thru": uma janela com balcão de bambu e uma plaquinha de folha → os "clientes" chegam na fila (galinhas, o bode, o porco) → o pedido sai errado → o porco tenta furar a fila.
+- **Paródia de luxo:** *"Drive-thru de cidade tem moça no fone. O meu tem eu e uma janela."*
+- **Final:** ele fecha a janela pra almoçar e os bichos ficam olhando.
+
+### 19. A canoa furada
+- **Gancho (0–3 s):** Charlie remando tranquilo → *PSSSH!* um jato de água sai do fundo da canoa e acerta a cara dele → *"AAAI!"* e depois a gargalhada.
+- **Acontecimentos:** tampa o furo com o dedo do pé → aparece outro furo → tampa com o chapéu → rema com uma mão só → a canoa vai afundando devagar → ele chega na margem com a água no peito, rindo.
+- **Vulnerabilidade:** *"Se afundar, eu nado... acho."*
+- **Final:** a canoa virada na margem, secando, e ele: *"Amanhã eu conserto. Hoje eu vou de a pé."*
+
+### 20. Carrinho de mão turbinado
+- **Gancho (0–3 s):** Charlie desce o morro dentro de um carrinho de mão velho → a roda solta e passa voando por ele → ele vai deslizando de bunda na terra → *"Ô, ô, ô!"* e depois gargalha.
+- **Acontecimentos:** volta ao começo: acha o carrinho velho e enferrujado no mato → reforma (roda nova feita de tronco, bancada de bambu, alça de cipó) → "pintura" com urucum → hora da verdade na descida.
+- **Final:** desce perfeito, para do lado do bode e diz: *"Saiu de fábrica, rapaz."*
