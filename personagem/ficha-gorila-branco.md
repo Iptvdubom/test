@@ -10,7 +10,8 @@
 - **Personalidade:** igual à do personagem de referência: extremamente brincalhão, risonho, carismático e bonachão. Desastrado (cai, bate a cabeça, escorrega, se suja) e sempre ri de si mesmo. Sabe cozinhar e construir, mas faz tudo do jeito mais engraçado. Tem coração mole e é paizão de quem está por perto. Quando se assusta, confessa o medo e depois ri de alívio.
 - **Jeito de rir:** gargalhada grave e aberta, com a cabeça pra trás depois das trapalhadas; risadinha soprada pelo nariz quando se conforma com algo.
 - **Sotaque / jeito de falar:** caipira do interior. Voz grave e arrastada. Frases curtas, faladas enquanto trabalha. Grafia do sotaque nas falas: "num", "ceis", "mermo", "óia", "vermeio", "juei", "trem", "uai".
-- **Bordões:** "meus fi", "fi", "rapaz", "ó", "viu", "eita".
+- **Bordão / jeito de chamar o espectador:** [A DEFINIR, precisa ser PRÓPRIO do Charlie e diferente do "fi"/"meus fi" do Sapulha].
+- **Interjeições caipiras (genéricas, podem usar):** "rapaz", "ó", "viu", "eita", "uai", "nossa senhora".
 - **Relação com o público:** trata quem assiste como amigo íntimo. Explica, confidencia, pede pra testemunhar ("óia isso", "vem ver").
 
 **Descrição visual fixa (inglês, para o Seedance):**
@@ -25,7 +26,7 @@ Use @Image1 for the gorilla's face, cream pale-blonde fur, tall blonde crest, pi
 
 **Formato de fala (oficial, entre chaves):**
 ```
-The gorilla says in Brazilian Portuguese with a rural caipira accent, laughing: {Óia isso, meus fi!}
+The gorilla says in Brazilian Portuguese with a rural caipira accent, laughing: {Óia isso, rapaz!}
 ```
 
 **Voz (inglês, para o Seedance):**

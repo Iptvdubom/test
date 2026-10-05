@@ -58,7 +58,7 @@ Dá pra misturar os formatos. A pesca, por exemplo, começa como receita e vira 
 
 - **Frases curtas:** 3 a 12 palavras cada. Por cena, 1 a 4 frases no máximo.
 - **Fala enquanto trabalha:** ele quase nunca para a ação pra falar.
-- **Bordões que fecham as frases:** "meus fi", "fi", "rapaz", "ó", "viu", "hein".
+- **Bordões que fecham as frases:** o Sapulha usa "meus fi", "fi", "rapaz", "ó", "viu", "hein". ⚠️ O "fi"/"meus fi" é a **marca dele**. O nosso personagem precisa de um bordão PRÓPRIO pra chamar o espectador.
 - **Apelido do ajudante:** usado em toda bronca ("Danado, sai daí", "Larga meu torresmo rapaz!").
 - **Sotaque escrito na fala:** "ceis", "num", "mermo", "óia", "vermeio", "juei", "fusga", "capê", "costila".
 - **Dica de mestre com opinião forte:** "Sem pozinho." / "Alho nunca é demais." / "Pedaço pequeno desmancha tudo."

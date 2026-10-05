@@ -76,7 +76,7 @@ Regras de ouro:
 
 | Conteúdo | Símbolo | Exemplo |
 |---|---|---|
-| Fala | `{ }` | `{Óia isso, meus fi!}` |
+| Fala | `{ }` | `{Óia isso, rapaz!}` |
 | Efeito sonoro | `< >` | `<a raiz estala e solta>` |
 | Música | `( )` | `(violão caipira ao fundo)`; nós não usamos música |
 | Legenda | `【 】` | não usamos |

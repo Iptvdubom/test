@@ -13,7 +13,7 @@
 - **Personalidade em 3 palavras:** (a base é sempre BRINCALHÃO e RISONHO; ex.: brincalhão, desastrado, coração mole)
 - **Jeito de rir:** (ex.: gargalhada grave com a cabeça pra trás; risadinha pelo nariz)
 - **Sotaque / jeito de falar:** (ex.: caipira mineiro, nordestino, gaúcho, carioca de morro...)
-- **Bordões (3 a 5):** (ex.: "meus fi", "rapaz", "ó", "viu")
+- **Bordões (3 a 5):** (precisa ser PRÓPRIO, não copie o do personagem de referência)
 - **Como chama o ajudante quando dá bronca:**
 - **Mania ou traço marcante:** (ex.: sempre experimenta a comida antes da hora; tem medo de altura)
 - **Nicho principal:** (receitas / aventuras / obras / misto)
