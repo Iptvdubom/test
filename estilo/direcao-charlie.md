@@ -235,3 +235,11 @@ Exemplo: *The overall emotion shifts from confident to sheepish amusement. After
 - **Nenhuma explicação.** O contexto vem a partir dos 3–8 s.
 
 **Teste do gancho:** se alguém visse só os 3 primeiros segundos sem som, ia querer ver o resto? Se não, o gancho não serve.
+
+---
+
+## 19. Neutralidade política
+
+- **Sem cores com cara de partido** em objetos pintados, roupas novas ou destaques: evite **vermelho** e a combinação **verde-amarelo**. (A camisa oficial do Charlie, azul com flores, não muda.) Prefira tons naturais: azul-escuro de jenipapo, branco de tabatinga, preto de carvão, marrom de barro, cor natural da madeira.
+- **Sem números, gestos, frases ou símbolos** que lembrem campanha, candidato ou partido (ex.: "13", "22", "L" com a mão, "mito").
+- Isso vale principalmente em época de eleição, mas é bom manter sempre: comentário político afasta metade do público.

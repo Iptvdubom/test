@@ -160,5 +160,5 @@
 
 ### 20. Carrinho de mão turbinado
 - **Gancho (0–3 s):** Charlie desce o morro dentro de um carrinho de mão velho → a roda solta e passa voando por ele → ele vai deslizando de bunda na terra → *"Ô, ô, ô!"* e depois gargalha.
-- **Acontecimentos:** volta ao começo: acha o carrinho velho e enferrujado no mato → reforma (roda nova feita de tronco, bancada de bambu, alça de cipó) → "pintura" com urucum → hora da verdade na descida.
+- **Acontecimentos:** volta ao começo: acha o carrinho velho e enferrujado no mato → reforma (roda nova feita de tronco, bancada de bambu, alça de cipó) → "pintura" com jenipapo → hora da verdade na descida.
 - **Final:** desce perfeito, para do lado do bode e diz: *"Saiu de fábrica, rapaz."*

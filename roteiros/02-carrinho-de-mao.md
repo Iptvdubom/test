@@ -7,7 +7,7 @@
 
 ## 1. Conceito
 
-Charlie achou um carrinho de mão velho jogado no mato e resolveu usar de "carro" pra descer o morro. O vídeo **abre com a primeira descida dando errado**: a roda solta e sai voando, e ele desce de bunda na terra. A partir daí ele reforma o carrinho inteiro com material da mata (roda de tronco, banco de palha, pintura de urucum) e faz a descida de novo. Só que ele esqueceu do freio.
+Charlie achou um carrinho de mão velho jogado no mato e resolveu usar de "carro" pra descer o morro. O vídeo **abre com a primeira descida dando errado**: a roda solta e sai voando, e ele desce de bunda na terra. A partir daí ele reforma o carrinho inteiro com material da mata (roda de tronco, banco de palha, pintura de jenipapo) e faz a descida de novo. Só que ele esqueceu do freio.
 
 **Por que funciona:** o gancho já é a trapalhada maior; a reforma tem o "antes e depois" que prende; tem paródia de carro de luxo ("saiu de fábrica"); a hora da verdade tem tensão de verdade (o freio); e no final o bode fica parado no caminho.
 
@@ -38,13 +38,13 @@ Ele passa banha no eixo, tirada de um pote de barro, e encaixa a roda nova no ca
 > *"Roda de pneu fura. Roda de tronco num fura."*
 
 **Bloco 4 · A pintura e o banco** *(câmera apoiada → selfie)*
-Ele amassa sementes de urucum numa cuia e pinta a caçamba de vermelho com a mão aberta, cantarolando baixinho (sem fala, só um "hum-hum"). Encaixa um banco de palha trançada com encosto de bambu. Ao coçar o rosto, deixa uma faixa vermelha na bochecha sem perceber.
+Ele amassa jenipapo numa cuia e pinta a caçamba de azul-escuro, quase preto, com a mão aberta, cantarolando baixinho (sem fala, só um "hum-hum"). Encaixa um banco de palha trançada com encosto de bambu. Ao coçar o rosto, deixa uma faixa azul-escura na bochecha sem perceber.
 
-O Juvêncio se esfrega na caçamba molhada e sai com uma listra vermelha no lombo. Charlie vê, aponta, e solta uma risadinha que vira uma risada média.
+O Juvêncio se esfrega na caçamba molhada e sai com uma listra azul-escura no lombo. Charlie vê, aponta, e solta uma risadinha que vira uma risada média.
 > *"Agora cê é da equipe, rapaz."*
 
-Ele pega a câmera (selfie), com a faixa vermelha no rosto, e mostra o carrinho pronto, brilhando de vermelho ao sol.
-> *"Banco de palha, roda de tronco... vermelho de fábrica."*
+Ele pega a câmera (selfie), com a faixa azul-escura no rosto, e mostra o carrinho pronto, brilhando ao sol.
+> *"Banco de palha, roda de tronco... pintura de fábrica."*
 
 **Bloco 5 · A hora da verdade** *(selfie)*
 No alto do morro, ao lado do carrinho reformado, ele olha a descida, depois o carrinho. Para. A expressão muda devagar. Ele olha pra câmera, sobrancelhas subindo.
@@ -63,8 +63,8 @@ O carrinho desce o morro cada vez mais rápido, com a roda de tronco batendo nas
 No pé do morro, o Juvêncio está parado bem no meio da trilha, mastigando. Charlie arrasta os pés na terra pra frear, levantando poeira, e o carrinho para **a um palmo do bode**. O bode nem pisca, continua mastigando. Silêncio de um segundo. Charlie explode na **gargalhada grande** do vídeo, com a cabeça pra trás e limpando o olho.
 > *"Saiu de fábrica, rapaz!"*
 
-Ele vira a câmera pra si, ainda rindo, com a faixa vermelha no rosto e poeira no pelo:
-> *"Marca quem ia na garupa."*
+Ele vira a câmera pra si, ainda rindo, com a faixa azul-escura no rosto e poeira no pelo:
+> *"Marca aí quem desceria o barranco contigo nessa máquina."*
 
 E tapa a lente com a mão.
 
@@ -83,7 +83,7 @@ E tapa a lente com a mão.
 | 1 | Gancho: a roda solta → desce de bunda → gargalhada → a roda some no mato | **25 s** | selfie contínua | @CHARLIE · @MORRO · @CARRINHO_VELHO |
 | 2 | Acha a roda → diagnóstico → o bode morde o pneu | **25 s** | selfie | @CHARLIE · @CARRINHO_VELHO · @BODE |
 | 3 | Serra a rodela → ela foge → eixo e banha → encaixa | **25 s** | apoiada | @CHARLIE · @CARRINHO_VELHO |
-| 4 | Pinta com urucum → banco de palha → bode listrado → mostra pronto | **25 s** | apoiada → selfie | @CHARLIE · @CARRINHO_NOVO · @BODE |
+| 4 | Pinta com jenipapo → banco de palha → bode listrado → mostra pronto | **25 s** | apoiada → selfie | @CHARLIE · @CARRINHO_NOVO · @BODE |
 | 5 | Alto do morro → "freio eu num fiz não" → impulso | **25 s** | selfie | @CHARLIE · @MORRO · @CARRINHO_NOVO |
 | 6 | Descida → berro → para a um palmo do bode → gargalhada → chamada pra marcar → mão na lente | **25 s** | selfie contínua | @CHARLIE · @MORRO · @CARRINHO_NOVO · @BODE |
 
@@ -100,5 +100,5 @@ E tapa a lente com a mão.
 ### Imagens de referência que vamos precisar
 - **@MORRO:** a trilha de terra descendo o morro na clareira (aparece nos blocos 1, 5 e 6).
 - **@CARRINHO_VELHO:** o carrinho de mão velho, enferrujado, com pneu murcho.
-- **@CARRINHO_NOVO:** o carrinho reformado (caçamba vermelha de urucum, roda de tronco, banco de palha com encosto de bambu).
+- **@CARRINHO_NOVO:** o carrinho reformado (caçamba azul-escura de jenipapo, roda de tronco, banco de palha com encosto de bambu).
 - **@BODE:** o mesmo Juvêncio de sempre.
