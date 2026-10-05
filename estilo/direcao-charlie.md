@@ -198,3 +198,22 @@ Exemplo: *The overall emotion shifts from confident to sheepish amusement. After
 - **Voz (opcional, mas ajuda muito):** um áudio de 5 a 10 s do Charlie falando normal, como referência só de timbre.
 - **Gere 2 versões do bloco e fique com a melhor.** A atuação varia entre gerações.
 - **Uma fala saiu sem graça?** Use a **edição** do Seedance 2.5 pra refazer só aquele trecho (ex.: "Edit @Video1: only from 4-7 seconds, Charlie says the line laughing warmly; keep everything else unchanged").
+
+---
+
+## 17. O que já foi CONFIRMADO nos testes (Teste 01 — banana do Juvêncio)
+
+**Funciona muito bem (manter):**
+- Só a imagem do Charlie + a do bode, **sem vídeo de referência**: personagens idênticos e simpatia 10/10.
+- O bloco fixo de performance (seção 16-A) + sotaque rural leve: falas corretas e naturais.
+- Uma selfie contínua de 30 s sem cortes: a câmera respeitou.
+- Uma emoção que **cresce até o clímax** (espanto → riso → gargalhada falando → limpa o olho).
+- Susto físico forte (boca em O, sobrancelhas, ofegante, mão no peito).
+
+**Não funcionou (corrigir assim):**
+- **Objeto com estado ambíguo** ("casca pendurada") → descreva um estado simples e visível.
+- **Movimento perto da câmera** ("swings his head up to the lens") virou cabeçada → diga a distância e que não encosta.
+- **Várias risadas no mesmo momento** viram uma só → **uma risada por gatilho**.
+- **Grito** pedido como "shouted" virou suspiro ofegante → peça `shouts loudly, a real startled yell`.
+- **Som de bicho** descrito só na ação não saiu → coloque também no 【Sound】 como efeito `< >`.
+- **Desconfiança** com "side-look" + boca torcida ficou estranha → `playfully suspicious, squinting with a half-smile`.

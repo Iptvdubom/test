@@ -103,3 +103,15 @@ Com essas respostas, a gente descobre que expressões o Seedance faz bem sozinho
 3. **Várias risadas no mesmo momento (giggle → risada média) viram uma só.** → Uma risada por gatilho. Se quiser duas, crie dois gatilhos.
 4. **Grito "AAAI!" virou "oh oh oh".** → Pra ter grito, peça explicitamente: "shouts loudly, a real startled yell".
 5. **Expressão que cresce até o clímax funciona muito bem** (momento 4).
+
+### Complemento do usuário
+- ✅ As 4 falas saíram corretas, com sotaque e frases bons.
+- ✅ Selfie o tempo todo, sem cortes nem distorção.
+- ✅ Charlie e bode idênticos às referências (o sininho apareceu e tocou uma vez).
+- ✅ Naturalidade e simpatia **10/10**, no mesmo nível dos melhores testes no ChatGPT, **sem vídeo de referência**.
+- ❌ **O bode ficou mudo o tempo todo.** O berro não saiu.
+- ⚠️ A encarada do momento 1 ficou um pouco estranha.
+
+### Lições extras
+6. **Som de bicho precisa estar no 【Sound】 como efeito**, e não só descrito no evento: `<a loud, sudden goat bleat right next to the camera>`. Descrever o som só como ação ("lets out a vocalization") não garante que ele saia.
+7. **Desconfiança brincalhona e não hostil:** "suspicious side-look" + "twists his mouth" gerou uma encarada estranha. Prefira `playfully suspicious, squinting with a half-smile`.
