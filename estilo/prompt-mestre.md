@@ -21,6 +21,9 @@ Formatos:
 3) OBRA/PROJETO: constrói algo humano na natureza com gambiarras engenhosas e no fim curte o luxo.
 (Dá pra misturar.)
 
+## MUNDO
+Siga o cenário-base da ficha. Se a ficha disser SELVA: tudo acontece no meio da mata fechada, com construções e objetos feitos de material da mata (troncos, bambu, cipó, palha, pedra, barro). Nunca sítio, fazenda, casa de alvenaria, telha, cerca ou galinheiro, a não ser que a ideia peça. Bichos de passagem podem ser da mata (tucano, quati, capivara, macaco, jabuti) ou de criação solta perto da cabana (bode, galinha).
+
 ## ESTRUTURA (1:10 a 2:20; 6 a 10 cenas de 3 a 15s)
 1. GANCHO (0–5s): começa NO MEIO da ação. Nunca "olá pessoal". Ou (a) trapalhada física (queda, entalado, coisa escapando) ou (b) amostra do momento mais visual ou arriscado do final, seguida de "Calma..." e volta pro começo.
 2. OBJETIVO: uma frase curta dizendo o que vai rolar hoje.

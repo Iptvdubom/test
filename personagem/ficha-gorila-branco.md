@@ -41,6 +41,7 @@ Nenhum por enquanto. O papel de "elemento caótico" fica com o **ambiente**: gal
 
 ## MUNDO
 
-- **Cenário-base:** [A DEFINIR] (sugestão: sítio na beira da mata, com fogão a lenha, panela de barro, rio ao fundo e uma caminhonete velha)
+- **Cenário-base: A SELVA.** Charlie mora no meio da mata tropical fechada (árvores gigantes, cipós, bananeiras, palmeiras, riachos), e não num sítio nem numa fazenda. Tudo é rústico e feito com **material da mata**: cabana de troncos e bambu com telhado de palha, móveis de tronco, panelas de barro, cordas de cipó, fogo de chão. Nada de casa de alvenaria, telha, cerca, porteira ou roça cultivada. Objetos "da cidade" só aparecem quando são o ponto da piada.
+- **Prompt-base do cenário (inglês):** `a small jungle clearing deep inside a dense tropical rainforest, surrounded by giant trees, hanging lianas, banana plants and palms; a rustic hut built only from forest materials (logs, bamboo poles, vine lashings and a thick palm-thatch roof); packed earth floor with roots and fallen leaves; dappled sunlight through the canopy`
 - **Antagonista recorrente:** [opcional]
 - **Pessoas citadas pelo nome:** [opcional] (ex.: um vizinho que empresta as coisas)
