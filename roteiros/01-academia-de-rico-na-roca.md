@@ -48,7 +48,7 @@
 
 | Bloco | Tempo | Cenas | Tipo |
 |---|---|---|---|
-| 1 | 0:00–0:27 | 1, 2, 3 | Geração |
-| 2 | 0:27–0:58 (31 s → cortar 1 s) | 4, 5, 6 | Geração |
-| 3 | 0:58–1:19 | 7, 8 | Geração (começa com corte pro plano lateral) |
-| 4 | 1:19–1:43 | 9, 10 | Geração |
+| 1 | 0:00–0:27 (27 s) | 1, 2, 3 | Geração |
+| 2 | 0:27–0:50 (23 s) | 4, 5 | Geração |
+| 3 | 0:50–1:19 (29 s) | 6, 7, 8 | Geração (a hora da verdade e o clímax ficam juntos, sem emenda) |
+| 4 | 1:19–1:43 (24 s) | 9, 10 | Geração |
