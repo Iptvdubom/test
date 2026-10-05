@@ -18,7 +18,7 @@ A câmera está apoiada num toco, de lado. Charlie já está deitado no banco de
 > *"Rapaz... eu mesmo que fiz isso aqui."*
 
 Ele rola o tronco pro lado, com esforço, e o tronco cai no chão com um baque. Ele senta, pega a câmera (vira selfie), ainda ofegante e sorrindo.
-> *"Supino de tronco... num foi minha melhor ideia não."*
+> *"Supino de pedra... num foi minha melhor ideia não."*
 
 **Bloco 2 · Halter de coco**
 Selfie. Charlie segura com orgulho o halter (um bambu curto com um coco amarrado em cada ponta) e faz uma rosca, sorrindo. O cipó do coco da direita arrebenta, e o coco cai bem em cima do pé dele.

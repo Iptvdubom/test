@@ -6,7 +6,7 @@
 |---|---|---|
 | `@CHARLIE` | `personagem/referencias/gorila-branco-1080p.jpg` | 1ª |
 | `@CENA` | a clareira vazia (prompt abaixo) | 2ª |
-| `@EQUIPAMENTOS` | os 3 aparelhos separados (prompt abaixo) | 3ª |
+| `@EQUIPAMENTOS` | `personagem/referencias/academia-equipamentos.jpg` (aprovada) | 3ª |
 | `@BODE` | o Seu Juvêncio (o mesmo do teste 01) | 4ª |
 
 Suba só as referências que o bloco usa, nesta ordem. Configuração de todos os blocos: **9:16 · áudio ligado · 1080p**.
@@ -45,15 +45,15 @@ The three devices do not touch each other. Realistic textures of bark, bamboo, v
 
 ```
 【Generation Goal】
-Generate one continuous, funny smartphone-vlog clip that starts in the middle of the action: Charlie, a huge albino gorilla who lives in the Brazilian jungle, is pinned under his homemade log barbell, cannot lift it at all, laughs at himself, rolls it off and picks up the camera. Audio policy: only Charlie's spoken lines, his non-speech breathing, effort sounds and laughter, the described sound effects and natural rainforest ambience; no music, BGM, score, instrumental, melody, soundtrack, synth or ambient pad at any moment.
+Generate one continuous, funny smartphone-vlog clip that starts in the middle of the action: Charlie, a huge albino gorilla who lives in the Brazilian jungle, is pinned under his homemade stone barbell, cannot lift it at all, laughs at himself, rolls it off and picks up the camera. Audio policy: only Charlie's spoken lines, his non-speech breathing, effort sounds and laughter, the described sound effects and natural rainforest ambience; no music, BGM, score, instrumental, melody, soundtrack, synth or ambient pad at any moment.
 
 【Reference Asset Roles】
 Use @CHARLIE only for Charlie's facial structure, eyes, fur, body proportions and shirt; do not copy its facial expression, pose, gaze direction, emotional state or background.
 Use @CENA as structural visual continuity reference for the jungle clearing and the thatched hut. Preserve environment geometry and object identity. Do not copy its exact camera angle or composition.
-Use @EQUIPAMENTOS only for the exact design of the bench-press set (the top item: split-log bench and peeled-log barbell with one mossy stone tied to each end); ignore the other devices in that image and do not copy its background or camera angle.
+Use @EQUIPAMENTOS only for the exact design of the bench-press set (the top item: split-log bench on two stumps and a thick bamboo barbell with one big mossy stone tied with vine rope to each end); ignore the other devices in that image and do not copy its background or camera angle.
 
 【Subjects and Relationships】
-Charlie is the only character. He is a huge, photorealistic albino gorilla with dense cream-ivory fur, pinkish-beige facial skin and pale blue-gray eyes, wearing his faded open blue tropical button-up shirt with coral-red and orange flowers, small yellow-beige flowers and olive-beige leaves, short sleeves, one chest pocket, always open over his chest. There is exactly one log barbell with exactly one stone on each end. The bench stands in the clearing in front of the hut.
+Charlie is the only character. He is a huge, photorealistic albino gorilla with dense cream-ivory fur, pinkish-beige facial skin and pale blue-gray eyes, wearing his faded open blue tropical button-up shirt with coral-red and orange flowers, small yellow-beige flowers and olive-beige leaves, short sleeves, one chest pocket, always open over his chest. There is exactly one barbell: a thick bamboo pole with exactly one big mossy stone on each end; it is very heavy. The bench stands in the clearing in front of the hut.
 
 【Charlie's Performance】
 Charlie is warm, cheerful and easygoing, genuinely enjoying his day. He talks to the lens like a close friend he is sharing his day with. His face is always alive between lines: brows lift and knit, eyes squint with amusement, lips press and curl, cheeks rise into a smile, breathing shows in his chest and shoulders. Emotions carry over and change gradually instead of resetting to neutral. He reacts first with his body and face, then speaks a beat later. He is not performing; he is just living his day while recording it.
@@ -62,17 +62,17 @@ Charlie is warm, cheerful and easygoing, genuinely enjoying his day. He talks to
 For the first part, the camera is resting on a tree stump next to the bench: a static, low side view that shows Charlie's whole body on the bench. When he sits up and reaches for it, he picks it up and the shot becomes a handheld selfie for the rest of the clip. One continuous take, no cuts and no other angles. Normal rectilinear smartphone perspective, natural proportions, no fisheye, no ultra-wide distortion, no cinematic look.
 
 【Event Script】
-0-9 seconds: Charlie lies on his back on the split-log bench, both hands gripping the log barbell that rests across his chest. He pushes with all his strength, arms trembling and face tense, with genuine NON-SPEECH effort grunts, but the log does not rise at all; it stays pressed on his chest the whole time. He stops, lets his head fall back onto the bench and stares at the log for a moment, processing, then a quiet, embarrassed breathy chuckle escapes through his nose.
+0-9 seconds: Charlie lies on his back on the split-log bench, both hands gripping the heavy stone barbell that rests across his chest. He pushes with all his strength, arms trembling and face tense, with genuine NON-SPEECH effort grunts, but the barbell does not rise at all; it stays pressed on his chest the whole time. He stops, lets his head fall back onto the bench and stares at the barbell for a moment, processing, then a quiet, embarrassed breathy chuckle escapes through his nose.
 Charlie says in Brazilian Portuguese with a light, natural rural countryside accent, half-laughing at himself: {Rapaz... eu mesmo que fiz isso aqui.}
 
-9-15 seconds: With a long strained exhalation, he shifts his weight and rolls the log sideways off his chest; it drops onto the earth beside the bench with a heavy thud and rolls a little before stopping. He sits up on the bench, breathing hard, still smiling.
+9-15 seconds: With a long strained exhalation, he shifts his weight and rolls the barbell sideways off his chest; it drops onto the earth beside the bench with a heavy thud and the stones roll it a little before it stops. He sits up on the bench, breathing hard, still smiling.
 
-15-24 seconds: He reaches toward the camera and picks it up; the shot becomes a handheld selfie close on his face, a little dirt on his fur and shirt, chest still heaving. He glances down at the log on the ground, then back at the lens, shaking his head with a sheepish grin.
-Charlie says in Brazilian Portuguese with a light, natural rural countryside accent, amused and catching his breath: {Supino de tronco... num foi minha melhor ideia não.}
-At the end, Charlie sits on the bench in selfie, grinning, with the log lying on the ground beside the bench.
+15-24 seconds: He reaches toward the camera and picks it up; the shot becomes a handheld selfie close on his face, a little dirt on his fur and shirt, chest still heaving. He glances down at the barbell on the ground, then back at the lens, shaking his head with a sheepish grin.
+Charlie says in Brazilian Portuguese with a light, natural rural countryside accent, amused and catching his breath: {Supino de pedra... num foi minha melhor ideia não.}
+At the end, Charlie sits on the bench in selfie, grinning, with the barbell lying on the ground beside the bench.
 
 【Sound】
-<heavy log thudding onto the earth>, <bench creaking>, <log rolling on dirt>. Ambience: rainforest birds, insects and a light breeze in the leaves. Only Charlie speaks. No subtitles, captions or on-screen text.
+<heavy stones thudding onto the earth>, <bench creaking>, <stones rolling on dirt>. Ambience: rainforest birds, insects and a light breeze in the leaves. Only Charlie speaks. No subtitles, captions or on-screen text.
 
 【Maintain Consistency】
 Keep Charlie's face, fur, eye color and shirt identical to @CHARLIE throughout; his eyes stay normal and natural and never glow. Charlie is one single gorilla, never duplicated, and stays unhurt. Keep the exact same bench-press design from @EQUIPAMENTOS. No music, BGM or score; no subtitles.
@@ -179,7 +179,7 @@ Generate one continuous smartphone-vlog clip in which Charlie, a huge albino gor
 【Reference Asset Roles】
 Use @CHARLIE only for Charlie's facial structure, eyes, fur, body proportions and shirt; do not copy its facial expression, pose, gaze direction, emotional state or background.
 Use @CENA as structural visual continuity reference for the jungle clearing, the earth slope and the mound of dry golden hay at its bottom. Preserve environment geometry and object identity. Do not copy its exact camera angle or composition.
-Use @EQUIPAMENTOS only for the exact design of the bamboo-roller treadmill (the bottom item: about twenty pale bamboo rollers across a narrow frame of two long logs tied with vines); ignore the other devices in that image and do not copy its background or camera angle.
+Use @EQUIPAMENTOS only for the exact design of the bamboo-roller treadmill (the bottom item: about twenty pale bamboo rollers across a narrow frame of two long logs tied with vines; the rollers turn freely inside the frame); ignore the other devices in that image and do not copy its background or camera angle.
 
 【Subjects and Relationships】
 Charlie is the only character. He is a huge, photorealistic albino gorilla with dense cream-ivory fur, pinkish-beige facial skin and pale blue-gray eyes, wearing his faded open blue tropical button-up shirt with coral-red and orange flowers, small yellow-beige flowers and olive-beige leaves, short sleeves, one chest pocket, always open over his chest. There is exactly one treadmill: it lies along the earth slope, starting at the top edge of the clearing and ending right at the mound of hay at the bottom of the slope.
