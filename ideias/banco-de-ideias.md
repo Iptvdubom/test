@@ -69,3 +69,48 @@
 - **Hora da verdade:** "Se o cipó arrebentar, eu viro passarinho..." → aguentou.
 - **Reviravolta:** com ele no topo, o burro larga a manivela e vai comer capim. Ele fica preso lá em cima até a noite: "Pelo menos a vista é bonita."
 - **CTA:** "Marca quem você deixaria lá em cima."
+
+---
+
+## Novas ideias (direção v2: começa no meio da ação, 2:20+)
+
+| # | Ideia | Tempo | Potencial | Status |
+|---|---|---|---|---|
+| 9 | Pipoca sem tampa | 2:20–2:35 | Muito alto | 💡 |
+| 10 | Dia de lavar a camisa | 2:30–2:50 | Muito alto | 💡 |
+| 11 | A rede nova | 2:20–2:35 | Alto | 💡 |
+| 12 | Ar-condicionado da selva | 2:35–2:55 | Muito alto | 💡 |
+| 13 | A melancia fugitiva | 2:40–3:00 | Muito alto | 💡 |
+| 14 | Quem tá comendo os ovos? | 2:45–3:10 | Alto | 💡 |
+
+### 9. Pipoca sem tampa
+- **Começa com:** pipoca estourando pra todo lado na panela de ferro, na fogueira, e a tampa de folha de bananeira voando.
+- **Acontecimentos:** tenta tampar com a mão e a pipoca pula na cara → improvisa a tampa com o chapéu de palha, que também voa → as galinhas descobrem e cercam a fogueira → ele "negocia" com elas → senta no chão comendo pipoca, cercado de galinhas.
+- **Final:** "Pipoca de cinema vem no saquinho. A minha vem com plateia."
+
+### 10. Dia de lavar a camisa
+- **Começa com:** Charlie sem camisa, esfregando a camisa havaiana numa pedra do córrego, todo cuidadoso.
+- **Acontecimentos:** pendura no varal de cipó → uma ventania leva a camisa pro alto de uma árvore → tenta pegar com uma vara, depois sobe → o galho balança → consegue → desce escorregando e cai sentado na lama → a camisa está limpa e ele está imundo.
+- **Final:** veste a camisa ainda molhada, todo orgulhoso: "Sem ela eu num sou ninguém."
+- **Por que funciona:** a camisa é a marca do personagem. Episódio de "identidade", que fideliza o público.
+
+### 11. A rede nova
+- **Começa com:** Charlie terminando de amarrar uma rede de cipó entre duas árvores.
+- **Acontecimentos:** deita, o nó escorrega e ele cai de costas → reforça o nó → deita de novo e a rede vira 360° com ele dentro → na terceira, dá certo → relaxa → o bode deita embaixo da rede, à sombra.
+- **Final:** o cochilo. A rede range... e aguenta. "Agora sim."
+
+### 12. Ar-condicionado da selva
+- **Começa com:** Charlie derretendo de calor, abanando com uma folha, com a língua de fora.
+- **Acontecimentos:** monta um ventilador gigante de folhas de palmeira numa roda movida pelo córrego → hora da verdade: "Se girar rápido demais, eu saio voando..." → gira rápido demais e o vento derruba ele da cadeira, leva o chapéu e assusta as galinhas → ele ajusta → brisa perfeita.
+- **Final:** deitado na frente do ventilador, de olhos fechados: "Ar-condicionado de rico paga luz. O meu paga em banana."
+
+### 13. A melancia fugitiva
+- **Começa com:** Charlie tentando segurar uma melancia gigante que escapa morro abaixo.
+- **Acontecimentos:** corre atrás → escorrega → a melancia passa pelo bode, que pula → cai no córrego e sai boiando → ele entra na água → resgata a melancia → abre na margem.
+- **Final:** come a melancia com o rosto todo vermelho e molhado: "Correu tanto que já veio gelada."
+
+### 14. Quem tá comendo os ovos?
+- **Começa com:** Charlie olhando o ninho vazio no galinheiro, com cara de detetive.
+- **Acontecimentos:** interroga os "suspeitos" (o bode, o pato), que ignoram ele → arma uma tocaia escondido atrás da moita, sussurrando → leva um susto com um barulho → descobre que a galinha está botando os ovos escondida dentro do chapéu de palha dele.
+- **Final:** "Esse tempo todo... no meu chapéu."
+- **Por que funciona:** formato de mistério, que prende até o fim e pode virar série ("Charlie investiga").
