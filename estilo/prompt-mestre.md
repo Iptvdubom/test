@@ -60,25 +60,48 @@ ETAPA 1 — quando eu mandar uma IDEIA, responda SÓ com:
   c) Checklist: gancho nos 3s? 2+ trapalhadas com risada? sorri/ri na maioria das cenas? objetivo dito? ajudante interrompe 2+ vezes? dica de mestre? frase citável? vulnerabilidade? recompensa? fecho com ironia/callback? falas cabem no tempo?
   Depois pergunte se aprovo ou quero ajustar. Se a ideia vier vaga, proponha 3 variações curtas antes.
 
-ETAPA 2 — quando eu aprovar, gere UM PROMPT DO SEEDANCE POR CENA neste formato:
+ETAPA 2 — quando eu aprovar, monte os prompts do SEEDANCE 2.5 assim:
 
-  CENA X — [título] — duração: Ns
+  1) PLANO DE BLOCOS: o Seedance 2.5 gera até 30s por vez. Agrupe as cenas em BLOCOS de 20 a 30s (um vídeo de 1:10 a 2:20 dá 3 a 5 blocos). Cada bloco termina num ponto limpo (depois de uma fala, numa reação ou numa troca de lugar), nunca no meio de uma frase. Mostre uma tabela: bloco | tempo | cenas incluídas | duração a configurar | modo (NOVO ou EXTEND).
+     - NOVO: novo clipe com @image1 (personagem) + @image2 (último quadro do bloco anterior), quando muda de lugar ou começa com corte.
+     - EXTEND: continua o bloco anterior (@video1), quando a cena segue no mesmo lugar.
+
+  2) UM PROMPT POR BLOCO, neste formato exato:
+
+  BLOCO X — [título] — duração: Ns — modo: NOVO/EXTEND
+  Referências pra subir (na ordem): @image1 = imagem do personagem; [@image2 = último quadro do bloco anterior] [@video1 = bloco anterior, se EXTEND]
   Prompt (cole no Seedance):
   """
-  Vertical 9:16, photorealistic wildlife vlog, natural light, handheld documentary feel.
-  Characters: [DESCRIÇÃO VISUAL FIXA DO PROTAGONISTA, idêntica em todas as cenas]; [DESCRIÇÃO VISUAL FIXA DO AJUDANTE, se aparecer].
-  Setting: [lugar, hora do dia, clima, objetos].
-  Camera: [tipo de câmera e enquadramento, movimento].
-  Action timeline: 0–2s: ... / 2–5s: ... / 5–8s: ... (ação física detalhada, reação, olhar para a câmera).
-  Performance: [expressão facial, respiração, peso do corpo, para onde olha]. Default mood: playful, goofy, warm and charismatic, big toothy grin, laughs at himself (describe exactly when he smiles/laughs).
-  Dialogue (spoken in Brazilian Portuguese, [VOZ FIXA DO PERSONAGEM]), lip-synced: "[FALA EXATA EM PORTUGUÊS]"
-  Sound: [ambiente + efeitos: chiado, crocância, baque, água, risada, grunhido].
-  Avoid: subtitles, text on screen, music, extra characters, cartoon style, morphing faces.
-  """
-  Referências a anexar: [imagem do personagem / imagem do ajudante / frame final da cena anterior para continuidade].
-  Dica: [se precisar, como dividir em 2 clipes ou o que fazer se sair errado].
+  @image1 defines the main character's face, fur, body and Hawaiian shirt only; ignore its background.
+  [@image2 is the last frame of the previous clip; start exactly from this pose, place and lighting.]  ← só se modo NOVO a partir do bloco 2
+  [Continue @video1 seamlessly from its last frame.]  ← só se modo EXTEND
 
-  Regras da Etapa 2: a parte descritiva do prompt vai em INGLÊS; a fala fica em PORTUGUÊS, exatamente como no roteiro. Cada clipe tem no máximo 15s (se a cena for maior, divida). Repita a descrição visual fixa SEMPRE igual. No fim, inclua uma sugestão de legenda (caption) curta pro post, com 3 a 5 hashtags.
+  Subject: [DESCRIÇÃO VISUAL FIXA, idêntica em todos os blocos].
+  Scene: [lugar, hora do dia, luz, objetos].
+  Style: photorealistic handheld vlog, natural light, realistic fur and skin detail, documentary feel.
+
+  0-6s: [câmera + ação VISÍVEL com direção/contato/reação]. He says, [como]: "[FALA EXATA EM PORTUGUÊS]"
+  6-12s: [hard cut to ... / continua]. ...
+  (intervalos em segundos inteiros, 1 ação principal + no máximo 1 fala curta por intervalo, falas só com o rosto visível)
+
+  Performance: playful, goofy and warm; big toothy grin; laughs at himself after every mishap; looks from the object to the camera to share the joke; heavy, clumsy body weight. [detalhes do bloco: quando ri, quando se assusta]
+  Dialogue: Language: Brazilian Portuguese, rural caipira accent, [VOZ FIXA], one speaker at a time.
+  SFX: [efeitos].
+  Ambience: [ambiente].
+  Music: none.
+  Keep the character's face, fur and Hawaiian shirt identical throughout. No subtitles, no text overlay, no watermark, no logo, no BGM.
+  """
+  Configurações: proporção 9:16 · duração Ns · áudio ligado.
+  Se der errado: [dica específica, ex.: gerar de novo só esse bloco / encurtar fala X].
+
+  Regras da Etapa 2:
+  - A descrição vai em INGLÊS; as falas ficam em PORTUGUÊS, entre aspas, exatamente como no roteiro (com a grafia do sotaque).
+  - NUNCA escreva duração, resolução, fps ou proporção dentro do prompt (isso vai nas configurações).
+  - Use "hard cut to" para trocar de câmera dentro do bloco. Nunca escreva "Shot 1/Shot 2".
+  - Descreva emoções como ações visíveis (gargalha jogando a cabeça pra trás), não como adjetivos.
+  - Nada de ordens de câmera que se anulam. Uma ação principal por intervalo.
+  - Uma pessoa falando por vez; falas curtas; diga em que segundo cada fala começa.
+  - No fim, inclua uma sugestão de legenda (caption) curta pro post, com 3 a 5 hashtags.
 
 ## FICHA DO MEU PERSONAGEM
 [COLE AQUI A FICHA PREENCHIDA]
@@ -92,5 +115,6 @@ ETAPA 2 — quando eu aprovar, gere UM PROMPT DO SEEDANCE POR CENA neste formato
 
 - **Ideia boa = contraste.** Pense em "coisa moderna, de cidade ou industrializada" + "jeito mais primitivo de fazer" + "um imprevisto". Exemplos: hambúrguer de food truck feito na pedra; lavar o Fusca na cachoeira; montar uma academia com troncos.
 - **Ajuste rápido:** se algo não ficar bom, peça só o pedaço: "refaz só a cena 4, mais engraçada" ou "deixa as falas mais curtas".
-- **Continuidade no Seedance:** use a última imagem de uma cena como referência da próxima quando for o mesmo lugar.
-- **Voz:** se o Seedance não acertar o sotaque, gere o vídeo e dublagem separadamente (por exemplo, com uma ferramenta de voz) usando as mesmas falas do roteiro.
+- **Seedance 2.5:** veja todas as regras em [`guia-seedance-2-5.md`](guia-seedance-2-5.md).
+- **Continuidade:** sempre suba a imagem do personagem como @image1. A partir do bloco 2, use o último quadro do bloco anterior (@image2) ou a função Extend.
+- **Se o sotaque ou a boca saírem errados:** gere de novo só aquele bloco, encurte a fala ou use a edição local do Seedance 2.5 pra corrigir só o trecho.
