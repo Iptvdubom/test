@@ -190,3 +190,15 @@ Throughout the extension, keep the gorilla's identity, face, fur, eye color and 
 ```
 
 **Configurações na tela:** GERAÇÃO → proporção 9:16, duração do bloco, áudio ligado. EXTENSÃO → proporção *adaptive* (travada), duração da extensão, áudio ligado e saída MOV se houver.
+
+
+---
+
+## 10. Lições dos nossos testes
+
+**Teste 1 (Academia, bloco 1 com 27 s e 3 cenas) deu errado:**
+- **A piada virou o contrário:** "pushes the log barbell up" fez ele LEVANTAR a barra. → Escreva o resultado físico sem margem pra dúvida: "the log does not rise at all; it stays pressed on his chest the whole time".
+- **Objetos misturados:** os cocos do halter apareceram na barra do supino. → Um objeto principal por geração, e diga o que NÃO tem: "There are no coconuts in this clip."
+- **Fala embolada** ("academeira", "copacaro"). → Grafia normal (o sotaque vem da instrução), uma fala curta por linha, pausa entre falas, "slowly and clearly", e cuidado com trocadilhos de sons parecidos.
+- **Cenas puladas e ações trocadas:** com 6 acontecimentos em 27 s, o modelo omitiu a cena de amarrar os cocos e o coco no pé. → **Uma cena por geração (8 a 12 s) quando tem trapalhada física.** Junte cenas só quando forem simples (fala andando, plano de paisagem).
+- **Ação de preparação complicada** (amarrar coco no bambu) atrapalha. → Comece a cena com o objeto já pronto.

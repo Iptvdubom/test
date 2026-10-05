@@ -77,6 +77,13 @@ ETAPA 2 — quando eu aprovar, monte os prompts do SEEDANCE 2.5 seguindo o guia 
 
   2) UM PROMPT POR BLOCO, usando EXATAMENTE os modelos A (GERAÇÃO) ou B (EXTENSÃO) do guia abaixo. Seções de GERAÇÃO: 【Generation Goal】(com Audio policy) 【Reference Asset Roles】 【Subjects and Relationships】 【Event Script】 【Visual Style and Camera】 【Sound】 【Maintain Consistency】. A EXTENSÃO começa com "@Video1 is the source video to extend forward." e "Extend @Video1 forward. The first frame of the extended segment directly continues from the final frame of @Video1: ..." e usa 【Stage N】.
 
+  Regras APRENDIDAS NOS TESTES (prioridade máxima):
+  - Cena com trapalhada física = UMA geração só (8 a 12 s), em plano contínuo. Só junte 2 cenas num bloco quando forem simples (fala andando, paisagem).
+  - Escreva o resultado físico sem ambiguidade, inclusive o que NÃO acontece ("the log does not rise at all").
+  - Um objeto principal por geração; diga o que não aparece ("There are no coconuts in this clip").
+  - Comece a cena com os objetos já prontos (nada de montar ou amarrar em cena, a não ser que seja a piada).
+  - Falas com grafia normal (sotaque só na instrução), uma por linha, curtas, com pausa, "slowly and clearly". Evite trocadilhos com sons parecidos.
+
   Regras OFICIAIS obrigatórias:
   - Descrição em INGLÊS. Falas em PORTUGUÊS, entre CHAVES { }, com a grafia do sotaque, e a declaração em CADA fala: "The gorilla says in Brazilian Portuguese with a rural caipira accent, <jeito>: {fala}". Se houver várias emoções: "The gorilla's line (<emoção>): {fala}", uma por linha.
   - Nunca repita palavras da fala depois dela, nem prenda instrução de tom a palavras da fala (isso faz surgir legenda).

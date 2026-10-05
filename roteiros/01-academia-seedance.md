@@ -195,3 +195,9 @@ Keep Charlie's identity, face, fur color, eye color and Hawaiian shirt identical
 
 > Academia de rico cobra caro. A minha cobra suor 💪🦍 Até o Juvêncio quis treinar 😂
 > #charlie #gorila #humor #academia #selva
+
+---
+
+## ⚠️ ATUALIZAÇÃO após o teste do Bloco 1
+
+O Bloco 1 (27 s) saiu errado: o supino deu certo, os cocos foram parar na barra, a fala embolou e o coco não caiu no pé. Ele foi substituído por **3 gerações de uma cena cada**: 1A (8 s), 1B (10 s) e 1C (12 s). Os prompts estão na conversa e as lições estão no guia do Seedance (seção 10). Os blocos 2, 3 e 4 serão refeitos no mesmo esquema depois do teste.
