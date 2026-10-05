@@ -1,7 +1,7 @@
 # Episódio 02 — Carrinho de mão turbinado
 
 > **Status:** ✍️ storytelling aguardando aprovação → depois vêm as imagens de referência e os prompts do Seedance.
-> **Formato:** resgate e reforma · **Duração:** 2:55
+> **Formato:** resgate e reforma · **Duração:** 2:33
 
 ---
 
@@ -9,7 +9,7 @@
 
 Charlie achou um carrinho de mão velho jogado no mato e resolveu usar de "carro" pra descer o morro. O vídeo **abre com a primeira descida dando errado**: a roda solta e sai voando, e ele desce de bunda na terra. A partir daí ele reforma o carrinho inteiro com material da mata (roda de tronco, tinta de jenipapo, banco de palha) e faz a descida de novo. Só que ele esqueceu do freio.
 
-**Por que funciona:** o gancho já é a trapalhada maior; a reforma tem o "antes e depois" que prende e ensina truques de verdade (a tinta de jenipapo); tem paródia de carro de luxo ("saiu de fábrica"); a hora da verdade tem tensão de verdade (o freio); e no final o bode fica parado no caminho.
+**Por que funciona:** o gancho já é a trapalhada maior; a reforma tem o "antes e depois" que prende e ensina truques de verdade (a tinta de jenipapo com carvão); tem paródia de carro de luxo ("saiu de fábrica"); a hora da verdade tem tensão de verdade (o freio); e no final o bode fica parado no caminho.
 
 ---
 
@@ -39,27 +39,21 @@ O bloco **começa no fim do corte**, sem mostrar a serrada inteira: ele dá as �
 Com um **formão e um martelo de madeira**, ele abre um furo no meio da rodela, enfia um eixo de madeira dura e passa banha, tirada de um pote de barro. Encaixa a roda nova no carrinho com força, até fazer *TOC*, e gira com a mão: ela roda lisinha.
 > *"Roda de pneu fura. Roda de tronco num fura."*
 
-**Bloco 4 · A tinta de jenipapo** *(câmera apoiada → selfie)*
-Charlie está sentado com uma cuia no colo, ralando um **jenipapo verde** numa pedra áspera. Espreme a massa num pano e o caldo escorre pra cuia.
-> *"Jenipapo verde, ralado e espremido."*
-
-Ele joga um punhado de **carvão moído** da fogueira na cuia e mexe com o dedo. O caldo fica escuro.
-> *"O caldo sai clarinho... o carvão é pra eu enxergar onde passei."*
-
-Começa a pintar a caçamba com a mão aberta, de azul-escuro quase preto, concentrado e cantarolando baixinho (sem fala). Sem parar de pintar, avisa a câmera, todo sério:
-> *"E isso aqui num sai da pele não, viu. Dura semana."*
+**Bloco 4 · Pintura e o bode listrado** *(câmera apoiada → selfie)*
+O banco de palha trançada com encosto de bambu já está encaixado na caçamba. Charlie está terminando de pintar o carrinho com a mão aberta, molhando a mão numa cuia de tinta escura, de azul-escuro quase preto. Concentrado, ele explica rapidinho pra câmera sem parar de pintar:
+> *"Tinta de jenipapo com carvão."*
+> *"Isso aqui num sai da pele não, viu. Dura semana."*
 
 Ao terminar, ele coça a bochecha com a mão suja e deixa uma faixa escura no rosto, **sem perceber**.
 
-**Bloco 5 · O banco e o bode listrado** *(câmera apoiada → selfie)*
-Ele encaixa um banco de palha trançada com encosto de bambu na caçamba e testa sentando, todo satisfeito. O Juvêncio se esfrega na caçamba ainda molhada e sai com uma **listra escura no lombo**. Charlie vê, aponta e solta uma risadinha que vira uma risada média.
+O Juvêncio se esfrega na caçamba ainda molhada e sai com uma **listra escura no lombo**. Charlie vê, aponta e solta uma risadinha que vira uma risada média.
 > *"Juvêncio! Isso num sai por uma semana, rapaz!"*
 
-Ele pega a câmera (selfie) e mostra o carrinho pronto, escuro e brilhando ao sol, com a roda de tronco e o banco de palha. Só nessa hora ele **vê a própria faixa no rosto** pela tela. Para, encara, e cai na risada.
+Ele pega a câmera (selfie) pra mostrar o carrinho pronto e só nessa hora **vê a própria faixa no rosto** pela tela. Para, encara, e cai na risada.
 > *"...Nem eu escapei."*
 > *"Banco de palha, roda de tronco... pintura de fábrica."*
 
-**Bloco 6 · A hora da verdade** *(selfie)*
+**Bloco 5 · A hora da verdade** *(selfie)*
 No alto do morro, ao lado do carrinho reformado, ele olha a descida, depois o carrinho. Para. A expressão muda devagar. Ele olha pra câmera, sobrancelhas subindo.
 > *"Freio..."*
 > *"Freio eu num fiz não."* (riso nervoso curto)
@@ -69,7 +63,7 @@ Respira fundo, senta no banco de palha e segura a borda.
 
 Ele dá um impulso com o pé e o carrinho começa a andar.
 
-**Bloco 7 · A descida e o final** *(selfie contínua)*
+**Bloco 6 · A descida e o final** *(selfie contínua)*
 O carrinho desce o morro cada vez mais rápido, com a roda de tronco batendo nas pedras e a câmera tremendo. Charlie berra de alegria e medo ao mesmo tempo.
 > *"ÔÔÔÔ!"* (berro de verdade, misturado com risada)
 
@@ -85,7 +79,7 @@ E tapa a lente com a mão.
 
 ## 3. Duração estimada
 
-**2:55** (7 blocos de 25 s). A tinta de jenipapo ganhou um bloco só pra ela, pra explicação não ficar corrida.
+**2:33** (5 blocos de 25 s + o bloco da pintura com 28 s).
 
 ---
 
@@ -96,10 +90,9 @@ E tapa a lente com a mão.
 | 1 | Gancho: a roda solta → desce de bunda → gargalhada → a roda some no mato | **25 s** | selfie contínua | @CHARLIE · @MORRO · @CARRINHO_VELHO |
 | 2 | Acha a roda → diagnóstico → o bode morde o pneu | **25 s** | selfie | @CHARLIE · @CARRINHO_VELHO · @BODE |
 | 3 | Fim da serrada → a rodela foge → formão, eixo e banha → encaixa | **25 s** | apoiada | @CHARLIE · @CARRINHO_VELHO |
-| 4 | Rala o jenipapo → espreme → carvão → pinta → mancha o rosto sem ver | **25 s** | apoiada → selfie | @CHARLIE · @CARRINHO_NOVO |
-| 5 | Banco de palha → bode listrado → vê a própria faixa → mostra pronto | **25 s** | apoiada → selfie | @CHARLIE · @CARRINHO_NOVO · @BODE |
-| 6 | Alto do morro → "freio eu num fiz não" → impulso | **25 s** | selfie | @CHARLIE · @MORRO · @CARRINHO_NOVO |
-| 7 | Descida → berro → para a um palmo do bode → gargalhada → chamada pra marcar → mão na lente | **25 s** | selfie contínua | @CHARLIE · @MORRO · @CARRINHO_NOVO · @BODE |
+| 4 | Pintando ("tinta de jenipapo com carvão") → mancha o rosto sem ver → bode listrado → vê a própria faixa → mostra pronto | **28 s** | apoiada → selfie | @CHARLIE · @CARRINHO_NOVO · @BODE |
+| 5 | Alto do morro → "freio eu num fiz não" → impulso | **25 s** | selfie | @CHARLIE · @MORRO · @CARRINHO_NOVO |
+| 6 | Descida → berro → para a um palmo do bode → gargalhada → chamada pra marcar → mão na lente | **25 s** | selfie contínua | @CHARLIE · @MORRO · @CARRINHO_NOVO · @BODE |
 
 ### Mapa das risadas e expressões (variadas)
 | Bloco | Expressão |
@@ -107,13 +100,12 @@ E tapa a lente com a mão.
 | 1 | grito de susto → processando de boca aberta → **gargalhada sem fôlego nº 1** |
 | 2 | boca franzida avaliando → riso pelo nariz → sobrancelha erguida com meio sorriso |
 | 3 | esforço sem fala → correria → riso pelo nariz → satisfação |
-| 4 | concentração → cantarolando → tom sério de aviso (ironia: ele mesmo se mancha) |
-| 5 | satisfação → risadinha que vira risada média → **choque ao ver o próprio rosto** → risada |
-| 6 | confiança → a expressão muda devagar → riso nervoso → coragem |
-| 7 | berro de alegria e medo → alívio → **gargalhada grande nº 2** → sorriso caloroso |
+| 4 | concentração → tom sério de aviso → risadinha que vira risada média → **choque ao ver o próprio rosto** → risada |
+| 5 | confiança → a expressão muda devagar → riso nervoso → coragem |
+| 6 | berro de alegria e medo → alívio → **gargalhada grande nº 2** → sorriso caloroso |
 
 ### Imagens de referência que vamos precisar
-- **@MORRO:** a trilha de terra descendo o morro na clareira (blocos 1, 6 e 7).
+- **@MORRO:** a trilha de terra descendo o morro na clareira (blocos 1, 5 e 6).
 - **@CARRINHO_VELHO:** o carrinho de mão velho, enferrujado, com pneu murcho.
 - **@CARRINHO_NOVO:** o carrinho reformado (caçamba azul-escura de jenipapo, roda de tronco, banco de palha com encosto de bambu).
 - **@BODE:** o mesmo Juvêncio de sempre.
