@@ -18,7 +18,7 @@
 | 4 | 0:27–0:39 | Plano médio, fixo, embaixo da mangueira | Ele faz barra pendurado num galho grosso. O bode Seu Juvêncio chega por trás e começa a mastigar a barra da camisa havaiana. Charlie balança as pernas pra espantar o bode, sem largar o galho. | "Quem é da roça já fez barra em galho de mangueira." / "Juvêncio! Larga minha camisa, rapaz, essa é de passeio!" | **Interrupção 1:** o bode. Memória da roça. |
 | 5 | 0:39–0:50 | Fixa, plano aberto mostrando a esteira | Ele mostra a esteira: vinte rolos de bambu lado a lado num trilho de madeira, montada num morrinho. Uma galinha atravessa, escorrega nos rolos e sai voando de susto. Ele ri apontando. | "O capricho é a esteira. Vinte rolo de bambu, bem lisinho." / "Óia a galinha testando!" *(risada)* | **Interrupção 2:** a galinha, que antecipa o perigo. Número. |
 | 6 | 0:50–0:58 | Selfie de perto, no topo da esteira | Ele olha a descida, depois a câmera, meio desconfiado, e sobe na esteira. | "Ficou num morrinho, viu... Se ela disparar, eu vou parar no vizinho." / "Bora, turma." | **Hora da verdade:** piada de risco e vulnerabilidade. |
-| 7 | 0:58–1:10 | Fixa, lateral e aberta, mostrando a esteira inteira e o monte de feno no fim | Ele começa a andar, os rolos giram cada vez mais rápido, ele corre com os braços girando e é jogado da ponta da esteira. Voa e cai de costas no monte de feno, que sobe pra todo lado. Um segundo de silêncio. Uma mão sai do feno com o polegar pra cima. | "Calma, calma, calma... Aaaaaah!" / "...Funcionou!" *(gargalhada abafada no feno)* | **Clímax / trapalhada 3.** |
+| 7 | 0:58–1:10 | Fixa, lateral e aberta, mostrando a esteira inteira e o monte de feno no fim | Ele começa a andar, os rolos giram cada vez mais rápido, ele corre com os braços girando e é jogado da ponta da esteira, gargalhando no ar. Cai de costas no monte de feno, que sobe pra todo lado. Ele se levanta do feno com os braços pro alto, comemorando. | *(gargalhada no ar)* "Ahhahahaha!" / "Funcionooou!" | **Clímax / trapalhada 3.** |
 | 8 | 1:10–1:19 | Selfie, ele sentado no feno, cheio de palha no pelo | Tira a palha do pelo enquanto ri e fala com a câmera. | "Esteira de academia vai a dez por hora. A minha vai a quarenta." / "E num gasta energia nenhuma... só a minha." | **Frase-regra** e número exagerado. |
 | 9 | 1:19–1:30 | Fixa, na altura do peito, sentado no banco do supino | Recompensa: ele quebra um dos cocos do halter numa pedra, bebe e come a polpa com os olhos fechados de prazer. | "Treino bom termina com lanche." / "Hum... agora sim." | **Recompensa.** |
 | 10 | 1:30–1:43 | Plano aberto fixo → selfie de perto | Ele vira e vê o bode Seu Juvêncio deitado embaixo do tronco do supino, preso, balindo. Charlie gargalha e aponta. Depois chega perto da câmera e cobre a lente com a mão. | "Agora quem num sobe é ele, rapaz!" *(gargalhada)* / "Marca aquele amigo que paga academia e num vai." | **Espelho** do começo + **chamada pra compartilhar** + mão na lente. |
@@ -33,12 +33,12 @@
 - [x] **Sorri ou ri na maioria das cenas?** Sim (cenas 1, 3, 5, 7, 8, 10, com sorriso nas outras).
 - [x] **Objetivo dito?** Sim, na cena 2.
 - [x] **Ambiente interrompe 2+ vezes?** Sim: bode (2×) e galinha.
-- [x] **Hora da verdade?** "Se ela disparar, eu vou parar no vizinho" → "Funcionou!"
+- [x] **Hora da verdade?** "Se ela disparar, eu vou parar no vizinho" → "Funcionooou!"
 - [x] **Frase-regra?** "Academia de rico cobra caro. A minha cobra suor." e "Esteira de academia vai a dez por hora. A minha vai a quarenta."
 - [x] **Números exagerados?** Cinco quilo, vinte rolo, dez × quarenta por hora.
 - [x] **Material local?** "Bambu, cipó e coco, tudo daqui."
 - [x] **Memória da roça?** "Quem é da roça já fez barra em galho de mangueira."
-- [x] **Vulnerabilidade?** O medo antes da esteira e o "Calma, calma, calma".
+- [x] **Vulnerabilidade?** O medo antes da esteira ("Se ela disparar, eu vou parar no vizinho").
 - [x] **Recompensa?** Come o coco do próprio halter.
 - [x] **Fecho?** Espelho (o bode preso no supino) + chamada pra marcar um amigo.
 - [x] **Sem "fi", sem gírias mineiras, "turma" só uma vez?** Sim.
