@@ -6,6 +6,7 @@ Sistema pra transformar uma **ideia** em **roteiro + prompts do Seedance** no me
 
 | Arquivo | Para que serve |
 |---|---|
+| [`estilo/direcao-charlie.md`](estilo/direcao-charlie.md) | ⭐ **Direção criativa atual do Charlie. Prevalece sobre os outros arquivos.** |
 | [`estilo/guia-de-estilo.md`](estilo/guia-de-estilo.md) | O "DNA" dos vídeos: estrutura, falas, atuação, câmera, humor e checklist. |
 | [`estilo/ficha-personagem.md`](estilo/ficha-personagem.md) | Modelo para criar o seu personagem e o ajudante. |
 | [`estilo/prompt-mestre.md`](estilo/prompt-mestre.md) | Texto pra colar no Claude: você manda a ideia e recebe o roteiro e os prompts. |

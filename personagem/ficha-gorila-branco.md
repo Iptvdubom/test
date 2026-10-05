@@ -1,6 +1,6 @@
 # Ficha do Personagem — Charlie, o Gorila Branco
 
-> Cole esta ficha logo abaixo do prompt-mestre.
+> Cole esta ficha logo abaixo do prompt-mestre. A direção atual está em [`../estilo/direcao-charlie.md`](../estilo/direcao-charlie.md), que prevalece.
 > Imagem de referência: [`referencias/gorila-branco-1080p.jpg`](referencias/gorila-branco-1080p.jpg). É a versão já ajustada pra não passar da resolução de saída, como recomenda o guia oficial. Suba essa imagem no Seedance em TODO bloco como **@Image1**.
 
 ## PROTAGONISTA
@@ -9,10 +9,9 @@
 - **Espécie:** gorila albino (pelo creme/loiro claro, pele rosada, olhos azul-acinzentados), adulto, grande e forte. Sempre usa a mesma camisa havaiana azul, florida e aberta no peito. A camisa é a marca registrada dele.
 - **Personalidade:** igual à do personagem de referência: extremamente brincalhão, risonho, carismático e bonachão. Desastrado (cai, bate a cabeça, escorrega, se suja) e sempre ri de si mesmo. Sabe cozinhar e construir, mas faz tudo do jeito mais engraçado. Tem coração mole e é paizão de quem está por perto. Quando se assusta, confessa o medo e depois ri de alívio.
 - **Jeito de rir:** gargalhada grave e aberta, com a cabeça pra trás depois das trapalhadas; risadinha soprada pelo nariz quando se conforma com algo.
-- **Sotaque / jeito de falar:** caipira do interior. Voz grave e arrastada. Frases curtas, faladas enquanto trabalha. Grafia do sotaque nas falas: "num", "ceis", "mermo", "óia", "vermeio", "juei". **Sem gírias mineiras** ("uai", "sô", "trem", "trem bão").
-- **Bordão:** NENHUM por enquanto (vamos descobrir com o tempo). Nunca usar "fi"/"meus fi" (marca do Sapulha) nem gírias mineiras.
-- **Jeito de chamar o espectador:** de vez em quando "turma" (sem exagerar, no máximo 1 ou 2 vezes por vídeo). No resto, ele fala direto com a câmera, sem vocativo.
-- **Interjeições que pode usar:** "rapaz", "ó", "viu", "eita", "nossa senhora".
+- **Sotaque / jeito de falar:** rural, leve e natural, do interior do Sudeste (caipira/mineiro leve), **sem caricatura**. Ritmo tranquilo. Pode usar "cê/ocê/você" alternando, "num", "pra", "tá", "tô". Evitar "trem bão", "uai sô" e grafia muito fonética ("óia", "vermeio", "mermo").
+- **Bordão:** NENHUM por enquanto. Nunca "fi"/"meus fi"/"danado" (marcas do Sapulha). "Turma" no máximo 1 ou 2 vezes por vídeo.
+- **Interjeições que pode usar:** "Ô!", "Rapaz...", "Opa!", "Eita", "Ai!", "Ah não."
 - **Relação com o público:** trata quem assiste como amigo íntimo. Explica, confidencia, pede pra testemunhar ("óia isso", "vem ver").
 
 **Descrição visual fixa (inglês, para o Seedance):**
@@ -22,12 +21,14 @@ a huge adult albino gorilla with thick cream, pale-blonde fur and a tall blonde 
 
 **Frase da referência (use em todo prompt, na seção 【Reference Asset Roles】):**
 ```
-Use @Image1 for the gorilla's face, cream pale-blonde fur, tall blonde crest, pinkish-beige skin, pale blue-gray eyes, heavy build and faded open navy-blue Hawaiian shirt with red hibiscus flowers; do not use the image background.
+Use @CHARLIE only for Charlie's facial structure, eyes, fur, body proportions and shirt; do not copy its facial expression, pose, gaze direction, emotional state or background.
 ```
+
+**Camisa oficial (nunca muda):** camisa tropical de botão, manga curta, azul jeans desbotado com flores coral/vermelho queimado/laranja, flores menores amarelo-bege, folhas verde-oliva e bege, gola aberta dobrada, um bolso no peito, caimento solto, levemente gasta, sempre aberta na frente.
 
 **Formato de fala (oficial, entre chaves):**
 ```
-The gorilla says in Brazilian Portuguese with a rural caipira accent, laughing: {Óia isso, rapaz!}
+Charlie says in Brazilian Portuguese with a light, natural rural countryside accent, laughing: {Olha isso, rapaz!}
 ```
 
 **Voz (inglês, para o Seedance):**
