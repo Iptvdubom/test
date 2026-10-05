@@ -200,4 +200,87 @@ Keep Charlie's identity, face, fur color, eye color and Hawaiian shirt identical
 
 ## ⚠️ ATUALIZAÇÃO após o teste do Bloco 1
 
-O Bloco 1 (27 s) saiu errado: o supino deu certo, os cocos foram parar na barra, a fala embolou e o coco não caiu no pé. Ele foi substituído por **3 gerações de uma cena cada**: 1A (8 s), 1B (10 s) e 1C (12 s). Os prompts estão na conversa e as lições estão no guia do Seedance (seção 10). Os blocos 2, 3 e 4 serão refeitos no mesmo esquema depois do teste.
+O Bloco 1 (27 s) saiu errado: o supino deu certo, os cocos foram parar na barra, a fala embolou e o coco não caiu no pé. Ele foi substituído por **3 gerações de uma cena cada**: 1A (8 s), 1B (10 s) e 1C (12 s). Os prompts estão logo abaixo e as lições estão no guia do Seedance (seção 10). Os blocos 2, 3 e 4 serão refeitos no mesmo esquema depois do teste.
+
+### 1A · Supino (8 s)
+
+```
+【Generation Goal】
+Generate a short funny clip in which Charlie, a huge albino gorilla who lives in the jungle, tries to bench-press a heavy log barbell and fails completely: the log pins him to the bench and he laughs at himself. Audio policy: only Charlie's spoken lines plus the described sound effects and natural rainforest ambience; no music, BGM, score, instrumental, melody, soundtrack, synth or ambient pad at any moment.
+
+【Reference Asset Roles】
+Charlie corresponds to @CHARLIE; use it for his face, cream pale-blonde fur, tall blonde crest, pinkish-beige skin, pale blue-gray eyes, heavy build and faded open navy-blue Hawaiian shirt with red hibiscus flowers; do not use the image background.
+The jungle clearing corresponds to @CENA; use it only for the clearing, the split-log bench, the log barbell with stones and the late-afternoon light.
+@VIDEOREFERENCIA is used only for the handheld smartphone-vlog camera style; do not use any character, animal, identity, clothing, scene, voice, sound, text or subtitles from it.
+
+【Subjects and Relationships】
+Charlie is the only character. The barbell is one long peeled log with exactly one big round stone tied to each end. There are no coconuts in this clip.
+
+【Event Script】
+0-4 seconds: Low static camera on the ground, side view, one continuous shot. Charlie lies on his back on the split-log bench with the heavy log barbell resting across his chest, both hands gripping it. He pushes with all his strength, his arms shaking, but the log does not rise at all; it stays pressed on his chest the whole time.
+Charlie's line (straining): {Uh! Uh!}
+4-8 seconds: He gives up, lets both arms flop to his sides while still pinned under the log, turns his head to the camera and bursts into a deep belly laugh, showing his teeth.
+Charlie says in Brazilian Portuguese with a rural caipira accent, laughing, slowly and clearly: {Ó, não sobe não, rapaz!}
+At the end, the log is still on his chest and he is still laughing.
+
+【Sound】
+<deep grunts of effort>, <log creaking>. Ambience: rainforest birds, insects and a light breeze. Only Charlie speaks. No subtitles, captions or on-screen text.
+
+【Maintain Consistency】
+Keep Charlie's face, fur, eye color and Hawaiian shirt identical to @CHARLIE; his eyes stay normal and natural and never glow. One single gorilla, never duplicated. No music, BGM or score; no subtitles.
+```
+
+### 1B · Apresentação (10 s)
+
+```
+【Generation Goal】
+Generate a short warm selfie-vlog clip in which Charlie, a huge albino gorilla who lives in the jungle, walks through his jungle clearing and tells the viewer he is going to build his own gym. Audio policy: only Charlie's spoken lines plus natural rainforest ambience; no music, BGM, score, instrumental, melody, soundtrack, synth or ambient pad at any moment.
+
+【Reference Asset Roles】
+Charlie corresponds to @CHARLIE; use it for his face, cream pale-blonde fur, tall blonde crest, pinkish-beige skin, pale blue-gray eyes, heavy build and faded open navy-blue Hawaiian shirt with red hibiscus flowers; do not use the image background.
+The jungle clearing corresponds to @CENA; use it only for the clearing, the palm-thatch hut, the surrounding jungle and the late-afternoon light.
+@VIDEOREFERENCIA is used only for the handheld smartphone-vlog camera style; do not use any character, animal, identity, clothing, scene, voice, sound, text or subtitles from it.
+
+【Event Script】
+One continuous selfie shot: Charlie holds the camera at arm's length himself and walks slowly across the clearing, a little dirt on his shirt, the thatched hut and dense jungle behind him, smiling at the lens. He speaks slowly and clearly, with a short pause between lines.
+0-4 seconds: Charlie says in Brazilian Portuguese with a rural caipira accent, amused: {Academia de rico cobra caro.}
+4-6 seconds: Charlie's line (grinning, pointing at himself): {A minha cobra suor.}
+6-10 seconds: Charlie's line (cheerful): {Hoje eu vou montar a minha aqui no meio do mato.}
+At the end, he winks at the lens.
+
+【Sound】
+<footsteps on dry leaves>. Ambience: rainforest birds, insects and a light breeze. Only Charlie speaks. No subtitles, captions or on-screen text.
+
+【Maintain Consistency】
+Keep Charlie's face, fur, eye color and Hawaiian shirt identical to @CHARLIE; his eyes stay normal and natural and never glow. One single gorilla, never duplicated. No music, BGM or score; no subtitles.
+```
+
+### 1C · Halter de coco (12 s)
+
+```
+【Generation Goal】
+Generate a short funny clip in which Charlie, a huge albino gorilla who lives in the jungle, proudly shows his homemade coconut dumbbell, a coconut falls off onto his foot, and he hops around laughing. Audio policy: only Charlie's spoken lines plus the described sound effects and natural rainforest ambience; no music, BGM, score, instrumental, melody, soundtrack, synth or ambient pad at any moment.
+
+【Reference Asset Roles】
+Charlie corresponds to @CHARLIE; use it for his face, cream pale-blonde fur, tall blonde crest, pinkish-beige skin, pale blue-gray eyes, heavy build and faded open navy-blue Hawaiian shirt with red hibiscus flowers; do not use the image background.
+The jungle clearing corresponds to @CENA; use it only for the clearing, the hut, the surrounding jungle and the late-afternoon light.
+@VIDEOREFERENCIA is used only for the handheld smartphone-vlog camera style; do not use any character, animal, identity, clothing, scene, voice, sound, text or subtitles from it.
+
+【Subjects and Relationships】
+Charlie is the only character. The coconut dumbbell is one short bamboo pole, about half a meter long, with exactly one brown coconut tied with vine to each end. Charlie holds it in his right hand by the middle, like a dumbbell; it never rests on his shoulders.
+
+【Event Script】
+0-6 seconds: Static medium shot at chest height, one continuous shot. Charlie stands in the clearing holding the coconut dumbbell by the middle in his right hand and curls it up toward the camera with a proud grin.
+Charlie says in Brazilian Portuguese with a rural caipira accent, proud, slowly and clearly: {Halter de coco, ó. Bambu, cipó e coco, tudo daqui.}
+6-9 seconds: The vine on the right end snaps; that coconut drops straight down and lands right on top of his bare right foot, clearly visible. He lifts the foot, grabs it with his free hand and hops on his left foot.
+Charlie's line (surprised): {Ai!}
+9-12 seconds: Still hopping, he throws his head back in a big belly laugh, then looks at the camera.
+Charlie's line (laughing): {Esse era o de cinco quilos.}
+At the end, he stands on one foot laughing, holding the bamboo pole with only the left coconut still attached, the fallen coconut on the ground next to his foot.
+
+【Sound】
+<vine snapping>, <coconut thudding on his foot>, <hopping footsteps on dry leaves>. Ambience: rainforest birds, insects and a light breeze. Only Charlie speaks. No subtitles, captions or on-screen text.
+
+【Maintain Consistency】
+Keep Charlie's face, fur, eye color and Hawaiian shirt identical to @CHARLIE; his eyes stay normal and natural and never glow. One single gorilla, never duplicated, and he is unhurt. No music, BGM or score; no subtitles.
+```
