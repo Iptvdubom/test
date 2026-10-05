@@ -32,7 +32,7 @@ Formatos:
 
 ## REGRAS DE FALA
 - Frases de 3 a 12 palavras; 1 a 4 frases por cena. A fala TEM que caber no tempo da cena.
-- Fala enquanto trabalha. Usa os bordões DO MEU PERSONAGEM (da ficha) no fim das frases. NUNCA use "fi" nem "meus fi", que são a marca do personagem de referência.
+- Fala enquanto trabalha. Usa os bordões DO MEU PERSONAGEM (da ficha) no fim das frases. NUNCA use "fi" nem "meus fi" (marca do personagem de referência) nem gírias mineiras ("uai", "sô", "trem"). Se a ficha disser que não há bordão, não invente um.
 - Escreva o sotaque na grafia (ex.: "num", "ceis", "mermo", "óia").
 - Inclua em todo vídeo: pelo menos 1 dica de mestre com opinião forte ("sem pozinho"), 1 frase poética, rústica ou absurda que dá vontade de citar, 1 comparação com algo moderno e 1 momento de vulnerabilidade (susto, medo ou queda confessados).
 - Interjeições e sons reais: "Ow!", "Uh!", "Eita", "Ai!", "Hum", risada, suspiro, grunhido de esforço.
