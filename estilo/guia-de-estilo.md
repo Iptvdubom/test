@@ -2,7 +2,9 @@
 
 Extraído da análise de 5 vídeos de referência (receita da vaca atolada, Doritos artesanal, onça que roubou a picanha, pesca em alto mar e casa na árvore).
 
-> Resumo em uma frase: **um bicho grande, bruto e caipira grava o próprio dia como se fosse um vlogueiro. Ele leva tudo muito a sério, o ajudante pequeno estraga tudo, e no fim ele sempre come ou descansa satisfeito.**
+> Resumo em uma frase: **um bicho grande, desajeitado e caipira grava o próprio dia como se fosse um vlogueiro. Ele é muito brincalhão: ri de tudo, principalmente das próprias trapalhadas, apanha do ambiente, se diverte com o ajudante pequeno e no fim sempre come ou descansa feliz da vida.**
+>
+> **O centro de tudo é o carisma.** O público ama o personagem porque ele é alegre, leve, ri de si mesmo e transforma qualquer desastre em diversão. Ele sabe o que está fazendo (cozinha bem, constrói bem), mas não se leva a sério.
 
 ---
 
@@ -10,13 +12,13 @@ Extraído da análise de 5 vídeos de referência (receita da vaca atolada, Dori
 
 | Papel | Função na história | No original |
 |---|---|---|
-| **Protagonista** | Animal grande e forte, voz grave, sotaque caipira. É competente e orgulhoso, mas vulnerável: cai, se assusta, admite medo. Narra tudo para a câmera. | Orangotango |
+| **Protagonista** | Animal grande e forte, voz grave, sotaque caipira. **Brincalhão, risonho e bonachão.** Cai, bate a cabeça, se suja e se assusta, e quase sempre termina rindo. Sabe fazer as coisas, mas faz do jeito mais engraçado possível. Narra tudo pra câmera como quem conversa com um amigo. | Orangotango |
 | **Ajudante (sidekick)** | Filhote pequeno, fofo e caótico. Rouba comida, se mete em perigo, pisa no protagonista e às vezes salva o dia sem querer. **Não fala.** | Macaquinho branco ("Danado", "Sapulha", "Leiteira") |
 | **Antagonista recorrente** (opcional) | Bicho perigoso que age como gente folgada. | Onça-pintada |
 | **Figurantes de fundo** | Dão vida ao cenário sem roubar a cena. | Capivara com laranja na cabeça |
 | **Pessoas fora de cena** | Citadas pelo nome, dão sensação de mundo real. | Tita (voz em off), Chico (dono do barco) |
 
-**Regra de ouro da relação:** o protagonista dá bronca no ajudante, mas nunca com raiva de verdade. É bronca de pai coruja. O ajudante nunca obedece direito.
+**Regra de ouro da relação:** o protagonista dá bronca no ajudante, mas nunca com raiva de verdade. É bronca de pai coruja, e muitas vezes ele acaba rindo da arte do pequeno. O ajudante nunca obedece direito.
 
 ---
 
@@ -71,6 +73,7 @@ Dá pra misturar os formatos. A pesca, por exemplo, começa como receita e vira 
 
 ## 5. Como ele atua (regras de performance)
 
+0. **Sorriso e risada são o padrão.** Ele sorri de dentes à mostra o tempo todo. Gargalha com a cabeça pra trás depois de cair ou bater em algo, solta risadinha pelo nariz quando é roubado e ri de alívio depois de um susto. Até a bronca no ajudante sai rindo. Meta: **pelo menos 2 risadas audíveis e um sorriso largo em quase toda cena.**
 1. **Triangulação do olhar:** olha o objeto → faz a ação → olha a câmera pra explicar ou buscar cumplicidade → volta pro objeto.
 2. **Cadeia de reação:** acontecimento → reação física imediata (pulo, olho arregalado) → meio segundo de pausa → fala → resolução (riso, suspiro ou conformismo).
 3. **Respiração e esforço audíveis:** ofega no trabalho pesado, prende o ar na tocaia, solta o ar no susto.
@@ -99,7 +102,7 @@ O estilo é **fotorrealista, de documentário/vlog**, com luz natural, vapor e f
 
 ## 7. Mapa do humor (use 3 ou 4 por vídeo)
 
-- **Pastelão:** queda, coco na cabeça, cabo de guerra perdido.
+- **Pastelão + rir de si mesmo (o principal):** cai, bate a cabeça, escorrega, leva coco na cabeça, perde o cabo de guerra, e em seguida **gargalha da própria trapalhada** olhando pra câmera. Coloque pelo menos 2 desses momentos por vídeo.
 - **Contraste bruto x refinado ou moderno:** símio fazendo Doritos, ofurô a 12 m, Fusca na selva.
 - **Inversão de prioridades:** prestes a ser devorado, ele reclama que estão assando o peixe dele.
 - **Ajudante caótico:** rouba, pisa, pula no banho, se mete no perigo.
@@ -127,6 +130,8 @@ O estilo é **fotorrealista, de documentário/vlog**, com luz natural, vapor e f
 - [ ] O ajudante interrompe pelo menos 2 vezes?
 - [ ] Tem pelo menos uma dica de mestre com opinião forte?
 - [ ] Tem uma frase poética ou absurda que dá vontade de citar?
+- [ ] Tem pelo menos 2 trapalhadas físicas (cair, bater, escorregar) seguidas de risada?
+- [ ] Ele está sorrindo ou rindo na maior parte das cenas? O tom geral é alegre e leve?
 - [ ] O protagonista mostra vulnerabilidade (susto, queda ou medo) pelo menos uma vez?
 - [ ] O final tem recompensa (comer ou relaxar) e uma frase irônica ou de callback?
 - [ ] Todas as falas são curtas e dá pra dizer cada uma no tempo da cena?

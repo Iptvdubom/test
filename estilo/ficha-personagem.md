@@ -10,7 +10,8 @@
 
 - **Nome:**
 - **Espécie / tipo:** (precisa ser grande, forte e expressivo; ex.: gorila, urso, capivara gigante, tamanduá...)
-- **Personalidade em 3 palavras:** (ex.: orgulhoso, paternal, medroso no fundo)
+- **Personalidade em 3 palavras:** (a base é sempre BRINCALHÃO e RISONHO; ex.: brincalhão, desastrado, coração mole)
+- **Jeito de rir:** (ex.: gargalhada grave com a cabeça pra trás; risadinha pelo nariz)
 - **Sotaque / jeito de falar:** (ex.: caipira mineiro, nordestino, gaúcho, carioca de morro...)
 - **Bordões (3 a 5):** (ex.: "meus fi", "rapaz", "ó", "viu")
 - **Como chama o ajudante quando dá bronca:**
