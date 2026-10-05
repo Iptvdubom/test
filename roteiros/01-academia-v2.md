@@ -35,7 +35,7 @@ Câmera apoiada (ele precisa das duas mãos). Charlie pendurado no galho grosso 
 O galho estala, verga e solta ele: Charlie cai sentado na terra, com poeira subindo. Um segundo processando, e a risada sai sem fôlego, com os ombros sacudindo. O bode continua mastigando como se nada tivesse acontecido.
 
 **Bloco 4 · A esteira (hora da verdade)**
-Selfie no alto do barranco, olhando a esteira: uns vinte rolos de bambu descendo até um monte de folha seca lá embaixo. Ele olha a descida, depois a câmera, meio desconfiado, e o riso nervoso escapa.
+Selfie no alto do barranco, olhando a esteira: uns vinte rolos de bambu descendo até um monte de feno seco lá embaixo. Ele olha a descida, depois a câmera, meio desconfiado, e o riso nervoso escapa.
 > *"Ficou num morrinho, né..."*
 > *"Se ela disparar, eu vou parar lá embaixo."*
 
@@ -45,10 +45,10 @@ Ele apoia a câmera de lado, num toco, mostrando a esteira inteira, e sobe nos p
 A mesma câmera apoiada de lado. Os rolos começam a girar sob os pés dele, cada vez mais rápido. Ele anda, depois corre, com os braços girando.
 > *"Ô, ô, ô, ÔÔÔ!"* (berro de verdade)
 
-A esteira joga Charlie da ponta. Ele voa **gargalhando no ar** (a gargalhada grande nº 1) e cai de costas no monte de folhas, que explodem pra todo lado. Ele se levanta de braços pro alto.
+A esteira joga Charlie da ponta. Ele voa **gargalhando no ar** (a gargalhada grande nº 1) e cai de costas no monte de feno, que explode pra todo lado. Ele se levanta de braços pro alto.
 > *"Funcionou!"*
 
-Corta pra selfie: sentado nas folhas, cheio de folha no pelo, tirando uma por uma, ainda rindo baixinho.
+Corta pra selfie: sentado no feno, cheio de palha no pelo e na camisa, tirando uma por uma, ainda rindo baixinho.
 > *"Esteira de academia vai a dez por hora... a minha vai a quarenta."*
 
 **Bloco 6 · Lanche e final**
@@ -75,7 +75,7 @@ Ele tapa a lente com a mão.
 | 2 | Halter → coco no pé → Juvêncio lambe o coco | **24 s** | selfie | @CHARLIE · @CENA · @BODE |
 | 3 | Barra → bode na camisa → galho solta → cai sentado | **25 s** | apoiada | @CHARLIE · @CENA · @BODE |
 | 4 | Olha a esteira → hora da verdade → sobe nos rolos | **22 s** | selfie → apoiada | @CHARLIE · @CENA |
-| 5 | Esteira dispara → berro → voa rindo → "Funcionou!" → selfie nas folhas | **26 s** | apoiada → selfie | @CHARLIE · @CENA |
+| 5 | Esteira dispara → berro → voa rindo → "Funcionou!" → selfie no feno | **26 s** | apoiada → selfie | @CHARLIE · @CENA |
 | 6 | Lanche de coco → bode na esteira → gargalhada → chamada pra compartilhar → mão na lente | **23 s** | selfie | @CHARLIE · @CENA · @BODE |
 
 ### Mapa das expressões e risadas (variadas, de acordo com o teste 01)
@@ -89,7 +89,7 @@ Ele tapa a lente com a mão.
 | 6 | prazer de olhos fechados → espanto → **gargalhada nº 2** limpando o olho → sorriso caloroso na despedida |
 
 ### O que preciso antes dos prompts
-- **@CENA:** a imagem da clareira da selva com o supino, a mangueira, a esteira de bambu no barranco e o monte de folhas (prompt na seção "Imagens de referência" de `01-academia-de-rico-na-roca.md`). **Atenção:** a mangueira precisa ter um galho baixo e grosso, e a esteira precisa descer um barranco.
+- **@CENA:** a imagem da clareira da selva com o supino, a mangueira, a esteira de bambu no barranco e o monte de feno (prompt na seção "Imagens de referência" de `01-academia-de-rico-na-roca.md`). **Atenção:** a mangueira precisa ter um galho baixo e grosso, e a esteira precisa descer um barranco.
 - **@BODE:** a mesma imagem do Juvêncio do teste 01.
 
 ---
@@ -102,7 +102,7 @@ Photorealistic vertical photo of a small clearing deep inside a dense Brazilian 
 The clearing is surrounded by giant rainforest trees with buttress roots, hanging lianas, banana plants, palms and ferns. Packed earth floor with roots and scattered fallen leaves.
 In the background, a rustic hut built only from forest materials: irregular log walls, woven palm-straw panels reinforced with bamboo, and a thick dry thatched roof.
 On the left, a large old mango tree with one thick, low horizontal branch about two meters above the ground.
-On the right, a gentle earth slope about four meters long running down from the edge of the clearing, bare and smooth, and at the very bottom of the slope a big loose mound of dry brown leaves and dry grass, waist-high.
+On the right, a gentle earth slope about four meters long running down from the edge of the clearing, bare and smooth, and at the very bottom of the slope a big loose mound of dry golden hay, waist-high, kept there to feed the animals.
 The clearing itself is empty: no benches, no equipment, no tools, no furniture. Everything is natural or made from wood, palm and bamboo; no metal, plastic, bricks, tiles or fences. No text, no signs, no logos, no watermark.
 ```
 
