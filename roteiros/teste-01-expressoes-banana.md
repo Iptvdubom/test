@@ -85,3 +85,21 @@ Pra cada expressão, anote: ✅ ficou natural · ⚠️ ficou exagerada ou artif
 10. **O bode** ficou igual à referência? Fez algo estranho ou humano demais?
 
 Com essas respostas, a gente descobre que expressões o Seedance faz bem sozinho e quais precisam de outro jeito de escrever (ou de um clipe de performance).
+
+---
+
+## Resultado da 1ª geração
+
+| Momento | Pedido | O que saiu | Nota |
+|---|---|---|---|
+| 1 · Desconfiança | sobrancelha erguida, boca torcida, riso pelo nariz | encarada levantando o lábio e cerrando os olhos | ⚠️ parcial (desconfiança ok; sobrancelha erguida e riso pelo nariz não apareceram aqui) |
+| 2 · A casca | o bode puxa a casca → "Ô!" → risadinha "huhuhu" → risada média | o bode arrancou **metade da banana**; "oh" de susto; sorriso com riso pelo nariz | ⚠️ o objeto mudou; só uma das três risadas apareceu |
+| 3 · O susto | o bode **berra** na câmera → "AAAI!" → mão no peito → riso nervoso | o bode **bateu a cabeça na câmera**; susto forte, boca em O, "oh oh oh" ofegante, mão no peito | ⚠️ o susto foi ótimo, mas o grito virou suspiro e o berro virou cabeçada |
+| 4 · O roubo | espanto → gargalhada → fala → limpa o olho | segue o bode com a cabeça → olha a câmera → riso que vira gargalhada falando → mão nos olhos | ✅ saiu como pedido |
+
+### Primeiras lições
+1. **Objeto com estado ambíguo confunde:** "dangling banana peel" (a casca ainda presa) fez o bode morder a banana. → Deixe o objeto num estado simples e visível ("the peel is fully removed and lies on the log").
+2. **"Swings his head right up to the lens" virou cabeçada.** → Separe movimento e som e diga o que NÃO acontece ("he stops a hand's width from the lens without touching it, then bleats").
+3. **Várias risadas no mesmo momento (giggle → risada média) viram uma só.** → Uma risada por gatilho. Se quiser duas, crie dois gatilhos.
+4. **Grito "AAAI!" virou "oh oh oh".** → Pra ter grito, peça explicitamente: "shouts loudly, a real startled yell".
+5. **Expressão que cresce até o clímax funciona muito bem** (momento 4).
