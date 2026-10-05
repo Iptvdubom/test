@@ -29,7 +29,7 @@
 ## 3. Academia de rico feita na roça
 - **Gancho:** preso embaixo de um "supino" de tronco cheio de pedras, gargalhando.
 - **Paródia de luxo:** "Academia de rico cobra caro. A minha cobra suor."
-- **Hora da verdade:** "Se a esteira disparar, eu vou parar no vizinho..." → ele voa num monte de feno → "Funcionou!"
+- **Hora da verdade:** "Se a esteira disparar, eu vou parar no vizinho..." → ele voa num monte de folha seca → "Funcionou!"
 - **CTA:** "Marca aquele amigo que paga academia e num vai."
 
 ## 4. Pizza no forno de cupinzeiro
