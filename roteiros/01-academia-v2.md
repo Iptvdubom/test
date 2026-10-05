@@ -91,3 +91,37 @@ Ele tapa a lente com a mão.
 ### O que preciso antes dos prompts
 - **@CENA:** a imagem da clareira da selva com o supino, a mangueira, a esteira de bambu no barranco e o monte de folhas (prompt na seção "Imagens de referência" de `01-academia-de-rico-na-roca.md`). **Atenção:** a mangueira precisa ter um galho baixo e grosso, e a esteira precisa descer um barranco.
 - **@BODE:** a mesma imagem do Juvêncio do teste 01.
+
+---
+
+## Imagens de referência (decisão: cenário vazio + equipamentos separados)
+
+### @CENA — a clareira, sem equipamentos
+```
+Photorealistic vertical photo of a small clearing deep inside a dense Brazilian rainforest, dappled late-afternoon sunlight filtering through the canopy, humid green atmosphere, shot at eye level like a smartphone photo, normal rectilinear perspective, no people and no animals.
+The clearing is surrounded by giant rainforest trees with buttress roots, hanging lianas, banana plants, palms and ferns. Packed earth floor with roots and scattered fallen leaves.
+In the background, a rustic hut built only from forest materials: irregular log walls, woven palm-straw panels reinforced with bamboo, and a thick dry thatched roof.
+On the left, a large old mango tree with one thick, low horizontal branch about two meters above the ground.
+On the right, a gentle earth slope about four meters long running down from the edge of the clearing, bare and smooth, and at the very bottom of the slope a big loose mound of dry brown leaves and dry grass, waist-high.
+The clearing itself is empty: no benches, no equipment, no tools, no furniture. Everything is natural or made from wood, palm and bamboo; no metal, plastic, bricks, tiles or fences. No text, no signs, no logos, no watermark.
+```
+
+### @EQUIPAMENTOS — os 3 aparelhos separados
+```
+Photorealistic vertical product-style photo of three handmade rustic gym devices made only from jungle materials, placed separately side by side on a plain packed-earth floor with a softly blurred green rainforest background, even late-afternoon natural light, normal rectilinear perspective, no people and no animals.
+Top: a bench-press set: a low bench made of a split log on two short stumps, and resting across it a long peeled log used as a barbell, with exactly one large round mossy gray stone tied to each end with thick braided vine rope.
+Middle: a coconut dumbbell: one short bamboo pole about half a meter long with exactly one whole brown coconut tied to each end with thin vine.
+Bottom: a bamboo-roller treadmill: about twenty smooth, pale, thick bamboo rollers lying side by side across a narrow rectangular frame of two long logs tied with vines, about three meters long and one meter wide, shown at a slight diagonal so the whole length is visible.
+The three devices do not touch each other. Realistic textures of bark, bamboo, vine and stone. No metal, no plastic, no modern objects. No text, no labels, no logos, no watermark.
+```
+
+| Bloco | @CENA | @EQUIPAMENTOS | @BODE |
+|---|---|---|---|
+| 1 | ✅ | só o supino | — |
+| 2 | ✅ | só o halter | ✅ |
+| 3 | ✅ | — | ✅ |
+| 4 | ✅ | só a esteira | — |
+| 5 | ✅ | só a esteira | — |
+| 6 | ✅ | esteira + coco | ✅ |
+
+Plano B: se a ferramenta de imagem não conseguir os 3 aparelhos juntos, gere 3 imagens (@SUPINO, @HALTER, @ESTEIRA).
