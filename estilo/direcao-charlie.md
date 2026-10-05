@@ -152,3 +152,49 @@ Limites oficiais: até 10 vídeos de referência, **somando no máximo 30 s**. O
 **Voz:** se quiser o mesmo timbre sempre, use um **áudio de 5 a 10 s do Charlie falando normalmente (sem rir)** como referência de voz: `Use @VOZ_CHARLIE only for Charlie's voice timbre and accent; do not copy its words, laughter or rhythm.`
 
 **Imagem do Charlie:** use uma imagem com **expressão calma/neutra-simpática**, nunca rindo. Se ela estiver rindo, todo vídeo herda a mesma risada.
+
+---
+
+## 16. Simpatia sem vídeo de referência
+
+A simpatia do Sapulha não depende de uma referência. Ela vem de **padrões de atuação** que dá pra escrever no prompt (todos tirados da análise dos 9 vídeos).
+
+### A) Bloco fixo de performance (cole em todo prompt, na seção 【Charlie's Performance】)
+
+```
+Charlie is warm, cheerful and easygoing, genuinely enjoying his day. He talks to the lens like a close friend he is sharing his day with: he looks at what he is doing, then glances back at the lens to share the moment, then back to the task. His face is always alive between lines: brows lift and knit, eyes squint with amusement, lips press and curl, cheeks rise into a smile, breathing shows in his chest and shoulders. Emotions carry over and change gradually instead of resetting to neutral after each line. He reacts first with his body and face, then speaks a beat later. He is not performing for an audience; he is just living his day while recording it.
+```
+
+### B) Os 6 padrões do Sapulha que geram simpatia (e como escrever)
+
+| Padrão | Como escrever no prompt |
+|---|---|
+| **Olhar de cumplicidade:** olha a ação e depois busca a câmera | `after the [event], he glances at the lens as if sharing the moment with a friend` |
+| **Reage com o corpo antes da fala** | `he flinches first, freezes for a moment, then speaks` |
+| **Ri de si mesmo** (vulnerabilidade) | `instead of getting annoyed, he finds it funny and laughs at himself` |
+| **Carinho com bichos e coisas** | `he scolds the goat in a soft, fond voice, already half-smiling` |
+| **Orgulho simples do que fez** | `he looks at the finished [thing] with quiet pride, a slow satisfied smile spreading across his face` |
+| **Prazer sensorial** (comer, banho, sombra) | `he closes his eyes as he chews, shoulders dropping, a long contented breath` |
+
+### C) Emoção em etapas (modelo oficial da skill do Seedance)
+
+Quando a emoção muda, escreva assim, sem pular etapas:
+```
+The overall emotion shifts from [início] to [fim]. After [gatilho], Charlie first shows [reação imediata no corpo/rosto]. Then [olhos/sobrancelhas/boca/respiração] gradually [mudam]. Finally he expresses [emoção final] through [ação visível].
+```
+Exemplo: *The overall emotion shifts from confident to sheepish amusement. After the log slips and pins him, Charlie first freezes with wide eyes. Then his brows lift and a helpless smile spreads across his face. Finally he lets his head drop back and breaks into breathy non-speech laughter.*
+
+### D) O que tira a simpatia (evitar)
+
+- Fala de apresentador ou explicação. Ele vira "influencer", e não amigo.
+- Palavras de contenção ("subtle", "restrained", "small smile") e microcoreografia do rosto.
+- Rosto parado esperando a próxima fala.
+- Gargalhada igual em todo bloco (ver seção 14).
+- Emoções fortes demais ("extremely shocked"), que deixam a expressão exagerada e podem fazer os olhos brilharem.
+
+### E) Na prática
+
+- **Imagem do Charlie:** expressão calma e simpática, nem séria, nem rindo.
+- **Voz (opcional, mas ajuda muito):** um áudio de 5 a 10 s do Charlie falando normal, como referência só de timbre.
+- **Gere 2 versões do bloco e fique com a melhor.** A atuação varia entre gerações.
+- **Uma fala saiu sem graça?** Use a **edição** do Seedance 2.5 pra refazer só aquele trecho (ex.: "Edit @Video1: only from 4-7 seconds, Charlie says the line laughing warmly; keep everything else unchanged").
