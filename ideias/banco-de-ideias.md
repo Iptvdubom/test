@@ -7,7 +7,7 @@
 |---|---|---|---|
 | 1 | Pastel de feira no tacho | Receita | 💡 |
 | 2 | Mel direto da colmeia | Aventura | 💡 |
-| 3 | Academia de rico feita na roça | Obra | 💡 |
+| 3 | Academia de rico feita na roça ([roteiro](../roteiros/01-academia-de-rico-na-roca.md)) | Obra | ✍️ |
 | 4 | Pizza no forno de cupinzeiro | Receita | 💡 |
 | 5 | Barbearia do Charlie pros bichos | Serviço / obra | 💡 |
 | 6 | Hambúrguer gigante amassado na pedra | Receita | 💡 |
