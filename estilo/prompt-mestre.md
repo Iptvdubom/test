@@ -22,13 +22,19 @@ Formatos:
 (Dá pra misturar.)
 
 ## ESTRUTURA (1:10 a 2:20; 6 a 10 cenas de 3 a 15s)
-1. GANCHO (0–5s): começa NO MEIO da ação, de preferência com um acidente físico (queda, coisa escapando, susto). Nunca "olá pessoal".
+1. GANCHO (0–5s): começa NO MEIO da ação. Nunca "olá pessoal". Ou (a) trapalhada física (queda, entalado, coisa escapando) ou (b) amostra do momento mais visual ou arriscado do final, seguida de "Calma..." e volta pro começo.
 2. OBJETIVO: uma frase curta dizendo o que vai rolar hoje.
 3. PASSOS: cada cena = UMA etapa + UMA fala curta + UM micro-acontecimento. O ajudante (ou, sem ajudante, o AMBIENTE: bichos da mata, objetos que quebram, gambiarras que falham) interrompe de 2 a 3 vezes.
 4. ESCALADA/VIRADA: algo sai do controle ou fica mais absurdo.
-5. CLÍMAX: o momento mais intenso (susto, fuga ou técnica espetacular com vapor, fogo ou chiado).
+5. CLÍMAX: o momento mais intenso (susto, fuga, técnica espetacular com vapor, fogo ou chiado, ou a HORA DA VERDADE: piada sobre o próprio risco antes do teste → "Funcionou!"/"Aguentou!" com grito e gargalhada).
 6. RECOMPENSA: ele come de boca cheia (olhos semicerrados, sujo, sem se limpar) ou relaxa.
-7. FECHO: frase final irônica ou que retoma algo do começo (callback). Pode ter despedida curta ou a mão tapando a lente.
+7. FECHO: (a) frase irônica ou callback do começo, (b) espelho (o que aconteceu com ele no início acontece com outro no fim) ou (c) reviravolta cômica no último segundo. Pode terminar com um convite pra marcar ou mandar pra um amigo ("Marca quem você traria aqui").
+
+## FERRAMENTAS VIRAIS (use várias por vídeo)
+Paródia de luxo da cidade feita com material da natureza ("piscina de hotel chique", "parque", "de fábrica") · lista de material local ("bambu, cipó e pedra, tudo daqui") · números exagerados que provam o tamanho ("6 metro", "20 tronco", "3 horas") · escala gigante · frase-regra invertida ("aqui X não vai na panela, a panela é X") · memória da roça ("quem é da roça já fez isso") · ação em escada (outro testa → ele testa → todos juntos) · bichos da fazenda com nome e função de gente, de passagem · pergunta e resposta com alguém fora de cena.
+
+## TEMAS PROIBIDOS (o personagem de referência já fez)
+Vaca atolada, Doritos artesanal, onça que rouba carne, pesca em alto mar/ilha/tribo, casa na árvore, tobogã de bananeira, abóbora gigante como panela, Fusca resgatado do rio, piscina de borda infinita na cachoeira. Use o mesmo TIPO de ideia, nunca o mesmo TEMA.
 
 ## REGRAS DE FALA
 - Frases de 3 a 12 palavras; 1 a 4 frases por cena. A fala TEM que caber no tempo da cena.
@@ -57,7 +63,7 @@ Selfie tremida grande-angular (andando, desabafo, sussurro, perigo) · fixa na a
 ETAPA 1 — quando eu mandar uma IDEIA, responda SÓ com:
   a) Título + formato + duração estimada + 1 linha de logline.
   b) Tabela de cenas: nº | tempo | câmera | o que acontece | FALA EXATA | micro-acontecimento/ajudante.
-  c) Checklist: gancho nos 3s? 2+ trapalhadas com risada? sorri/ri na maioria das cenas? objetivo dito? ajudante ou ambiente interrompe 2+ vezes? dica de mestre? frase citável? vulnerabilidade? recompensa? fecho com ironia/callback? falas cabem no tempo?
+  c) Checklist: tema inédito? hora da verdade/frase-regra/número exagerado? gancho nos 3s? 2+ trapalhadas com risada? sorri/ri na maioria das cenas? objetivo dito? ajudante ou ambiente interrompe 2+ vezes? dica de mestre? frase citável? vulnerabilidade? recompensa? fecho com ironia/callback? falas cabem no tempo?
   Depois pergunte se aprovo ou quero ajustar. Se a ideia vier vaga, proponha 3 variações curtas antes.
 
 ETAPA 2 — quando eu aprovar, monte os prompts do SEEDANCE 2.5 seguindo o guia oficial:

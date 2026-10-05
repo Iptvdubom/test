@@ -1,6 +1,6 @@
 # Guia de Estilo — O "DNA" dos vídeos
 
-Extraído da análise de 5 vídeos de referência (receita da vaca atolada, Doritos artesanal, onça que roubou a picanha, pesca em alto mar e casa na árvore).
+Extraído da análise de 9 vídeos de referência: receita da vaca atolada, Doritos artesanal, onça que roubou a picanha, pesca em alto mar, casa na árvore, tobogã de bananeira, abóbora gigante recheada, Fusca resgatado do rio e piscina de borda infinita na cachoeira.
 
 > Resumo em uma frase: **um bicho grande, desajeitado e caipira grava o próprio dia como se fosse um vlogueiro. Ele é muito brincalhão: ri de tudo, principalmente das próprias trapalhadas, apanha do ambiente, se diverte com o ajudante pequeno e no fim sempre come ou descansa feliz da vida.**
 >
@@ -44,13 +44,37 @@ Dá pra misturar os formatos. A pesca, por exemplo, começa como receita e vira 
 
 | Momento | O que acontece | Exemplo do original |
 |---|---|---|
-| **1. Gancho (0–5s)** | Começa **no meio da ação**, de preferência com um acidente físico ou uma frase de impacto. Nada de "olá pessoal". | Cai sentado na lama puxando a mandioca; cabo de guerra com a onça; câmera cai na água. |
+| **1. Gancho (0–5s)** | Começa **no meio da ação**. Nada de "olá pessoal". Dois tipos: **(a) trapalhada no meio da ação** ou **(b) amostra do final**: abre com o momento mais visual ou arriscado do resultado e depois "Calma..." volta pro começo. | (a) Cai sentado na lama; preso dentro da abóbora gigante; puxando o Fusca do rio. (b) O filhote despencando no tobogã; "Essa água quer me levar junto" na beira da cachoeira → "Calma, tô inteiro." |
 | **2. Anúncio do objetivo** | Uma frase curta dizendo o que vai rolar hoje. | "Hoje vai sair um doritos brabo." / "Aqui vai ser a casa da árvore do Sapulha." |
 | **3. Passos com interrupções** | Cada cena é **uma etapa + uma fala + um micro-acontecimento**. O ajudante interrompe de 2 a 3 vezes ao longo do vídeo. | Roubo do torresmo; filhote perto do óleo quente; macaco pisando na cabeça na ponte. |
 | **4. Escalada / virada** | Algo sai do controle ou fica mais absurdo. | Onça no capô do Fusca; motor morre na frente da ilha da caveira. |
-| **5. Clímax** | O momento mais intenso: susto, fuga ou a técnica mais impressionante. | Bote da onça na costela; fuga dos guerreiros; vapor do hidromel. |
+| **5. Clímax** | O momento mais intenso: susto, fuga, a técnica mais impressionante ou a **hora da verdade** (o teste da obra; ver 3.1). | Bote da onça na costela; vapor do hidromel; "Tira o bambu e... Óia isso!"; descida no tobogã: "Funcionou! Voei, rapaz!" |
 | **6. Recompensa** | Ele **come** ou **relaxa**. Mastiga de boca cheia, fecha os olhos de prazer e se suja sem ligar. | Carne soltando do osso; peixe assado no barco; banho quente a 12 m. |
-| **7. Fecho com ironia ou callback** | Uma frase final que amarra a história, geralmente retomando algo do começo. | "Chico, seu barco tá inteiro, eu que quase não." / "Onça na rede, Tita? Cê tá vendo coisa." |
+| **7. Fecho** | Três tipos: **(a) ironia ou callback** retomando o começo; **(b) espelho**: o que aconteceu com ele no começo acontece com outro no fim; **(c) reviravolta cômica** no último segundo. Pode terminar com um **convite pra marcar ou mandar pra um amigo** (ver 3.1). | (a) "Chico, seu barco tá inteiro, eu que quase não." (b) Começa entalado na abóbora → termina com o filhote entalado. (c) Arranca com o Fusca e esquece o filhote: "Esqueci você, rapaz!" |
+
+### 3.1 Ferramentas que se repetem nos vídeos que viralizam
+
+1. **Hora da verdade com risco brincalhão:** antes de testar a obra, ele faz uma piada sobre o próprio risco e depois comemora quando dá certo. Apareceu em 3 de 4 vídeos de obra:
+   - "Se cair, quem cai sou eu, então eu amarro bem, viu?"
+   - "Se eu sumir, foi por uma boa causa." → "Funcionou! Voei, rapaz!"
+   - "Se o muro não aguentar, eu vou junto..." → "Aguentou!"
+2. **Paródia de luxo da cidade:** recriar algo de rico ou de consumo com material da natureza e dar nome chique. "Em hotel chic tem piscina que parece não ter fim"; "Não tem parque nenhum"; "Parece que saiu da fábrica"; "Volkswagen da selva"; "Tobogã da selva".
+3. **Lista de material local:** "Bananeira, bambu, cipó e a água do riacho, tudo daqui." Mostra a engenhosidade e dá valor à obra.
+4. **Números que provam o tamanho:** "6 metro", "20 tronco, duas curva", "3 horas embaixo da brasa", "terceira vez hoje". O número exagerado vira parte da piada.
+5. **Escala gigante:** abóbora do tamanho de uma casa, tobogã descendo o morro, desviar um rio. O tamanho absurdo é o que faz parar de rolar o feed.
+6. **Frase-regra invertida (a mais citável):** "Aqui abóbora não vai na panela. A panela é ela." / "Ferrugem sai na pedra com areia, amassado sai na paulada." / "Cozeu no próprio bafo." Coloque pelo menos uma por vídeo.
+7. **Memória da roça:** "Quem é da roça já escorregou nisso na infância." Faz o público se identificar e comentar.
+8. **Repetir a ação em escada:** primeiro outro testa, depois ele, depois os dois juntos (tobogã: o filhote desce → ele desce gritando → os dois abraçados).
+9. **Bichos da fazenda com função de gente:** a vaca puxando o carro ("Puxa com vontade, mulher!"); o macaco-prego "Zé" querendo trocar uma pedra por um prato; a capivara segurando a tigela. São figurantes de passagem, cada um com um nome.
+10. **Pergunta e resposta com alguém fora de cena:** "Sapu, dá pra comer a panela também?" → "Dá!"
+11. **Chamada final pra compartilhar:** "Marca quem você entraria pra descer aqui!" / "Manda pro amigo que você traria aqui." Faz o vídeo ser compartilhado, e por isso viraliza.
+12. **Gritos e risadas de verdade nos momentos de adrenalina:** um "Aaaaaah!" longo na descida, gargalhada ao sair da água, soco no ar.
+
+### 3.2 Ideias que o Sapulha JÁ fez (não repetir)
+
+Vaca atolada · Doritos artesanal · onça que rouba a picanha (Fusca, banheira, tocaia) · pesca em alto mar com ilha da caveira e tribo · casa na árvore com ponte, ofurô e elevador · tobogã de tronco de bananeira · abóbora gigante como panela · Fusca resgatado do rio e reformado · piscina de borda infinita na cachoeira.
+
+Dá pra usar o mesmo **tipo** de ideia (receita, obra, resgate, aventura), mas nunca o mesmo **tema**.
 
 ---
 
@@ -133,6 +157,10 @@ O estilo é **fotorrealista, de documentário/vlog**, com luz natural, vapor e f
 - [ ] Tem pelo menos 2 trapalhadas físicas (cair, bater, escorregar) seguidas de risada?
 - [ ] Ele está sorrindo ou rindo na maior parte das cenas? O tom geral é alegre e leve?
 - [ ] O protagonista mostra vulnerabilidade (susto, queda ou medo) pelo menos uma vez?
-- [ ] O final tem recompensa (comer ou relaxar) e uma frase irônica ou de callback?
+- [ ] O final tem recompensa (comer, relaxar ou curtir a obra) e um fecho de ironia, espelho ou reviravolta?
+- [ ] Tem uma "hora da verdade" com piada de risco antes e comemoração depois (em vídeos de obra)?
+- [ ] Tem pelo menos 1 frase-regra invertida e 1 número exagerado?
+- [ ] Termina com convite pra marcar ou mandar pra um amigo (opcional, mas recomendado)?
+- [ ] O tema NÃO é um dos que o Sapulha já fez (3.2)?
 - [ ] Todas as falas são curtas e dá pra dizer cada uma no tempo da cena?
 - [ ] A câmera varia (selfie / fixa / POV)?
