@@ -126,7 +126,7 @@
 | 17 | Pão de queijo gigante | Receita rústica | 2:20–2:40 | Muito alto |
 | 18 | Drive-thru da selva | Obra de luxo | 2:30–2:50 | Alto |
 | 19 | A canoa furada | Aventura | 2:40–3:10 | Muito alto |
-| 20 | Carrinho de mão turbinado | Resgate e reforma | 2:30–2:50 | Muito alto |
+| 20 | Carrinho de mão turbinado ([roteiro](../roteiros/02-carrinho-de-mao.md)) ✍️ | Resgate e reforma | 2:30–2:50 | Muito alto |
 
 ### 15. Churros de mandioca
 - **Gancho (0–3 s):** Charlie aperta com força o tubo de bambu cheio de massa → *PLOFT*: a massa sai disparada e acerta a cara dele → gargalhada com a massa pendurada no queixo. *"Ô!"*
