@@ -1,7 +1,7 @@
 # Episódio 01 — Academia na selva (v2)
 
 > Substitui `01-academia-de-rico-na-roca.md` e `01-academia-seedance.md` (versão antiga, antes da direção v2).
-> **Status:** ✍️ storytelling aguardando aprovação → depois vêm os prompts do Seedance.
+> **Status:** ✍️ prompts prontos em [01-academia-v2-seedance.md](01-academia-v2-seedance.md).
 
 ---
 
