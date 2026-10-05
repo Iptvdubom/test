@@ -111,3 +111,44 @@ São animais reais, nunca humanizados. **Charlie é quem interpreta o comportame
 
 - **Ideias:** conceito · tempo recomendado · potencial de viralização · por que funciona · principais acontecimentos.
 - **Episódio escolhido:** 1. Conceito · 2. Storytelling completo · 3. Duração estimada · 4. Divisão das cenas · 5. Prompts do Seedance (cada um com a duração).
+
+---
+
+## 14. Variedade de risadas e reações (pra não repetir sempre a mesma)
+
+**Por que a mesma gargalhada se repete:** (1) o prompt descreve a risada sempre com as mesmas palavras ("deep belly laugh, head thrown back"); (2) o vídeo de referência de performance tem uma risada marcante e o modelo copia; (3) a imagem do Charlie tem uma expressão forte e ele herda.
+
+**Regra:** a risada nasce da situação. Escolha o tipo que combina com o que aconteceu e **varie a descrição** a cada bloco.
+
+| Situação | Tipo de risada (descrição pro prompt, sempre NON-SPEECH) |
+|---|---|
+| Caiu ou se sujou sozinho | `a surprised snort that turns into helpless, wheezing non-speech laughter, shoulders shaking, eyes squeezed shut` |
+| Alívio depois de susto | `a short nervous non-speech laugh with a long exhale, hand on his chest, still a little wide-eyed` |
+| Bicho fez algo inesperado | `a delighted non-speech chuckle through the nose, eyebrows raised, shaking his head in disbelief` |
+| Riu de algo bobo dele mesmo | `a quiet, embarrassed breathy chuckle, looking away from the lens for a second, then back with a sheepish grin` |
+| Comemoração de algo que deu certo | `a loud triumphant non-speech laugh mixed with heavy breathing, arms raised` |
+| Rindo enquanto ainda faz força | `strained non-speech laughter between effort grunts, face tense and smiling at the same time` |
+| Risada que vai crescendo | `a small amused smile that grows into a silent shaking laugh, then a short audible non-speech laugh` |
+| Falando e rindo ao mesmo tempo | `he speaks the line while laughing, voice breaking with non-speech laughter between words` |
+| Riso contido (situação tensa) | `a tight-lipped smile and one short breathy non-speech laugh he tries to hold back` |
+
+- **Use no máximo 2 risadas grandes por vídeo.** O resto é sorriso, riso pelo nariz ou riso contido. O contraste deixa a gargalhada grande mais engraçada.
+- **Nem toda trapalhada termina em riso:** às vezes é um "Ah não.", um silêncio processando, um suspiro.
+
+## 15. Referências de vídeo de performance: como usar sem virar cópia
+
+Limites oficiais: até 10 vídeos de referência, **somando no máximo 30 s**. O melhor resultado é com clipes de **5 a 10 s** cada.
+
+**Não junte tudo num vídeo de 30 s com várias risadas.** O modelo tende a pegar a mais marcante e repetir, ou a misturar tudo, e os cortes da montagem podem virar cortes no seu vídeo.
+
+**Monte um BANCO DE PERFORMANCE do próprio Charlie:**
+1. Guarde os melhores trechos que já saíram (só do Charlie, sem legenda nem texto), **cortados em clipes curtos de 3 a 8 s**, cada um com **um tipo de reação**: risada de queda, susto, riso pelo nariz, fala desconfiada, comemoração, esforço.
+2. Dê nomes claros: `@PERF_RISO_QUEDA`, `@PERF_SUSTO`, `@PERF_DESCONFIADO`, `@PERF_COMEMORA`...
+3. Em cada bloco, suba **só 1 (no máximo 2)** clipes, os que combinam com a emoção daquele bloco, e diga **pra qual momento** ele serve:
+   `Use @PERF_SUSTO only as performance reference for Charlie's reaction when the duck jumps out: timing, eyebrow and eye movement, breathing. Do not copy its exact laugh, words, gestures, camera or scene.`
+4. **Troque o clipe de referência entre os blocos** e entre os vídeos, pra não ficar sempre a mesma.
+5. Blocos sem momento emocional forte: **sem vídeo de referência**. Os testes mostraram que a imagem limpa e um prompt positivo já deixam o Charlie natural.
+
+**Voz:** se quiser o mesmo timbre sempre, use um **áudio de 5 a 10 s do Charlie falando normalmente (sem rir)** como referência de voz: `Use @VOZ_CHARLIE only for Charlie's voice timbre and accent; do not copy its words, laughter or rhythm.`
+
+**Imagem do Charlie:** use uma imagem com **expressão calma/neutra-simpática**, nunca rindo. Se ela estiver rindo, todo vídeo herda a mesma risada.
