@@ -33,7 +33,7 @@ Charlie says in Brazilian Portuguese with a light, natural rural countryside acc
 
 **Voz (inglês, para o Seedance):**
 ```
-deep, raspy, warm and playful male voice, slow drawl, speaking Brazilian Portuguese with a strong rural caipira accent from the countryside of São Paulo, laughs often with a big belly laugh
+deep, warm, playful male voice, relaxed rural rhythm, speaking Brazilian Portuguese with a light, natural rural Southeast Brazilian countryside accent, no caricature; laughs often with genuine warm non-speech laughter
 ```
 
 ## AJUDANTE
