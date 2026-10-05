@@ -52,3 +52,30 @@
 | 2 | 0:27–0:50 (23 s) | 4, 5 | Geração |
 | 3 | 0:50–1:19 (29 s) | 6, 7, 8 | Geração (a hora da verdade e o clímax ficam juntos, sem emenda) |
 | 4 | 1:19–1:43 (24 s) | 9, 10 | Geração |
+
+---
+
+## Imagens de referência (gerar antes, numa ferramenta de imagem)
+
+Formato **vertical 9:16**, no máximo **1080 × 1920**. Depois de gerar, suba como:
+@Image1 = Charlie · @Image2 = cenário · @Image3 = Seu Juvêncio
+
+### @Image2 — Cenário (a academia montada no sítio)
+
+```
+Photorealistic vertical photo of a simple Brazilian countryside farmyard (rural São Paulo state) in soft late-afternoon sunlight, warm natural colors, shot at eye level like a smartphone photo, no people and no animals.
+Packed reddish-brown dirt yard. On the left, a large mango tree with a thick, low horizontal branch about two meters high, good for doing pull-ups. In the foreground center, a homemade weight bench made of a split log on two short stumps, and resting across it a long peeled eucalyptus log with one large round gray stone tied with thick vine rope to each end, like a rustic barbell.
+On the right, a short gentle dirt slope with a homemade treadmill: about twenty smooth, pale bamboo rollers lying side by side across a long wooden frame, running down the slope. At the bottom end of the treadmill, a big loose mound of golden hay.
+In the background, a small whitewashed farmhouse with a clay-tile roof, a bamboo fence, a wooden chicken coop and green hills.
+Realistic textures of dirt, bark, bamboo and hay. No text, no signs, no logos, no watermark.
+```
+
+### @Image3 — Bode Seu Juvêncio
+
+```
+Photorealistic vertical photo of one adult billy goat standing on packed dirt in a Brazilian countryside farmyard, full body in side three-quarter view, the whole animal visible from horns to hooves, soft late-afternoon natural light, blurred simple background.
+The goat has a short coat with large brown and white patches, a white face with a brown patch around the left eye, a long scruffy white beard, two thick backward-curving gray horns, slightly droopy ears, amber eyes, and a small brass bell hanging from a frayed red rope collar.
+Calm, mischievous expression, mouth slightly open as if chewing. Only one goat, no people, no other animals. No text, no logos, no watermark.
+```
+
+**Dica:** se a ferramenta gerar várias opções, escolha a que tiver as marcas mais claras: a mancha marrom no olho esquerdo e o sininho na coleira vermelha. São elas que fazem o Seedance reconhecer que é o mesmo bode nos blocos 2 e 4.
