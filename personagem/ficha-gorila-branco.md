@@ -1,11 +1,11 @@
-# Ficha do Personagem — Gorila Branco
+# Ficha do Personagem — Charlie, o Gorila Branco
 
 > Cole esta ficha logo abaixo do prompt-mestre.
-> Imagem de referência: [`referencias/gorila-branco.jpg`](referencias/gorila-branco.jpg). Suba essa imagem no Seedance em TODO clipe, sempre como a **primeira** referência (@image1).
+> Imagem de referência: [`referencias/gorila-branco-1080p.jpg`](referencias/gorila-branco-1080p.jpg). É a versão já ajustada pra não passar da resolução de saída, como recomenda o guia oficial. Suba essa imagem no Seedance em TODO bloco como **@Image1**.
 
 ## PROTAGONISTA
 
-- **Nome:** [A DEFINIR]
+- **Nome:** Charlie
 - **Espécie:** gorila albino (pelo creme/loiro claro, pele rosada, olhos azul-acinzentados), adulto, grande e forte. Sempre usa a mesma camisa havaiana azul, florida e aberta no peito. A camisa é a marca registrada dele.
 - **Personalidade:** igual à do personagem de referência: extremamente brincalhão, risonho, carismático e bonachão. Desastrado (cai, bate a cabeça, escorrega, se suja) e sempre ri de si mesmo. Sabe cozinhar e construir, mas faz tudo do jeito mais engraçado. Tem coração mole e é paizão de quem está por perto. Quando se assusta, confessa o medo e depois ri de alívio.
 - **Jeito de rir:** gargalhada grave e aberta, com a cabeça pra trás depois das trapalhadas; risadinha soprada pelo nariz quando se conforma com algo.
@@ -18,9 +18,14 @@
 a huge adult albino gorilla with thick cream, pale-blonde fur and a tall blonde crest on the head, wrinkled pinkish-beige bare face, chest and hands, pale blue-gray eyes, heavy muscular build, wearing a faded, unbuttoned short-sleeved navy-blue Hawaiian shirt with red hibiscus flowers, small cream flowers and olive palm leaves, with a chest pocket, open over his bare chest and belly
 ```
 
-**Frase da referência (use no início de todo prompt):**
+**Frase da referência (use em todo prompt, na seção 【Reference Asset Roles】):**
 ```
-@image1 defines the main character's face, fur, body and Hawaiian shirt only; ignore its background.
+Use @Image1 for the gorilla's face, cream pale-blonde fur, tall blonde crest, pinkish-beige skin, pale blue-gray eyes, heavy build and faded open navy-blue Hawaiian shirt with red hibiscus flowers; do not use the image background.
+```
+
+**Formato de fala (oficial, entre chaves):**
+```
+The gorilla says in Brazilian Portuguese with a rural caipira accent, laughing: {Óia isso, meus fi!}
 ```
 
 **Voz (inglês, para o Seedance):**
@@ -30,7 +35,7 @@ deep, raspy, warm and playful male voice, slow drawl, speaking Brazilian Portugu
 
 ## AJUDANTE
 
-[A DEFINIR]. Até lá, os roteiros podem usar só o gorila, e o papel de "elemento caótico" fica com o ambiente: animais da mata, objetos que quebram, galinhas, cabras.
+Nenhum por enquanto. O papel de "elemento caótico" fica com o **ambiente**: galinhas, bodes, tucanos e macacos da mata, objetos que quebram, coisas que caem, a gambiarra que dá errado. Esses bichos aparecem de passagem, não são personagens fixos.
 
 ## MUNDO
 

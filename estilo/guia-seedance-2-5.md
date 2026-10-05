@@ -1,146 +1,192 @@
-# Guia do Seedance 2.5: como montar os prompts
+# Guia do Seedance 2.5 (baseado na documentação OFICIAL)
 
-Resumo das regras do Seedance 2.5 (lançado em 31/07/2026), compilado a partir do guia oficial de prompts da ByteDance/BytePlus e de guias que o reproduzem. As fontes estão no fim.
+Fontes oficiais lidas por inteiro:
+1. **Dreamina Seedance 2.5 prompt guide**, da BytePlus/ByteDance (atualizado em 28/09/2026): https://docs.byteplus.com/en/docs/ModelArk/2607689
+2. **Skill oficial `sd25-pe`** (o otimizador de prompts da própria ByteDance, salvo em [`.claude/skills/sd25-pe/SKILL.md`](../.claude/skills/sd25-pe/SKILL.md))
+3. **Anúncio oficial do Seedance 2.5** da ByteDance Seed: https://seed.bytedance.com/en/blog/one-take-creation-flexible-referencing-introducing-seedance-2-5
 
 ---
 
-## 1. Limites e configurações
+## 1. Limites
 
-| Item | Valor | Onde se configura |
+| Item | Valor oficial |
+|---|---|
+| Duração por geração | até **30 s** (configurada na ferramenta, **nunca** no texto) |
+| Imagens de referência | até 30, cada uma até 4K |
+| Vídeos de referência | até 10, **somando no máximo 30 s** |
+| Áudios de referência | até 10, somando no máximo 30 s |
+| Total de referências | até 50 |
+| Idiomas de fala | mais de 10, gerados nativamente com sincronia labial (inclui português) |
+| Vídeos longos | Por **extensões sucessivas** (Extend), mantendo personagem, cenário e ritmo. Dá pra chegar a vários minutos. |
+| Melhor formato pra extensão | **MOV** (entrada e saída), pra manter cor, brilho e áudio contínuos |
+
+**O que NÃO vai no prompt:** proporção (9:16), duração, resolução, fps e áudio ligado/desligado. Tudo isso se configura na tela.
+
+---
+
+## 2. Os 3 tipos de tarefa (escolha um por prompt)
+
+| Tipo | Quando usamos | O que acontece |
 |---|---|---|
-| Duração por geração | **4 a 30 s** em uma única passada | Controle de duração (não no texto) |
-| Formato | 16:9, **9:16** (Reels/TikTok), 1:1, 4:3, 3:4, 21:9 | Controle de proporção |
-| Resolução | 480p, 720p, 1080p (algumas plataformas chegam a 4K) | Controle de resolução |
-| Referências | até **50**: 30 imagens, 10 vídeos e 10 áudios | Upload |
-| Áudio | Gerado junto com o vídeo: fala com sincronia labial, efeitos e ambiente | Deixe o áudio **ligado** |
-| Português | Suportado, com sincronia labial | Escrito no prompt |
-| Estender vídeo | Continua um clipe a partir do **último quadro** (4–30 s a mais) | Função *Extend* |
-| Quadro inicial/final | Dá pra fixar a imagem inicial e a final | Image-to-video |
+| **Geração** | Bloco 1 e todo bloco que começa com **corte** pra outro lugar ou outra câmera | Você escolhe proporção e duração. |
+| **Extensão** | Bloco que **continua a mesma cena** do bloco anterior | Continua o vídeo a partir do último quadro. A proporção fica travada na do vídeo original (deixe em *adaptive*); a duração você escolhe. |
+| **Edição** | Consertar um detalhe de um bloco já gerado (uma fala, um objeto) | Mantém o vídeo e muda só o que você pedir. Funciona melhor com vídeos de até 20 s. |
 
-> ⚠️ **Não escreva** duração, resolução, fps nem proporção dentro do prompt. Use os controles da ferramenta.
+Para uma extensão ser reconhecida, o prompt precisa da palavra-gatilho: **"Extend @Video1 forward"** ou "continue".
 
 ---
 
-## 2. A fórmula oficial
+## 3. Estrutura oficial do prompt
 
-**Sujeito + Ação/Acontecimento + Cenário + Estilo visual + Câmera/Cortes + Áudio**
-
-O prompt funciona melhor como um **roteiro de produção compacto** do que como uma lista de adjetivos:
-- Diga quem é e o que acontece de forma **visível**. Em vez de "ele está feliz", escreva "ele joga a cabeça pra trás e gargalha mostrando os dentes".
-- Em cada movimento, diga **direção, distância, velocidade, contato e reação**.
-- Em vídeos com mais de 15 s, divida em **etapas com tempo marcado**. Cada etapa tem estado inicial, acontecimento principal e estado final.
-- Diga o que **não pode mudar** (rosto, camisa, cenário).
-
----
-
-## 3. Marcação de tempo
-
-Use **segundos inteiros**, cada intervalo em uma linha:
+O guia manda tratar o Seedance como **um produtor de vídeo** e escrever um roteiro estruturado. A estrutura da skill oficial tem estas seções:
 
 ```
-0-5s: ...
-5-11s: ...
-11-18s: ...
+【Generation Goal】        → em 1 frase: tipo de vídeo, quem é e o que acontece
+【Reference Asset Roles】  → para que serve CADA imagem/vídeo enviado
+【Subjects and Relationships】 → quantos personagens, o que é de quem, onde cada um fica
+【Event Script】           → o acontecimento, por tempo ou por etapa, com estado inicial e final
+【Maintain Consistency】   → o que não pode mudar
 ```
 
-- **Se quiser cortes de câmera** (selfie → câmera fixa), escreva o corte dentro do intervalo: `11-18s: hard cut to a static tripod shot at chest height...`. O Seedance 2.5 organiza vários planos ligados dentro dos 30 s.
-- **Se quiser plano-sequência** (sem corte), **não** use "Shot 1, Shot 2", porque isso faz o modelo cortar. Use só os intervalos e diga "one continuous take, no cuts".
-- Uma ação principal por intervalo. Ações demais no mesmo trecho causam tremedeira e deformação.
-- Não misture ordens que se anulam, como "câmera fixa" com "câmera girando rápido".
+Regras de ouro:
+- **Cada referência tem um papel explícito**, com número na ordem do upload: "Use @Image1 for the gorilla's face, fur and Hawaiian shirt; do not use the image background."
+- **Não escreva o nome do personagem dentro da imagem** de referência. O vínculo é feito no texto.
+- **Cada etapa ou intervalo tem uma única mudança principal** e termina num estado visível ("at the end, ...").
+- **Prefira descrições positivas.** Use negativas só para legenda e áudio.
+- **Emoção = ação visível:** "joga a cabeça pra trás e gargalha", e não "está muito feliz".
+- **Ações:** descreva a maioria de forma geral e só detalhe as poucas ações memoráveis. Não repita a mesma ação.
+- **Mostre a causa antes da reação:** primeiro o que aconteceu (a raiz soltou), depois a reação. Não feche no rosto antes de mostrar o motivo.
 
 ---
 
-## 4. Referências (@image1, @video1, @audio1)
+## 4. Marcação de tempo
 
-- Escreva em minúsculo e sem espaço: `@image1`, `@image2`, `@video1`, `@audio1`. O número segue a **ordem do upload**.
-- **Toda referência precisa de uma frase dizendo para que serve**, e só para isso:
-  `@image1 defines the main character's face, fur, body and Hawaiian shirt only; ignore its background.`
-- Nunca escreva só "reference @image1" sem explicar o uso.
-- Para continuidade, use o último quadro do clipe anterior como `@image2`:
-  `@image2 is the last frame of the previous clip; start exactly from this pose, place and lighting.`
-
----
-
-## 5. Fala (diálogo com sincronia labial)
-
-- Diga o **idioma e o sotaque** antes da fala, depois diga **quem fala** e coloque a fala **entre aspas**, no idioma em que será falada.
-  `Language: Brazilian Portuguese, rural caipira accent. The gorilla says, grinning at the camera: "Óia isso, meus fi!"`
-- **Uma pessoa falando por vez** e **frases curtas**. Fala rápida, sotaque forte e música de fundo deixam a sincronia instável, então:
-  - quebre as falas em frases curtas, uma por intervalo de tempo;
-  - diga em que segundo a fala começa;
-  - durante a fala, prefira o rosto visível (plano médio/fechado).
-- Se a pronúncia sair errada, gere o trecho de novo ou corrija só aquele pedaço com a edição local.
+- Use segundos inteiros e **sem buracos**: `0-5 seconds: ... 5-11 seconds: ... 11-18 seconds: ...`. Nada de "0-3s... 5-6s".
+- Dá pra combinar com plano: `Shot 2 | 5-11s` (formato usado nos exemplos oficiais).
+- Também dá pra marcar um ponto: "At the 5-second mark, hard cut to..."
+- **Pouca coisa num intervalo:** o modelo improvisa. **Coisa demais:** ele corta demais ou pula partes. Distribua com bom senso.
+- Não use tempo pra ações muito rápidas e repetidas ("balança a cabeça 3 vezes por segundo").
+- Os intervalos são orçamentos de tempo para cada acontecimento, não cortes exatos no quadro.
 
 ---
 
-## 6. Áudio em camadas
+## 5. Falas: o formato oficial
 
-Separe sempre em 4 camadas:
+**A fala vai entre CHAVES `{ }`**, não entre aspas. Símbolos oficiais:
+
+| Conteúdo | Símbolo | Exemplo |
+|---|---|---|
+| Fala | `{ }` | `{Óia isso, meus fi!}` |
+| Efeito sonoro | `< >` | `<a raiz estala e solta>` |
+| Música | `( )` | `(violão caipira ao fundo)`; nós não usamos música |
+| Legenda | `【 】` | não usamos |
+
+**Formato da fala:** `idioma + sotaque + jeito de falar + quem fala + {fala}`. A declaração vai **em cada fala**, não uma vez só no começo:
 
 ```
-Dialogue: (falas, com idioma e sotaque)
-SFX: (efeitos: chiado, baque, crocância, água)
-Ambience: (ambiente: mata, pássaros, vento, fogo)
-Music: none (No BGM)
+The gorilla says in Brazilian Portuguese with a rural caipira accent, laughing: {Ow! Saiu, rapaz!}
 ```
 
+Se uma fala tem várias emoções, separe em linhas:
+```
+The gorilla's line (surprised): {Ow!}
+The gorilla's line (laughing): {Saiu, rapaz!}
+```
+
+**⚠️ Para não aparecer legenda sozinha** (problema comum, segundo o guia oficial):
+- **Não repita** palavras da fala depois dela. Ex.: não escreva `...{Óia isso}. He says "óia isso" with pride`.
+- **Não coloque** instruções de tom presas a palavras específicas da fala. Use o formato `line (emoção): {fala}`.
+- Se usar `< >` para efeitos, **não coloque nomes de personagens entre `< >`**.
+
 ---
 
-## 7. Proibições (negativas)
+## 6. Áudio sem música
 
-- Use negativas **com moderação**. Uma lista enorme compete com a ação que você quer.
-- Para texto na tela, liste **os quatro juntos**, senão o que ficar de fora pode aparecer: `no subtitles, no text overlay, no watermark, no logo`.
-- Diga a regra duas vezes: uma no trecho onde há fala e outra no fim do prompt. Ex.: `No subtitles, no BGM.`
+O guia oficial avisa que, mesmo com "no BGM", o modelo às vezes transforma efeitos em música. O conserto oficial é:
+1. Listar **todas** as palavras de música: *music, BGM, score, instrumental, melody, soundtrack, synth, ambient pad*.
+2. Repetir essa regra no **começo e no fim** do prompt.
+
+**⚠️ Água e eco:** citar água, ondas ou eco nas instruções de áudio pode gerar chiados, bolhas e ecos estranhos. Se a cena tem rio ou barco, mostre a água na imagem, mas **não cite água na parte de som**, ou cite o mínimo.
 
 ---
 
-## 8. Vídeos com mais de 30 s (como juntar vários prompts)
+## 7. Problemas conhecidos (do FAQ oficial)
+
+| Problema | Conserto oficial |
+|---|---|
+| **Olhos brilhando** (azul/vermelho) com emoções fortes | Troque palavras intensas ("extremamente chocado", "fanático") por neutras ("surpreso", "admirado") e adicione: *"his eyes stay normal and natural and never glow"*. Importante pro nosso gorila de olhos claros. |
+| **Legenda aparece mesmo proibida** | Ver seção 5. |
+| **Música aparece mesmo proibida** | Ver seção 6. |
+| **Texturas de digital** na grama ou nas folhas | A imagem de referência não pode ser maior que a resolução de saída. Use `gorila-branco-1080p.jpg`. |
+| **Erro HTTP 400** com JPG | Converta: `ffmpeg -i foto.jpg -pix_fmt yuvj420p foto-ok.jpg` (ou salve em PNG). |
+| **Personagem trocado** com várias referências | Suba as imagens **na ordem em que os personagens aparecem** e numere no texto nessa ordem. |
+| **Resultado instável** em tarefa complexa | Divida em tarefas menores (gere primeiro, edite depois). |
+| **Áudio com bolhas ou eco** | Tire água, ondas e eco da descrição de som. |
+| **Volume diferente** na extensão | É normal. Fica menor quando o vídeo original também foi gerado pelo 2.5. Ajuste no editor. |
+
+---
+
+## 8. Como fazer vídeos com mais de 30 s
 
 Os nossos vídeos têm de 1:10 a 2:20, então cada vídeo vira **3 a 5 blocos de até 30 s**.
 
-1. **Divida o roteiro em blocos de 20 a 30 s** que terminem num **ponto limpo**: depois de uma fala, numa reação ou numa troca de lugar. Nunca corte no meio de uma frase.
-2. **Bloco 1:** use `@image1` (personagem).
-3. **Blocos seguintes**, de dois jeitos:
-   - **A) Extend:** suba o bloco anterior como `@video1` e peça a continuação. O Seedance continua a partir do último quadro, mantendo personagem, luz e proporção. Melhor quando a cena continua no mesmo lugar.
-   - **B) Novo clipe com continuidade:** `@image1` (personagem) + `@image2` (último quadro do bloco anterior). Melhor quando o bloco começa com um corte, num lugar novo ou com outra câmera.
-4. **Repita em todo bloco**, sem mudar nada: a frase do `@image1`, a descrição visual fixa, a voz e o "Music: none".
-5. Junte tudo no editor (CapCut ou outro).
+1. **Divida o roteiro em blocos** de 20 a 30 s que terminem num ponto limpo: depois de uma fala ou de uma reação. Nunca no meio de uma frase.
+2. Para cada bloco, escolha:
+   - **GERAÇÃO**, se o bloco começa com **corte** (outro lugar, outra câmera ou outro momento). Só a `@Image1` do personagem.
+   - **EXTENSÃO**, se o bloco **continua a mesma cena** sem corte. Suba o bloco anterior como `@Video1` (em MOV, se a plataforma permitir) + `@Image1` do personagem.
+3. Em **todo** bloco, repita a frase do `@Image1`, a descrição fixa, a voz e as regras de som e consistência.
+4. Junte tudo no editor (CapCut ou outro).
 
 ---
 
-## 9. Modelo de prompt (um bloco)
+## 9. Modelos prontos
+
+### A) Bloco de GERAÇÃO
 
 ```
-@image1 defines the main character's face, fur, body and Hawaiian shirt only; ignore its background.
-[@image2 is the last frame of the previous clip; start exactly from this pose, place and lighting.]
+【Generation Goal】
+Generate a funny, warm, photorealistic handheld vlog-style clip in which a huge albino gorilla <evento principal do bloco>. Audio policy: only the gorilla's spoken dialogue plus the specified sound effects and natural ambience; no music, BGM, score, instrumental, melody, soundtrack, synth or ambient pad at any moment.
 
-Subject: [descrição visual fixa do personagem].
-Scene: [lugar, hora do dia, luz, objetos importantes].
-Style: photorealistic handheld vlog, natural light, realistic fur and skin detail, documentary feel.
+【Reference Asset Roles】
+Use @Image1 for the gorilla's face, cream pale-blonde fur, tall blonde crest, pinkish-beige skin, pale blue-gray eyes, heavy build and faded open navy-blue Hawaiian shirt with red hibiscus flowers; do not use the image background.
 
-0-6s: [câmera + ação visível + reação]. He says, [como]: "[fala curta]"
-6-13s: [hard cut to ... / continua ...]. [ação]. He says: "[fala]"
-13-20s: ...
-20-27s: ...
+【Subjects and Relationships】
+There is only one gorilla throughout the clip, and he always wears the open Hawaiian shirt defined by @Image1. <outros personagens, objetos e de quem é cada coisa>.
 
-Performance: playful, goofy and warm; big toothy grin; laughs at himself after every mishap; looks from the object to the camera to share the joke; heavy, clumsy body weight.
-Dialogue: Language: Brazilian Portuguese, rural caipira accent, deep raspy warm male voice, one speaker at a time.
-SFX: [efeitos].
-Ambience: [ambiente].
-Music: none.
-Keep the character's face, fur and Hawaiian shirt identical throughout. No subtitles, no text overlay, no watermark, no logo, no BGM.
+【Event Script】
+0-6 seconds: <câmera/plano>. <estado inicial>; <ação principal>; at the end, <estado visível>. The gorilla says in Brazilian Portuguese with a rural caipira accent, <jeito>: {<fala>}
+6-13 seconds: Hard cut to <nova câmera>. <...>. The gorilla's line (laughing): {<fala>}
+13-20 seconds: <...>
+
+【Visual Style and Camera】
+Photorealistic smartphone vlog footage, natural light, realistic fur and skin detail, slight handheld shake when the gorilla holds the camera.
+
+【Sound】
+<efeito sonoro 1>, <efeito sonoro 2>. Ambience: <ambiente sem citar água>. Only the gorilla speaks. No music of any kind. No subtitles, captions or on-screen text.
+
+【Maintain Consistency】
+Keep the gorilla's identity, face, fur color, eye color and Hawaiian shirt identical throughout; his eyes stay normal and natural and never glow. Keep <objetos e cenário> consistent. The gorilla is always one single character, never duplicated. No music, BGM or score; no subtitles.
 ```
 
----
+### B) Bloco de EXTENSÃO
 
-## Fontes
+```
+@Video1 is the source video to extend forward.
+Use @Image1 for the gorilla's face, cream pale-blonde fur, tall blonde crest, pinkish-beige skin, pale blue-gray eyes, heavy build and faded open navy-blue Hawaiian shirt with red hibiscus flowers; do not use the image background.
 
-- [Dreamina Seedance 2.5 prompt guide — BytePlus ModelArk (oficial)](https://docs.byteplus.com/en/docs/ModelArk/2607689)
-- [Introducing Seedance 2.5 — ByteDance Seed](https://seed.bytedance.com/en/blog/one-take-creation-flexible-referencing-introducing-seedance-2-5)
-- [Seedance 2.5 guide — GitHub (gracech0322-cmd)](https://github.com/gracech0322-cmd/seedance-2-5)
-- [How to Prompt Seedance 2.5 — Kapwing](https://www.kapwing.com/resources/how-to-prompt-seedance-2-5-a-guide-for-ai-video-creators/)
-- [Seedance 2.5 Complete Guide — Luma AI](https://lumalabs.ai/learning-center/articles/seedance-2-5-complete-guide)
-- [Multilingual video with Seedance 2.5 — Runware](https://runware.ai/docs/models/bytedance-seedance-2-5/guides/multilingual)
-- [Seedance 2.5 Video Extend — ComfyUI](https://comfy.org/workflows/f3096e2ffb64-f3096e2ffb64/)
-- [Seedance 2.5 Negative Prompts — Dreamina](https://dreamina.capcut.com/seedance/seedance-2-5-negative-prompts)
-- [What Is Seedance 2.5? — MindStudio](https://www.mindstudio.ai/blog/what-is-seedance-2-5-bytedance-ai-video-model)
+Extend @Video1 forward. The first frame of the extended segment directly continues from the final frame of @Video1: maintain continuity in the gorilla's posture and position, <objetos>, <lugar>, the camera position and framing, the lighting and the ambient sound. Audio policy: only the gorilla's dialogue, the specified sound effects and natural ambience; no music, BGM, score, instrumental, melody, soundtrack, synth or ambient pad.
+
+【Stage 1】
+Continuing from the final frame: <ação principal>; at the end, <estado visível>. The gorilla says in Brazilian Portuguese with a rural caipira accent, <jeito>: {<fala>}
+【Stage 2】
+<ação>; at the end, <estado>. The gorilla's line (<emoção>): {<fala>}
+【Stage 3】
+<ação final>; at the end, <estado final>.
+
+【Sound】
+<efeitos>. Ambience: <ambiente>. Only the gorilla speaks. No subtitles, captions or on-screen text.
+
+Throughout the extension, keep the gorilla's identity, face, fur, eye color and Hawaiian shirt, <objetos>, the layout of <lugar> and the camera axis consistent; his eyes stay normal and never glow. The gorilla remains the same single continuous character throughout, never duplicated or split, and his body structure stays stable. No music, BGM or score; no subtitles.
+```
+
+**Configurações na tela:** GERAÇÃO → proporção 9:16, duração do bloco, áudio ligado. EXTENSÃO → proporção *adaptive* (travada), duração da extensão, áudio ligado e saída MOV se houver.

@@ -24,7 +24,7 @@ Formatos:
 ## ESTRUTURA (1:10 a 2:20; 6 a 10 cenas de 3 a 15s)
 1. GANCHO (0–5s): começa NO MEIO da ação, de preferência com um acidente físico (queda, coisa escapando, susto). Nunca "olá pessoal".
 2. OBJETIVO: uma frase curta dizendo o que vai rolar hoje.
-3. PASSOS: cada cena = UMA etapa + UMA fala curta + UM micro-acontecimento. O ajudante interrompe de 2 a 3 vezes (rouba, se mete em perigo, pisa nele, pula onde não deve).
+3. PASSOS: cada cena = UMA etapa + UMA fala curta + UM micro-acontecimento. O ajudante (ou, sem ajudante, o AMBIENTE: bichos da mata, objetos que quebram, gambiarras que falham) interrompe de 2 a 3 vezes.
 4. ESCALADA/VIRADA: algo sai do controle ou fica mais absurdo.
 5. CLÍMAX: o momento mais intenso (susto, fuga ou técnica espetacular com vapor, fogo ou chiado).
 6. RECOMPENSA: ele come de boca cheia (olhos semicerrados, sujo, sem se limpar) ou relaxa.
@@ -57,51 +57,28 @@ Selfie tremida grande-angular (andando, desabafo, sussurro, perigo) · fixa na a
 ETAPA 1 — quando eu mandar uma IDEIA, responda SÓ com:
   a) Título + formato + duração estimada + 1 linha de logline.
   b) Tabela de cenas: nº | tempo | câmera | o que acontece | FALA EXATA | micro-acontecimento/ajudante.
-  c) Checklist: gancho nos 3s? 2+ trapalhadas com risada? sorri/ri na maioria das cenas? objetivo dito? ajudante interrompe 2+ vezes? dica de mestre? frase citável? vulnerabilidade? recompensa? fecho com ironia/callback? falas cabem no tempo?
+  c) Checklist: gancho nos 3s? 2+ trapalhadas com risada? sorri/ri na maioria das cenas? objetivo dito? ajudante ou ambiente interrompe 2+ vezes? dica de mestre? frase citável? vulnerabilidade? recompensa? fecho com ironia/callback? falas cabem no tempo?
   Depois pergunte se aprovo ou quero ajustar. Se a ideia vier vaga, proponha 3 variações curtas antes.
 
-ETAPA 2 — quando eu aprovar, monte os prompts do SEEDANCE 2.5 assim:
+ETAPA 2 — quando eu aprovar, monte os prompts do SEEDANCE 2.5 seguindo o guia oficial:
 
-  1) PLANO DE BLOCOS: o Seedance 2.5 gera até 30s por vez. Agrupe as cenas em BLOCOS de 20 a 30s (um vídeo de 1:10 a 2:20 dá 3 a 5 blocos). Cada bloco termina num ponto limpo (depois de uma fala, numa reação ou numa troca de lugar), nunca no meio de uma frase. Mostre uma tabela: bloco | tempo | cenas incluídas | duração a configurar | modo (NOVO ou EXTEND).
-     - NOVO: novo clipe com @image1 (personagem) + @image2 (último quadro do bloco anterior), quando muda de lugar ou começa com corte.
-     - EXTEND: continua o bloco anterior (@video1), quando a cena segue no mesmo lugar.
+  1) PLANO DE BLOCOS: o Seedance 2.5 gera até 30s por vez. Agrupe as cenas em BLOCOS de 20 a 30s (um vídeo de 1:10 a 2:20 dá 3 a 5 blocos). Cada bloco termina num ponto limpo (depois de uma fala ou reação), nunca no meio de uma frase. Mostre uma tabela: bloco | tempo | cenas | duração | tipo.
+     - GERAÇÃO: o bloco começa com um corte (outro lugar, outra câmera ou outro momento). Referência: só @Image1 (personagem).
+     - EXTENSÃO: o bloco continua a mesma cena sem corte. Referências: @Video1 (bloco anterior) + @Image1.
 
-  2) UM PROMPT POR BLOCO, neste formato exato:
+  2) UM PROMPT POR BLOCO, usando EXATAMENTE os modelos A (GERAÇÃO) ou B (EXTENSÃO) do guia abaixo. Seções de GERAÇÃO: 【Generation Goal】(com Audio policy) 【Reference Asset Roles】 【Subjects and Relationships】 【Event Script】 【Visual Style and Camera】 【Sound】 【Maintain Consistency】. A EXTENSÃO começa com "@Video1 is the source video to extend forward." e "Extend @Video1 forward. The first frame of the extended segment directly continues from the final frame of @Video1: ..." e usa 【Stage N】.
 
-  BLOCO X — [título] — duração: Ns — modo: NOVO/EXTEND
-  Referências pra subir (na ordem): @image1 = imagem do personagem; [@image2 = último quadro do bloco anterior] [@video1 = bloco anterior, se EXTEND]
-  Prompt (cole no Seedance):
-  """
-  @image1 defines the main character's face, fur, body and Hawaiian shirt only; ignore its background.
-  [@image2 is the last frame of the previous clip; start exactly from this pose, place and lighting.]  ← só se modo NOVO a partir do bloco 2
-  [Continue @video1 seamlessly from its last frame.]  ← só se modo EXTEND
-
-  Subject: [DESCRIÇÃO VISUAL FIXA, idêntica em todos os blocos].
-  Scene: [lugar, hora do dia, luz, objetos].
-  Style: photorealistic handheld vlog, natural light, realistic fur and skin detail, documentary feel.
-
-  0-6s: [câmera + ação VISÍVEL com direção/contato/reação]. He says, [como]: "[FALA EXATA EM PORTUGUÊS]"
-  6-12s: [hard cut to ... / continua]. ...
-  (intervalos em segundos inteiros, 1 ação principal + no máximo 1 fala curta por intervalo, falas só com o rosto visível)
-
-  Performance: playful, goofy and warm; big toothy grin; laughs at himself after every mishap; looks from the object to the camera to share the joke; heavy, clumsy body weight. [detalhes do bloco: quando ri, quando se assusta]
-  Dialogue: Language: Brazilian Portuguese, rural caipira accent, [VOZ FIXA], one speaker at a time.
-  SFX: [efeitos].
-  Ambience: [ambiente].
-  Music: none.
-  Keep the character's face, fur and Hawaiian shirt identical throughout. No subtitles, no text overlay, no watermark, no logo, no BGM.
-  """
-  Configurações: proporção 9:16 · duração Ns · áudio ligado.
-  Se der errado: [dica específica, ex.: gerar de novo só esse bloco / encurtar fala X].
-
-  Regras da Etapa 2:
-  - A descrição vai em INGLÊS; as falas ficam em PORTUGUÊS, entre aspas, exatamente como no roteiro (com a grafia do sotaque).
-  - NUNCA escreva duração, resolução, fps ou proporção dentro do prompt (isso vai nas configurações).
-  - Use "hard cut to" para trocar de câmera dentro do bloco. Nunca escreva "Shot 1/Shot 2".
-  - Descreva emoções como ações visíveis (gargalha jogando a cabeça pra trás), não como adjetivos.
-  - Nada de ordens de câmera que se anulam. Uma ação principal por intervalo.
-  - Uma pessoa falando por vez; falas curtas; diga em que segundo cada fala começa.
-  - No fim, inclua uma sugestão de legenda (caption) curta pro post, com 3 a 5 hashtags.
+  Regras OFICIAIS obrigatórias:
+  - Descrição em INGLÊS. Falas em PORTUGUÊS, entre CHAVES { }, com a grafia do sotaque, e a declaração em CADA fala: "The gorilla says in Brazilian Portuguese with a rural caipira accent, <jeito>: {fala}". Se houver várias emoções: "The gorilla's line (<emoção>): {fala}", uma por linha.
+  - Nunca repita palavras da fala depois dela, nem prenda instrução de tom a palavras da fala (isso faz surgir legenda).
+  - Efeitos sonoros entre < >. Nunca nomes de personagens entre < >.
+  - Intervalos de segundos inteiros, contínuos e sem buracos ("0-6 seconds: ... 6-13 seconds: ..."). Cada intervalo/etapa tem UMA mudança principal e termina num estado visível ("at the end, ..."). Mostre a causa antes da reação.
+  - Emoções viram ações visíveis. Use palavras neutras ("surprised", "amazed"), nunca intensas ("extremely shocked"), e mantenha "his eyes stay normal and natural and never glow".
+  - Sem música: a "Audio policy" listando music, BGM, score, instrumental, melody, soundtrack, synth, ambient pad vai no início E a proibição se repete no fim. "No subtitles, captions or on-screen text."
+  - Não cite água, ondas ou eco na parte de som (gera artefatos), mesmo que a cena tenha água.
+  - NUNCA escreva duração, proporção, resolução ou fps no prompt.
+  - Depois de cada prompt: "Configurações:" (GERAÇÃO: 9:16, duração Ns, áudio ligado | EXTENSÃO: proporção adaptive, duração Ns, áudio ligado, saída MOV se houver) e "Referências pra subir (na ordem):".
+  - No fim, sugira uma legenda (caption) curta pro post, com 3 a 5 hashtags.
 
 ## FICHA DO MEU PERSONAGEM
 [COLE AQUI A FICHA PREENCHIDA]
