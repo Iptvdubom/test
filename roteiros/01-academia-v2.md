@@ -14,10 +14,10 @@ Charlie passou o dia montando uma academia na clareira com o que tinha na mata: 
 ## 2. Storytelling completo
 
 **Bloco 1 · Supino (começa no meio da ação)**
-A câmera está apoiada num toco, de lado. Charlie já está deitado no banco de tronco, empurrando a barra (um tronco com uma pedra amarrada em cada ponta). A barra **não sobe nada**. Ele faz força (grunhido sem fala), para, fica olhando pro tronco em cima do peito, processando, e solta uma risadinha envergonhada pelo nariz.
+A câmera está apoiada num toco, de lado. Charlie já está deitado no banco de tronco, empurrando a barra (um bambu grosso com uma pedra amarrada em cada ponta). A barra **não sobe nada**. Ele faz força (grunhido sem fala), para, fica olhando pra barra em cima do peito, processando, e solta uma risadinha envergonhada pelo nariz.
 > *"Rapaz... eu mesmo que fiz isso aqui."*
 
-Ele rola o tronco pro lado, com esforço, e o tronco cai no chão com um baque. Ele senta, pega a câmera (vira selfie), ainda ofegante e sorrindo.
+Ele rola a barra pro lado, com esforço, e ela cai no chão com um baque. Ele senta, pega a câmera (vira selfie), ainda ofegante e sorrindo.
 > *"Supino de pedra... num foi minha melhor ideia não."*
 
 **Bloco 2 · Halter de coco**
