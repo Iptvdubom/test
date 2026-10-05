@@ -1,5 +1,7 @@
 # Roteiro 01 — Academia de rico na roça
 
+> ⚠️ **Versão antiga.** A versão atual é [01-academia-v2.md](01-academia-v2.md).
+
 - **Formato:** Obra (+ recompensa comendo)
 - **Duração estimada:** ~1:43
 - **Logline:** Charlie monta uma "academia de rico" numa clareira no meio da selva, com tronco, pedra, coco e bambu. Tudo dá errado de um jeito engraçado, a esteira de bambu dispara e joga ele num monte de folha seca, e no fim quem fica preso no supino é o bode.

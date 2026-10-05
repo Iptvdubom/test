@@ -1,5 +1,7 @@
 # Roteiro 01 — Academia de rico na roça · Prompts do Seedance 2.5
 
+> ⚠️ **Versão antiga.** A versão atual é [01-academia-v2.md](01-academia-v2.md).
+
 ## Como usar as referências
 
 Nos prompts, as referências aparecem com estes nomes. Troque cada nome pela referência da sua plataforma (por exemplo `@Image1`) ou mencione o arquivo no lugar dele.
