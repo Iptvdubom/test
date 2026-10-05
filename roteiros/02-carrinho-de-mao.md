@@ -42,7 +42,7 @@ Com um **formão e um martelo de madeira**, ele abre um furo no meio da rodela, 
 **Bloco 4 · Pintura e o bode listrado** *(câmera apoiada → selfie)*
 O banco de palha trançada com encosto de bambu já está encaixado na caçamba. Charlie está terminando de pintar o carrinho com a mão aberta, molhando a mão numa cuia de tinta escura, de azul-escuro quase preto. Concentrado, ele explica rapidinho pra câmera sem parar de pintar:
 > *"Tinta de jenipapo com carvão."*
-> *"Isso aqui num sai da pele não, viu. Dura semana."*
+> *"Isso aqui num sai da pele não, viu."*
 
 Ao terminar, ele coça a bochecha com a mão suja e deixa uma faixa escura no rosto, **sem perceber**.
 
