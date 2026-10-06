@@ -243,3 +243,15 @@ Exemplo: *The overall emotion shifts from confident to sheepish amusement. After
 - **Sem cores com cara de partido** em objetos pintados, roupas novas ou destaques: evite **vermelho** e a combinação **verde-amarelo**. (A camisa oficial do Charlie, azul com flores, não muda.) Prefira tons naturais: azul-escuro de jenipapo, branco de tabatinga, preto de carvão, marrom de barro, cor natural da madeira.
 - **Sem números, gestos, frases ou símbolos** que lembrem campanha, candidato ou partido (ex.: "13", "22", "L" com a mão, "mito").
 - Isso vale principalmente em época de eleição, mas é bom manter sempre: comentário político afasta metade do público.
+
+---
+
+## 20. Ajustes vindos do usuário (episódio 02)
+
+- **Sem vício de "rapaz"**: no máximo 1 vez por vídeo. **Nunca "cê viu isso?"**.
+- **Gritos de adrenalina são humanos**: "IUUUHUUUL!", "VAI! VAI!", "AAAAAAH!". Nada de "ô ô ô" nem som de gorila.
+- **Áudio de referência de voz** pode ser usado pra naturalidade da fala, entonação e risinhos, **mas não em blocos que são só gritos** (ele "domestica" o grito).
+- **Final sem chamada pra compartilhar** é uma opção válida: cortar no meio da gargalhada funciona muito bem. A chamada pra marcar alguém é opcional, não obrigatória.
+- **Gancho pode ser um recorte** dos primeiros segundos do bloco do clímax: fica idêntico e economiza uma geração.
+- **No máximo 3 cortes por bloco** em montagem de processo (serrar → furar → encaixar).
+- **Animal que sai de cena pode sair de vez** (o pato voa e não volta), sem precisar de desfecho.
