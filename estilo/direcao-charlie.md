@@ -255,3 +255,63 @@ Exemplo: *The overall emotion shifts from confident to sheepish amusement. After
 - **Gancho pode ser um recorte** dos primeiros segundos do bloco do clímax: fica idêntico e economiza uma geração.
 - **No máximo 3 cortes por bloco** em montagem de processo (serrar → furar → encaixar).
 - **Animal que sai de cena pode sair de vez** (o pato voa e não volta), sem precisar de desfecho.
+
+---
+
+## 21. Detalhes naturais (microgestos): o que dá vida ao Charlie
+
+### O que as análises dos vídeos do Sapulha mostram
+As descrições dos 9 vídeos citam vários desses detalhes. Eles aparecem nas seções "Microgestos e ações secundárias" e "Naturalidade":
+
+| Detalhe | Onde aparece no Sapulha |
+|---|---|
+| **Batidinhas num objeto** | V4: "batidinhas leves no banco de madeira" ao falar com o dono do barco |
+| **Mão alisando/acariciando o material** | V6: "mão grande acariciando de forma metódica a superfície" do tronco de bananeira · V2: alisa a massa repetidamente |
+| **Mão apoiada no objeto enquanto fala** | V5: "mão grande descansando sobre o tronco" · V6: cabeça encostada no poste de bambu |
+| **Soprar** (poeira, tinta, vapor) | V8: sopra poeira e assopra a tinta pra secar · V7: cobre o rosto do vapor |
+| **Lamber os lábios** | V1: ao falar do "sabor todo" · V4: tirando a água salgada |
+| **Expiração pelo nariz antes de falar** | V1: "leve expiração anasalada antes de falar" |
+| **Sons de esforço reais** | V1, V2, V3, V5: respiração pesada, grunhidos, "uh" de esforço |
+| **Suspiro de satisfação/cansaço** | V3: espreguiça com um "Ah..." audível · V5: suspiros no banho |
+| **Atraso orgânico de reação** | V3: "os olhos arregalam uma fração de segundo antes de ele falar" |
+| **Mão congelada / ação interrompida** | V1: mastigação interrompida no susto · V5: congela a mão no ar e desiste |
+| **Sujeira ignorada** | V1, V2: suco e caldo escorrendo, pó laranja nos dedos, sem se limpar |
+| **Balanço do corpo passando pra câmera** | V1, V2: pequenos solavancos da cabeça a cada passo |
+| **Pinça delicada × força bruta** | V1, V2: dedos em pinça pro louro e pro bambu × esmagar o tomate |
+
+**O que as análises NÃO citam, mas você sugeriu:** coçar o rosto/testa, olhar pros lados de vez em quando e a fungada pelo nariz ("hiif"). Entram também, porque são o mesmo tipo de detalhe e combinam com a regra do ChatGPT (sempre com motivo físico).
+
+### Biblioteca de microgestos (com a frase em inglês pro prompt)
+
+**Mãos e objetos**
+- Batidinhas de aprovação/posse (2 ou 3): `pats it two or three times with his open palm, like a proud owner`
+- Alisar o material: `runs his big palm slowly along the surface, feeling it`
+- Apoiar a mão enquanto fala: `rests one big hand on it while he talks`
+- Soprar poeira/serragem: `blows the dust off it with a short puff`
+- Bater as mãos pra tirar a poeira: `claps the dust off his hands twice`
+
+**Rosto e respiração**
+- Coçar (com motivo: suor, poeira, mosquito): `scratches his cheek / forehead / behind his ear with one finger`
+- Fungada pelo nariz: `a quick, slightly congested-sounding sniff in through his nose` (NON-SPEECH)
+- Som de esforço curto: `a short nasal NON-SPEECH effort huff as he pulls` (nunca escreva "hunf" como fala)
+- Soprar o ar de cansaço: `blows out a long breath through pursed lips`
+- Suspiro satisfeito: `a long, contented NON-SPEECH sigh`
+- Lamber os lábios antes de comer: `licks his lips`
+- Apertar os olhos contra o sol ou a fumaça: `squints against the light`
+
+**Olhar e atenção**
+- Olhar pro lado ao ouvir algo: `glances to the side at a bird call, then back`
+- Conferir o caminho ou o entorno: `glances around the clearing for a moment`
+- Atraso de reação: `freezes for a split second before reacting`
+
+**Corpo**
+- Alongar depois do esforço: `stretches his back with one hand on his lower back`
+- Encostar no objeto: `leans his shoulder against it`
+- Ajeitar a camisa: `tugs his open shirt straight`
+
+### Regras de uso
+- **1 a 3 microgestos por bloco**, nunca uma lista enorme. Senão vira coreografia.
+- **Sempre com motivo físico ou emocional:** coça porque tem poeira, funga porque fez força, dá tapinhas porque gostou.
+- **Não repita o mesmo gesto em blocos seguidos.**
+- **Sons (huff, fungada, suspiro) sempre como NON-SPEECH**, descritos, nunca escritos como fala.
+- **Os melhores momentos pra encaixar:** quando ele acha algo, quando termina uma etapa, depois de um esforço, antes de uma decisão e enquanto espera.
