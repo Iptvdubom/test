@@ -315,3 +315,10 @@ As descrições dos 9 vídeos citam vários desses detalhes. Eles aparecem nas s
 - **Não repita o mesmo gesto em blocos seguidos.**
 - **Sons (huff, fungada, suspiro) sempre como NON-SPEECH**, descritos, nunca escritos como fala.
 - **Os melhores momentos pra encaixar:** quando ele acha algo, quando termina uma etapa, depois de um esforço, antes de uma decisão e enquanto espera.
+
+---
+
+## 22. Vocativos (como o Charlie chama o público)
+
+- **Usar:** "meu povo" (padrão), "minha gente", "meus amigo" (caipira, sem o s), "turma". No máximo 2 vezes por vídeo, de preferência no gancho e/ou no final.
+- **Nunca:** "fi", "meus fi", "danado" (marcas do Sapulha), "sô", "uai" (gíria mineira), **"companheiro(s)"/"companheirada"** (tem cara de política).
