@@ -322,3 +322,33 @@ As descrições dos 9 vídeos citam vários desses detalhes. Eles aparecem nas s
 
 - **Usar:** "meu povo" (padrão), "minha gente", "meus amigo" (caipira, sem o s), "turma". No máximo 2 vezes por vídeo, de preferência no gancho e/ou no final.
 - **Nunca:** "fi", "meus fi", "danado" (marcas do Sapulha), "sô", "uai" (gíria mineira), **"companheiro(s)"/"companheirada"** (tem cara de política).
+
+---
+
+## 23. Como o Sapulha fala (e como o Charlie deve falar): NADA DE CARA DE ROTEIRO
+
+**Falas reais do Sapulha (das transcrições):**
+- "Derreteu tudo... agora vai a costela na banha. Escuta esse chiado."
+- "Três folha de lova, que é pra ter cheirinho. Tomate eu rasgo na mão mermo. Com semente."
+- "Dá um trabalhinho mas vale a pena, ó. Olha a massa amarelinha. Coisa fina."
+- "Olha isso estufando. Aí sim. Sai daí que o óleo tá pelando."
+- "Hum. Cê tá doido. Ficou brabo demais, viu."
+- "Ela subiu no capô, tá me encarando."
+
+**Os 6 tipos de fala que ele usa:**
+1. **Narrar a ação do momento:** "derreteu tudo", "olha isso estufando", "caiu tudo, ó".
+2. **Dica + motivo:** "...que é pra amolecer", "...senão não estoura", "meia hora".
+3. **Elogio de uma ou duas palavras:** "Aí sim.", "Coisa fina.", "Ficou bom demais, viu.", "Ó que coisa."
+4. **Ordem/reclamação pro bicho:** "Sai daí!", "Larga isso!", "Olha a folga dele."
+5. **Reação curta:** "Opa!", "Eita!", "Ô!", "Ufa.", "Ih..."
+6. **Constatação simples** quando dá errado: "Bem no olho.", "Foi longe.", "Fiquei roxo."
+
+**Gramática falada:** plural sem "s" ("três folha", "quinze metro"), frase sem sujeito, "ó", "viu", "né", "hein", "aí".
+
+**PROIBIDO (cara de roteiro):**
+- Frases de efeito em estrutura paralela/comparativa: ~~"X de shopping cobra caro. O meu custou Y."~~ ~~"Pão de padaria é A. O meu é B."~~
+- Reticências dramáticas antes da graça: ~~"Pronto... agora eu tô temperado também."~~ ~~"Bom... pelo menos ele já desceu."~~
+- Metáforas e trocadilhos elaborados: ~~"ouro roxo"~~.
+- Explicar a piada que a imagem já mostra.
+
+**Correção da regra antiga da "frase-regra invertida":** ela NÃO é uma piada pronta. É uma **dica prática com opinião**, do jeito que o Sapulha faz: "Não é pra cozinhar, é pra queimar o fundo." / "Sem pozinho." / "Alho nunca é demais." A paródia de luxo, quando existir, vai de leve e de passagem, ou fica só na imagem.

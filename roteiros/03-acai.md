@@ -10,7 +10,7 @@
 
 Açaí na tigela é coisa de shopping e de academia, mas o Charlie faz do jeito raiz: sobe no pé de açaí, derruba o cacho, debulha, amassa na mão e monta a tigela com banana, castanha e mel. O vídeo **abre com ele lá no alto do açaizeiro**, e o cacho cai antes da hora.
 
-**Por que funciona:** gancho com altura e susto; receita da moda feita do jeito mais rústico; paródia de luxo ("açaí de shopping"); um detalhe cultural verdadeiro (no Pará se come com peixe e farinha); cor forte (o roxo) que chama atenção no feed; e um final em espelho com o bode de focinho roxo.
+**Por que funciona:** gancho com altura e susto; receita da moda (açaí de academia) feita do jeito mais rústico, sem precisar dizer isso; um detalhe cultural verdadeiro (no Pará se come com peixe e farinha); cor forte (o roxo) que chama atenção no feed; e um final em espelho com o bode de focinho roxo.
 
 ---
 
@@ -23,61 +23,75 @@ Açaí na tigela é coisa de shopping e de academia, mas o Charlie faz do jeito 
 Na mesma hora o cacho escapa da mão e despenca, passando raspando pela câmera. O tronco balança forte.
 > *"OPA!"* (grito de susto de verdade)
 
-Ele abraça o tronco com tudo, de olhos arregalados. Fica um segundo parado e depois solta um riso nervoso, curto, pelo nariz. Olha pra baixo: o cacho está lá no chão, pequenininho.
-> *"Bom... pelo menos ele já desceu."*
+Ele abraça o tronco com tudo, de olhos arregalados.
+> *"Opa! Opa!"*
 
-Olha pra baixo de novo. Fungada. Sobrancelhas sobem devagar.
-> *"Agora falta eu."*
+Fica um segundo parado e solta um riso nervoso, curto, pelo nariz. Olha pra baixo: o cacho está lá no chão, pequenininho.
+> *"Eita... foi lá embaixo, ó."*
+
+Fungada. Olha pra baixo de novo.
+> *"Agora tem que descer, né."*
 
 > 🔹 Detalhes naturais: o vento balançando as folhas da palmeira na cara dele · ele aperta os olhos contra o sol · fungada antes da última fala.
 
 **Bloco 2 · A descida** *(selfie)*
 Charlie desce o tronco aos pouquinhos, abraçado, com a peçonha nos pés, em selfie, ofegante, com "huff" de esforço a cada escorregada. Uma folha da palmeira bate na cara dele; ele afasta com a cabeça e ri baixinho. Na metade, escorrega um palmo de uma vez: arregala os olhos e solta um *"Eita!"*. Chega no chão, encosta a testa no tronco, solta o ar comprido e dá 2 tapinhas no tronco.
-> *"Quinze metro... na subida parecia menos."*
+> *"Ufa."*
+> *"Alto demais esse pé, viu."*
 
 Ele vira a câmera pro cacho no chão: o **Juvêncio** já está lá, comendo as bolinhas.
-> *"Ô! Esse aí é meu!"*
+> *"Ô, sai daí! Isso aí é meu!"*
 
 O bode continua mastigando, sem pressa nenhuma. Charlie ri pelo nariz e balança a cabeça.
+> *"Olha a folga dele."*
 
 > 🔹 Detalhes naturais: "huff" de esforço · encosta a testa no tronco · tapinhas no tronco · bate as mãos pra tirar a sujeira.
 
 **Bloco 3 · Debulhando** *(câmera apoiada: ele precisa das duas mãos)*
 Sentado num toco, com uma bacia de barro entre os pés, Charlie esfrega o cacho com as duas mãos e as bolinhas roxas chovem na bacia. O Juvêncio enfia o focinho na bacia e Charlie afasta a cabeça do bode com carinho, sem parar de debulhar.
-> *"Cê já comeu sua parte."*
+> *"Ô, já comeu, já!"*
 
 Ele derrama água morna de uma panela de barro sobre as bolinhas.
-> *"Meia hora de molho, pra amolecer."*
+> *"Água morninha, que é pra amolecer. Meia hora."*
 
 Enquanto espera, olha pra câmera, com a mão apoiada na borda da bacia:
-> *"No Pará, açaí é com peixe frito e farinha."*
-> *"Mas hoje... hoje é açaí de shopping."* (sorrisinho de canto)
+> *"Lá no Pará come com peixe e farinha, viu."*
+> *"Hoje vai ser com banana mesmo."* (sorrisinho de canto)
 
 > 🔹 Detalhes naturais: sopra uma folhinha seca que caiu na bacia · coça a testa com o dorso da mão.
 
 **Bloco 4 · Amassando** *(câmera apoiada → selfie)*
-Charlie amassa as bolinhas com as mãos dentro da bacia, com força e ritmo. A água vai ficando roxa e grossa. Numa amassada mais forte, um esguicho roxo espirra e acerta a cara dele bem no meio. Ele congela meio segundo, de olhos fechados, e depois cai numa risada média, com os ombros sacudindo.
-> *"Pronto... agora eu tô temperado também."*
+Charlie amassa as bolinhas com as mãos dentro da bacia, com força e ritmo. A água vai ficando roxa e grossa.
+> *"Amassa bem amassado, ó."*
+ Numa amassada mais forte, um esguicho roxo espirra e acerta a cara dele bem no meio. Ele congela meio segundo, de olhos fechados.
+> *"Ô!"*
 
-Ele passa a massa numa peneira de palha e o caldo grosso escorre pra uma cuia. Pega a câmera (selfie), passa o dedo no caldo, prova e fecha os olhos.
-> *"Hum..."* (suspiro longo)
-> *"Isso aqui é ouro roxo."*
+E cai numa risada média, com os ombros sacudindo, limpando o olho.
+> *"Bem no olho."*
+
+Ele passa a massa numa peneira de palha e o caldo grosso escorre pra uma cuia.
+> *"Agora na peneira, que é pra sair o caroço."*
+
+Pega a câmera (selfie), passa o dedo no caldo, prova e fecha os olhos.
+> *"Hum. Aí sim."*
+> *"Grossinho do jeito que tem que ser."*
 
 > 🔹 Detalhes naturais: "huff" curto a cada amassada · lambe o dedo · funga satisfeito.
 
 **Bloco 5 · Montando a tigela** *(câmera apoiada → selfie)*
 Numa cuia de coco cortada ao meio, ele despeja o açaí grosso. Fatia uma banana com uma faca velha. Bate numa castanha com uma pedra: *TOC*. A castanha escapa e voa longe. Ele acompanha com os olhos, pega outra e bate com mais cuidado: *toc*. Agora abre.
-> *"Essa fugiu."*
+> *"Ih... foi longe."*
 
 Ele esmigalha a castanha por cima, escorre mel de um favo e dá um passo pra trás pra admirar a tigela. Pega a câmera:
-> *"Açaí de shopping cobra caro."*
-> *"O meu custou subir quinze metro."*
+> *"Banana, castanha, mel do favo... ó que coisa."*
 
 > 🔹 Detalhes naturais: dá 2 tapinhas na borda da cuia antes de pegar a câmera · lambe o mel do polegar.
 
 **Bloco 6 · A primeira colherada e o final** *(selfie)*
-Sentado no toco, com a cuia no colo, ele dá a primeira colherada. Fecha os olhos, solta os ombros e dá um suspiro longo e satisfeito. Abre um sorriso enorme pra câmera: os dentes estão todos roxos. Percebe pela tela e ri pelo nariz.
-> *"Valeu cada metro."*
+Sentado no toco, com a cuia no colo, ele dá a primeira colherada. Fecha os olhos, solta os ombros e dá um suspiro longo e satisfeito. > *"Hum..."* (olhos fechados) *"Nossa senhora..."*
+
+Abre um sorriso enorme pra câmera: os dentes estão todos roxos. Percebe pela tela e ri pelo nariz.
+> *"Fiquei roxo."*
 
 Atrás dele aparece o Juvêncio, que acabou de lamber a bacia: **o focinho todo roxo**. O bode encara a câmera, mastigando. Charlie vira, vê o bode e solta a **gargalhada grande** do vídeo, com a cabeça pra trás e limpando o olho.
 > *"Olha a cara dele, meu povo!"*
@@ -99,14 +113,14 @@ E corta no meio da gargalhada. *(Opcional, se quiser chamada: "Marca aí quem su
 | 1 | Gancho no alto → o cacho cai → "agora falta eu" | **26 s** | selfie | @CHARLIE · @ACAIZEIRO |
 | 2 | Descida → tapinhas no tronco → o bode no cacho | **28 s** | selfie | @CHARLIE · @ACAIZEIRO · @BODE |
 | 3 | Debulha → molho → "no Pará é com peixe" | **28 s** | apoiada | @CHARLIE · @TERREIRO · @BODE |
-| 4 | Amassa → esguicho na cara → peneira → "ouro roxo" | **28 s** | apoiada → selfie | @CHARLIE · @TERREIRO |
-| 5 | Monta a cuia → a castanha foge → paródia do shopping | **27 s** | apoiada → selfie | @CHARLIE · @TERREIRO |
-| 6 | Primeira colherada → dentes roxos → bode de focinho roxo → gargalhada | **28 s** | selfie | @CHARLIE · @TERREIRO · @BODE |
+| 4 | Amassa → esguicho no olho → peneira → "Aí sim" | **28 s** | apoiada → selfie | @CHARLIE · @TERREIRO |
+| 5 | Monta a cuia → a castanha foge → "ó que coisa" | **27 s** | apoiada → selfie | @CHARLIE · @TERREIRO |
+| 6 | Primeira colherada → "Nossa senhora" → "Fiquei roxo" → bode de focinho roxo → gargalhada | **28 s** | selfie | @CHARLIE · @TERREIRO · @BODE |
 
 ### Mapa das risadas e expressões
 | Bloco | Expressão |
 |---|---|
-| 1 | sorriso de anúncio → **grito de susto** → olhos arregalados abraçando o tronco → riso nervoso pelo nariz |
+| 1 | sorriso de anúncio → **grito de susto** → "Opa! Opa!" abraçando o tronco → riso nervoso pelo nariz |
 | 2 | esforço e ofegante → "Eita!" de susto → alívio → riso pelo nariz com o bode |
 | 3 | carinho com o bode → paciência → sorrisinho de canto |
 | 4 | força → congela com o esguicho → **risada média** → prazer de olhos fechados |
