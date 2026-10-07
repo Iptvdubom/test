@@ -20,11 +20,8 @@ Açaí na tigela é coisa de shopping e de academia, mas o Charlie faz do jeito 
 **0–3 s:** selfie no topo de um açaizeiro altíssimo, que balança com o peso dele. Charlie, agarrado no tronco com os pés presos na peçonha, segura o cacho com a mão livre e sorri pra câmera:
 > *"Hoje tem açaí, meu povo!"*
 
-Na mesma hora o cacho escapa da mão e despenca, passando raspando pela câmera. O tronco balança forte.
-> *"OPA!"* (grito de susto de verdade)
-
-Ele abraça o tronco com tudo, de olhos arregalados.
-> *"Opa! Opa!"*
+Na mesma hora o cacho escapa da mão e despenca, passando raspando pela câmera. O tronco balança forte e ele abraça o tronco com tudo, de olhos arregalados.
+> *"OPA! OPA!"* (grito de susto de verdade)
 
 Fica um segundo parado e solta um riso nervoso, curto, pelo nariz. Olha pra baixo: o cacho está lá no chão, pequenininho.
 > *"Eita... foi lá embaixo, ó."*
@@ -63,7 +60,8 @@ Enquanto espera, olha pra câmera, com a mão apoiada na borda da bacia:
 **Bloco 4 · Amassando** *(câmera apoiada → selfie)*
 Charlie amassa as bolinhas com as mãos dentro da bacia, com força e ritmo. A água vai ficando roxa e grossa.
 > *"Amassa bem amassado, ó."*
- Numa amassada mais forte, um esguicho roxo espirra e acerta a cara dele bem no meio. Ele congela meio segundo, de olhos fechados.
+
+Numa amassada mais forte, um esguicho roxo espirra e acerta a cara dele bem no meio. Ele congela meio segundo, de olhos fechados.
 > *"Ô!"*
 
 E cai numa risada média, com os ombros sacudindo, limpando o olho.
@@ -88,7 +86,8 @@ Ele esmigalha a castanha por cima, escorre mel de um favo e dá um passo pra tr�
 > 🔹 Detalhes naturais: dá 2 tapinhas na borda da cuia antes de pegar a câmera · lambe o mel do polegar.
 
 **Bloco 6 · A primeira colherada e o final** *(selfie)*
-Sentado no toco, com a cuia no colo, ele dá a primeira colherada. Fecha os olhos, solta os ombros e dá um suspiro longo e satisfeito. > *"Hum..."* (olhos fechados) *"Nossa senhora..."*
+Sentado no toco, com a cuia no colo, ele dá a primeira colherada. Fecha os olhos, solta os ombros e dá um suspiro longo e satisfeito.
+> *"Hum..."* (olhos fechados) *"Nossa senhora..."*
 
 Abre um sorriso enorme pra câmera: os dentes estão todos roxos. Percebe pela tela e ri pelo nariz.
 > *"Fiquei roxo."*
