@@ -18,10 +18,10 @@ Charlie decidiu construir uma casa de madeira de verdade, igual chalé de serra,
 ## 2. Storytelling completo
 
 **Cena 1 — O gancho: a árvore cai pro lado errado (~8 s · selfie)**
-**0–3 s:** selfie. Charlie segura o celular numa mão e, com a outra, dá a última machadada no tronco alto e grosso, com uma mão só, com força: *TOC*. A árvore range e estala por cima dele. Ele olha pra cima e o rosto muda na hora: a árvore está tombando **na direção dele**.
+**0–3 s:** selfie. Charlie segura o celular numa mão e, com a outra, dá as **duas últimas machadadas** no tronco alto e grosso, com uma mão só, com força: *TOC... TOC*. A árvore range e estala por cima dele. Ele olha pra cima e o rosto muda na hora: a árvore está tombando **na direção dele**. Ele solta um **grito desesperado** (um "AAAAH!" de verdade, sem palavra) e na mesma hora completa:
 > *"PRO LADO ERRADO!"*
 
-Ele larga o machado e corre segurando o celular, com a imagem tremendo toda. Ele se joga pro lado e a árvore cai com um **estrondo** logo atrás, com folhas, galhos e poeira chovendo por cima da câmera. Silêncio.
+Ele larga o machado e **se joga pro lado** com o celular na mão, e a imagem chacoalha toda com o pulo. A árvore cai com um **estrondo** logo atrás, com folhas, galhos e poeira chovendo por cima da câmera. Silêncio.
 
 **Cena 2 — Depois do susto (~5 s · selfie)**
 Charlie deitado de costas no chão, ofegante, com folhas no pelo. Olha pra árvore caída a dois palmos dele e solta um riso nervoso pelo nariz.
@@ -71,10 +71,10 @@ Em cima do telhado, ele vai pregando os taquinhos com pino de madeira, um por ci
 O pato olha pra ele e continua andando. Charlie balança a cabeça, rindo.
 
 **Cena 9 — O verniz de jatobá (~8 s · câmera POV)**
-Câmera em POV: a gente vê o que o Charlie vê. A mão grande dele passa o pincel de fibra cheio de resina dourada na parede de tábua, e a madeira vai escurecendo e ficando cor de mel conforme o pincel passa. Enquanto passa:
+Câmera em POV: a gente vê o que o Charlie vê. A mão grande dele passa um **pano velho** encharcado de resina dourada na parede de tábua, esfregando com força, e a madeira vai escurecendo e ficando cor de mel conforme o pano passa. Enquanto passa:
 > *"Resina de jatobá derretida... que é pra madeira durar."*
 
-Ele volta o pincel por cima de um pedaço que ficou falhado, com capricho. A tábua brilha.
+Ele volta o pano por cima de um pedaço que ficou falhado, com capricho. A tábua brilha.
 > *"Olha a cor que fica."*
 
 **Cena 10 — A casa pronta (~12 s · selfie, andando pra trás)**
