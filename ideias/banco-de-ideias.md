@@ -162,3 +162,52 @@
 - **Gancho (0–3 s):** Charlie desce o morro dentro de um carrinho de mão velho → a roda solta e passa voando por ele → ele vai deslizando de bunda na terra → *"Ô, ô, ô!"* e depois gargalha.
 - **Acontecimentos:** volta ao começo: acha o carrinho velho e enferrujado no mato → reforma (roda nova feita de tronco, bancada de bambu, alça de cipó) → "pintura" com jenipapo → hora da verdade na descida.
 - **Final:** desce perfeito, para do lado do bode e diz: *"Saiu de fábrica, rapaz."*
+
+---
+
+## Receitas rústicas (formato Sapulha + gancho de 3 s + microgestos)
+
+| # | Receita | Tempo | Potencial |
+|---|---|---|---|
+| 21 | Miojo de três horas | 2:30–2:50 | Muito alto |
+| 22 | Açaí na tigela (direto do pé) | 2:40–3:00 | Muito alto |
+| 23 | Coxinha de jaca | 2:30–2:50 | Muito alto |
+| 24 | Refrigerante de cabaça | 2:20–2:40 | Muito alto |
+| 25 | Batata frita com ketchup de pilão | 2:20–2:40 | Alto |
+| 26 | Pão francês no forno de barro | 2:30–2:50 | Alto |
+
+### 21. Miojo de três horas
+- **Gancho (0–3 s):** Charlie puxa a massa com as duas mãos, esticando mais, mais e mais → *TÉC*: ela arrebenta e chicoteia a cara dele → gargalhada com farinha no pelo.
+- **Acontecimentos:** sova a massa batendo na pedra (com "huff" de esforço) → estica e dobra várias vezes → frita o "bloquinho" no tacho → faz o "tempero em pó do saquinho" no pilão, com ervas secas, sal e pimenta → o bode cheira o pilão e espirra → cozinha na panela de ferro.
+- **Frase-regra:** *"Miojo de três minuto? O meu levou três hora."*
+- **Final:** come de olhos fechados, com um fio de macarrão pendurado no queixo. *"Valeu cada minuto."*
+
+### 22. Açaí na tigela (direto do pé)
+- **Gancho (0–3 s):** Charlie já está lá no alto do açaizeiro, que balança muito → um cacho cai e passa raspando pela câmera → *"OPA!"* → ele se agarra no tronco, rindo nervoso.
+- **Acontecimentos:** desce o tronco com a peconha (aquela cinta de fibra nos pés) → debulha o cacho → deixa o açaí de molho → amassa no pilão e o caldo roxo espirra na cara dele → monta a tigela com banana, granola de castanha e mel.
+- **Paródia de luxo:** *"Açaí de shopping cobra caro. O meu custou subir quinze metro."*
+- **Final:** primeira colherada, com a boca e os dentes roxos e um sorriso enorme pra câmera.
+
+### 23. Coxinha de jaca
+- **Gancho (0–3 s):** *BUM!* Uma jaca gigante despenca da árvore e cai a um palmo do Charlie → ele pula pra trás → *"AAAI!"* → fica um segundo olhando pra jaca, de mão no peito.
+- **Acontecimentos:** dá 2 tapinhas na jaca → *"Foi presente, né?"* → abre a jaca e o visgo gruda na mão dele toda → desfia a jaca verde como se fosse frango → massa de mandioca → modela a coxinha (a primeira sai torta) → empana e frita no tacho.
+- **Frase-regra:** *"Coxinha de padaria é de frango. A minha caiu do céu."*
+- **Final:** morde e o recheio solta fumaça → ele assopra, funga e ri.
+
+### 24. Refrigerante de cabaça
+- **Gancho (0–3 s):** Charlie abre a tampa de uma cabaça → *PSSSHHH!* um jato de espuma explode direto na cara dele → gargalhada pingando espuma.
+- **Acontecimentos:** volta 3 dias: rala o gengibre, junta rapadura, limão e água na cabaça e fecha com um sabugo → espera ("três dia...") → no dia de abrir, chacoalha a cabaça sem pensar → corta pro gancho → serve num copo de bambu.
+- **Paródia de luxo:** *"Refrigerante de mercado vem em garrafa. O meu vem em cabaça... e explode."*
+- **Final:** o primeiro gole e um arroto tímido → ele cobre a boca, sem graça, e ri.
+
+### 25. Batata frita com ketchup de pilão
+- **Gancho (0–3 s):** Charlie espreme um tomate maduro com uma mão só → o jato acerta a lente e a câmera fica toda respingada → *"Ô!"* → ele limpa a lente com o dedo e aparece rindo.
+- **Acontecimentos:** amassa tomate, rapadura e vinagre de banana no pilão → apura na panela de barro → corta a batata em palito → frita no tacho com banha (com aquele chiado) → as galinhas cercam pra pegar as batatas que caem.
+- **Frase-regra:** *"Batata de lanchonete vem no saquinho. A minha vem com plateia de galinha."*
+- **Final:** mergulha a batata no ketchup e mastiga devagar → lambe o dedo → *"Fast-food de verdade."*
+
+### 26. Pão francês no forno de barro
+- **Gancho (0–3 s):** Charlie bate a massa na mesa com força → uma nuvem de farinha explode e ele some no meio dela → aparece com a cara toda branca... e ele já é branco: *"Agora num dá nem pra ver onde termina eu e começa a farinha."*
+- **Acontecimentos:** sova com os punhos, com "huff" de esforço → deixa crescer debaixo de um pano → corta os pãezinhos → faz o talho com a faca → assa no forno de barro → abre o forno e o vapor sobe.
+- **Frase-regra:** *"Padaria abre às seis. A minha abre quando o pão fica pronto."*
+- **Final:** parte o pão quentinho (*CREC*), passa manteiga e fecha os olhos → um passarinho pousa e belisca uma migalha.
