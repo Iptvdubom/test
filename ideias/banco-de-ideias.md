@@ -211,3 +211,27 @@
 - **Acontecimentos:** sova com os punhos, com "huff" de esforço → deixa crescer debaixo de um pano → corta os pãezinhos → faz o talho com a faca → assa no forno de barro → abre o forno e o vapor sobe.
 - **Frase-regra:** *"Padaria abre às seis. A minha abre quando o pão fica pronto."*
 - **Final:** parte o pão quentinho (*CREC*), passa manteiga e fecha os olhos → um passarinho pousa e belisca uma migalha.
+
+---
+
+## Casa nova do Charlie: 3 caminhos (obra · 2:40–3:10)
+
+> ⚠️ O Sapulha já fez **casa na árvore** (com ponte de cipó, ofurô, elevador e vista pro rio). A casa do Charlie fica **no chão** e não usa nenhum desses elementos.
+
+### 27. Casa de pau-a-pique (taipa): RECOMENDADA
+- **Gancho (0–3 s):** Charlie pisando o barro pra fazer a massa, afunda até a cintura → *"Opa, opa!"* → tenta tirar a perna e o pé sai sem... o pé sai, mas o barro faz *SPLOC* → gargalhada.
+- **Acontecimentos:** a trama de bambu amarrada com cipó → o Barnabé entra no barro e "ajuda" a pisar → jogar o barro com as mãos na parede ("taipa de mão") → um pedaço de parede escorrega e cai → telhado de palha → **hora da verdade:** começa a chover ("agora a gente vê se presta") → ele dentro, seco, ouvindo a chuva na palha.
+- **Final:** deitado na rede dentro da casa nova, a chuva caindo lá fora, o Barnabé entra todo molhado e se sacode do lado dele → gargalhada.
+- **Por que funciona:** muito barro (visual e engraçado), técnica brasileira verdadeira, hora da verdade natural (a chuva) e um final aconchegante.
+
+### 28. Chalé de pedra com lareira
+- **Gancho (0–3 s):** Charlie empurra uma pedra enorme ladeira acima, ela escapa e desce rolando atrás dele → ele corre de lado → *"EITA!"*
+- **Acontecimentos:** parede de pedra encaixada sem cimento, com barro → chaminé de pedra → a primeira fumaça volta pra dentro da casa e ele sai tossindo → arruma a chaminé → a lareira funciona.
+- **Final:** sentado na frente do fogo, com uma caneca de café de barro → *"Chalé de serra, só que na selva."*
+- **Por que funciona:** paródia de luxo (o chalé de Campos do Jordão), com fogo e pedra muito visuais.
+
+### 29. Casa de palafita na beira do rio
+- **Gancho (0–3 s):** Charlie bate a primeira estaca no fundo do rio, a estaca afunda de uma vez e ele cai junto na água → emerge cuspindo água e rindo.
+- **Acontecimentos:** estacas de madeira dura → piso de bambu → uma tábua solta e ele quase cai de novo → telhado de folha de buriti → a escadinha pro rio.
+- **Final:** pescando sentado na varanda da palafita, de pé balançando sobre a água → o Barnabé fica na margem, olhando de longe, sem coragem de atravessar.
+- **Por que funciona:** cenário muito bonito e diferente; cuidado só com a água no áudio, por causa dos artefatos de som.
