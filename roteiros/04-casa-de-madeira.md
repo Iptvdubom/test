@@ -50,9 +50,12 @@ Ele encaixa as tábuas das paredes uma por uma, batendo com um martelo de madeir
 
 **Cena 6 — De novo a camisa (~9 s · selfie)**
 Charlie está em cima de uma escada de madeira, segurando uma viga pesada do telhado com as duas mãos e a câmera apoiada no ombro. Sente o puxão: o Barnabé, lá embaixo, mastigando a barra da camisa de novo.
-> *"De novo?!"*
+> *"Sai pra lá, Barnabé!"*
 
-Ele não pode soltar a viga. Fica parado olhando pro bode, sem ter o que fazer, e cai na risada. A viga treme um pouco.
+Ele não pode soltar a viga. Fica parado olhando pro bode, sem ter o que fazer, e já começa a rir.
+> *"De novo mordendo minha camisa..."*
+
+Cai na risada. A viga treme um pouco.
 
 **Cena 7 — Rachando os taquinhos (~10 s · câmera apoiada)**
 Sentado num toco, ele racha toras curtas com uma **cunha e um martelo de madeira**, e os taquinhos vão saindo: *CRAC, CRAC*, um atrás do outro, numa pilha que só cresce.
