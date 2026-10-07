@@ -219,7 +219,7 @@
 > ⚠️ O Sapulha já fez **casa na árvore** (com ponte de cipó, ofurô, elevador e vista pro rio). A casa do Charlie fica **no chão** e não usa nenhum desses elementos.
 
 ### 27. Casa de pau-a-pique (taipa): RECOMENDADA
-- **Gancho (0–3 s):** Charlie pisando o barro pra fazer a massa, afunda até a cintura → *"Opa, opa!"* → tenta tirar a perna e o pé sai sem... o pé sai, mas o barro faz *SPLOC* → gargalhada.
+- **Gancho (0–3 s):** Charlie pisando o barro pra fazer a massa, afunda até a cintura → *"Opa, opa!"* → puxa a perna com força, o barro faz *SPLOC* e ele cai sentado no barro → gargalhada.
 - **Acontecimentos:** a trama de bambu amarrada com cipó → o Barnabé entra no barro e "ajuda" a pisar → jogar o barro com as mãos na parede ("taipa de mão") → um pedaço de parede escorrega e cai → telhado de palha → **hora da verdade:** começa a chover ("agora a gente vê se presta") → ele dentro, seco, ouvindo a chuva na palha.
 - **Final:** deitado na rede dentro da casa nova, a chuva caindo lá fora, o Barnabé entra todo molhado e se sacode do lado dele → gargalhada.
 - **Por que funciona:** muito barro (visual e engraçado), técnica brasileira verdadeira, hora da verdade natural (a chuva) e um final aconchegante.
