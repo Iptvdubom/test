@@ -1,132 +1,65 @@
-# Episódio 03 — Açaí direto do pé
+# Episódio 03 — Açaí direto do pé (VERSÃO FINAL, aprovada pelo usuário)
 
-> **Status:** ✍️ storytelling aguardando aprovação → depois vêm as imagens de referência e os prompts do Seedance.
-> **Formato:** receita rústica (+ aventura na subida) · **Duração:** ~2:45
-> **Vocativo:** "meu povo" (pode trocar por "minha gente", "meus amigo" ou "turma"; nunca "fi" nem "companheiro", que tem cara de política).
+> **Duração:** ~2:05–2:10 · 15 cenas curtas (6–10 s) com cortes internos rápidos · sem despedida, sem CTA.
+> Estrutura: situação → objetivo → jornada → preparo → recompensa → final natural.
+> Charlie fala com frequência, sorri bastante quando cabe, e o humor vem dos acontecimentos. O bode **Barnabé** aparece só quando acrescenta algo; o nome dele não é falado.
 
----
+**Cena 1 — O cacho escapa (~9 s · selfie)**
+Charlie já está no alto do açaizeiro, agarrado no tronco com mãos, braços, pernas e pés, **sem corda nem equipamento de subida**, terminando de cortar o talo de um cacho pesado com uma ferramenta rústica de colheita. Olha rápido pra câmera, sorrindo: *"Rapaz, hoje vai ter açaí do bom, viu, meu povo."* No fim da frase, termina o corte. O peso do cacho puxa o braço dele; ele tenta segurar por uma fração de segundo, mas o cacho escapa e despenca passando perto da câmera. O açaizeiro balança. Charlie se agarra com força, de olhos arregalados: *"UOU!"* Corte imediato.
 
-## 1. Conceito
+**Cena 2 — Lá embaixo (~6 s)**
+Ainda no alto. Olha pra baixo, vê o cacho pequenininho no chão e dá um sorriso meio nervoso: *"Eita... foi lá embaixo, ó."* Olha rápido pra câmera e depois pro tronco: *"Agora tem que descer, né."* Já começa a reposicionar o pé. Corte.
 
-Açaí na tigela é coisa de shopping e de academia, mas o Charlie faz do jeito raiz: sobe no pé de açaí, derruba o cacho, debulha, amassa na mão e monta a tigela com banana, castanha e mel. O vídeo **abre com ele lá no alto do açaizeiro**, e o cacho cai antes da hora.
+**Cena 3 — A descida (~8 s · selfie)**
+Mais abaixo, descendo, soltando e reposicionando mãos e pés com peso realista: *"Esse pé é alto demais, viu."* Uma folha grande bate no rosto; ele vira a cabeça, empurra a folha com o ombro e dá uma risadinha. Olha rápido pra câmera sorrindo e volta a prestar atenção na descida. Corte.
 
-**Por que funciona:** gancho com altura e susto; receita da moda (açaí de academia) feita do jeito mais rústico, sem precisar dizer isso; um detalhe cultural verdadeiro (no Pará se come com peixe e farinha); cor forte (o roxo) que chama atenção no feed; e um final em espelho com o bode de focinho roxo.
+**Cena 4 — Escorregão (~7 s)**
+Perto do chão, um pé perde aderência e ele escorrega um palmo; a câmera dá um tranco. Ele se prende ao tronco na hora: *"Eita!"* Sorriso de alívio e continua. Chega ao chão, encosta a testa no tronco, solta o ar comprido e dá dois tapinhas: TAP, TAP. *"Ufa."* Corte.
 
----
+**Cena 5 — Barnabé chegou primeiro (~8 s)**
+Charlie vira a câmera pro cacho caído: Barnabé já está comendo bolinhas de açaí com a maior tranquilidade. *"Ô, sai daí! Isso aí é meu!"* Barnabé levanta um pouco a cabeça e continua mastigando. Charlie olha pra ele, depois pra câmera, sorri e ri pelo nariz: *"Olha a folga dele."* Corte.
 
-## 2. Storytelling completo
+**Cena 6 — Debulhando (~9 s · câmera apoiada perto da cabana)**
+Sentado num toco, com a bacia de barro entre os pés, esfrega o cacho com as duas mãos e as bolinhas roxas caem na bacia (toc-toc-toc-toc). Olha a fruta, satisfeito: *"Ó... tá bonito esse açaí."* Barnabé aproxima o focinho da bacia; Charlie afasta a cabeça dele com carinho, sem parar de trabalhar: *"Ô, já comeu, já!"* Ri curto. Corte.
 
-**Bloco 1 · O gancho lá no alto** *(selfie)*
-**0–3 s:** selfie no topo de um açaizeiro altíssimo, que balança com o peso dele. Charlie, agarrado no tronco com os pés presos na peçonha, segura o cacho com a mão livre e sorri pra câmera:
-> *"Hoje tem açaí, meu povo!"*
+**Cena 7 — Água morna (~8 s)**
+A bacia cheia de açaí debulhado. Ele despeja água morna de uma panela de barro: *"Água morninha, que é pra amolecer."* Olha rápido pra câmera, sorrindo, e volta pra bacia: *"Meia hora e isso aqui fica no ponto."* Coloca a panela de lado. Corte temporal.
 
-Na mesma hora o cacho escapa da mão e despenca, passando raspando pela câmera. O tronco balança forte e ele abraça o tronco com tudo, de olhos arregalados.
-> *"OPA! OPA!"* (grito de susto de verdade)
+**Cena 8 — Depois de meia hora (~8 s)**
+Pega uma bolinha amolecida e aperta entre os dedos. Olha a textura e depois a câmera: *"Lá no Pará come com peixe e farinha, viu."* Solta a fruta de volta. Sorriso de canto: *"Hoje vai ser com banana mesmo."* Corte.
 
-Fica um segundo parado e solta um riso nervoso, curto, pelo nariz. Olha pra baixo: o cacho está lá no chão, pequenininho.
-> *"Eita... foi lá embaixo, ó."*
+**Cena 9 — Amassando (~9 s · câmera apoiada)**
+Amassa as frutas com as duas mãos e a água vai ficando grossa e roxa: *"Amassa bem amassado, ó."* Olha rápido pra câmera sorrindo e volta pras mãos. Numa amassada mais forte: SPLASH, um pouco de açaí espirra no rosto, perto de um olho. Ele fecha os olhos: *"Ô!"* Limpa com o pulso e já começa a rir: *"Bem no olho."* Corte ainda sorrindo.
 
-Fungada. Olha pra baixo de novo.
-> *"Agora tem que descer, né."*
+**Cena 10 — Na peneira (~8 s)**
+Passa a massa numa peneira de palha e o caldo grosso e roxo cai numa cuia: *"Agora na peneira, que é pra sair o caroço."* Levanta um pouco a peneira, olha o caldo embaixo, sorri e olha rápido pra câmera: *"Olha a cor disso."* Corte.
 
-> 🔹 Detalhes naturais: o vento balançando as folhas da palmeira na cara dele · ele aperta os olhos contra o sol · fungada antes da última fala.
+**Cena 11 — Provando puro (~7 s · selfie)**
+Segura a cuia com o açaí puro, passa um dedo limpo no caldo e prova. Fecha os olhos por um instante e sorri: *"Hum... aí sim."* Inclina a cuia e observa como o açaí quase não escorre. Olha pra câmera: *"Grossinho do jeito que tem que ser."* Corte.
 
-**Bloco 2 · A descida** *(selfie)*
-Charlie desce o tronco aos pouquinhos, abraçado, com a peçonha nos pés, em selfie, ofegante, com "huff" de esforço a cada escorregada. Uma folha da palmeira bate na cara dele; ele afasta com a cabeça e ri baixinho. Na metade, escorrega um palmo de uma vez: arregala os olhos e solta um *"Eita!"*. Chega no chão, encosta a testa no tronco, solta o ar comprido e dá 2 tapinhas no tronco.
-> *"Ufa."*
-> *"Alto demais esse pé, viu."*
+**Cena 12 — Banana e a castanha que foge (~9 s · câmera apoiada)**
+A banana já começa totalmente descascada, com a casca separada na superfície rústica. Ele corta a banana descascada direto sobre a cuia: *"Banana aqui, ó."* As rodelas caem já descascadas, sem nenhuma mudança mágica de continuidade. Coloca uma castanha na superfície e bate com uma pedra: TOC. A castanha escapa e voa longe. Ele acompanha com os olhos, sorriso pequeno: *"Ih... foi longe."* Risadinha pelo nariz. Corte.
 
-Ele vira a câmera pro cacho no chão: o **Juvêncio** já está lá, comendo as bolinhas.
-> *"Ô, sai daí! Isso aí é meu!"*
+**Cena 13 — Castanha da mata e mel da caixa (~10 s)**
+Pega outra castanha, posiciona com mais cuidado e dá uma batida menor: toc. Ela abre. *"Agora sim."* Esfarelando por cima: *"Castanha daqui da mata, ó."* Deixa o mel de um favo escorrer sobre a cuia: *"E o mel vem lá da caixa das abelha."* Dois tapinhas na borda da cuia: TAP, TAP. Pega a câmera e mostra a comida pronta: *"Banana, castanha, mel... tudo daqui."* Sorriso satisfeito. Corte.
 
-O bode continua mastigando, sem pressa nenhuma. Charlie ri pelo nariz e balança a cabeça.
-> *"Olha a folga dele."*
+**Cena 14 — Primeira colherada (~10 s · selfie sentado no toco)**
+A cuia no colo. Pega uma colherada boa; **come, mastiga e engole antes de falar**. Fecha os olhos, relaxa os ombros e solta um suspiro satisfeito: *"Hum..."* Abre os olhos sorrindo: *"Nossa senhora..."* Os dentes estão roxos; ele percebe pela tela, olha a própria boca, sorri ainda mais e dá uma risadinha: *"Fiquei roxo."* Corte.
 
-> 🔹 Detalhes naturais: "huff" de esforço · encosta a testa no tronco · tapinhas no tronco · bate as mãos pra tirar a sujeira.
-
-**Bloco 3 · Debulhando** *(câmera apoiada: ele precisa das duas mãos)*
-Sentado num toco, com uma bacia de barro entre os pés, Charlie esfrega o cacho com as duas mãos e as bolinhas roxas chovem na bacia. O Juvêncio enfia o focinho na bacia e Charlie afasta a cabeça do bode com carinho, sem parar de debulhar.
-> *"Ô, já comeu, já!"*
-
-Ele derrama água morna de uma panela de barro sobre as bolinhas.
-> *"Água morninha, que é pra amolecer. Meia hora."*
-
-Enquanto espera, olha pra câmera, com a mão apoiada na borda da bacia:
-> *"Lá no Pará come com peixe e farinha, viu."*
-> *"Hoje vai ser com banana mesmo."* (sorrisinho de canto)
-
-> 🔹 Detalhes naturais: sopra uma folhinha seca que caiu na bacia · coça a testa com o dorso da mão.
-
-**Bloco 4 · Amassando** *(câmera apoiada → selfie)*
-Charlie amassa as bolinhas com as mãos dentro da bacia, com força e ritmo. A água vai ficando roxa e grossa.
-> *"Amassa bem amassado, ó."*
-
-Numa amassada mais forte, um esguicho roxo espirra e acerta a cara dele bem no meio. Ele congela meio segundo, de olhos fechados.
-> *"Ô!"*
-
-E cai numa risada média, com os ombros sacudindo, limpando o olho.
-> *"Bem no olho."*
-
-Ele passa a massa numa peneira de palha e o caldo grosso escorre pra uma cuia.
-> *"Agora na peneira, que é pra sair o caroço."*
-
-Pega a câmera (selfie), passa o dedo no caldo, prova e fecha os olhos.
-> *"Hum. Aí sim."*
-> *"Grossinho do jeito que tem que ser."*
-
-> 🔹 Detalhes naturais: "huff" curto a cada amassada · lambe o dedo · funga satisfeito.
-
-**Bloco 5 · Montando a tigela** *(câmera apoiada → selfie)*
-Numa cuia de coco cortada ao meio, ele despeja o açaí grosso. Fatia uma banana com uma faca velha. Bate numa castanha com uma pedra: *TOC*. A castanha escapa e voa longe. Ele acompanha com os olhos, pega outra e bate com mais cuidado: *toc*. Agora abre.
-> *"Ih... foi longe."*
-
-Ele esmigalha a castanha por cima, escorre mel de um favo e dá um passo pra trás pra admirar a tigela. Pega a câmera:
-> *"Banana, castanha, mel do favo... ó que coisa."*
-
-> 🔹 Detalhes naturais: dá 2 tapinhas na borda da cuia antes de pegar a câmera · lambe o mel do polegar.
-
-**Bloco 6 · A primeira colherada e o final** *(selfie)*
-Sentado no toco, com a cuia no colo, ele dá a primeira colherada. Fecha os olhos, solta os ombros e dá um suspiro longo e satisfeito.
-> *"Hum..."* (olhos fechados) *"Nossa senhora..."*
-
-Abre um sorriso enorme pra câmera: os dentes estão todos roxos. Percebe pela tela e ri pelo nariz.
-> *"Fiquei roxo."*
-
-Atrás dele aparece o Juvêncio, que acabou de lamber a bacia: **o focinho todo roxo**. O bode encara a câmera, mastigando. Charlie vira, vê o bode e solta a **gargalhada grande** do vídeo, com a cabeça pra trás e limpando o olho.
-> *"Olha a cara dele, meu povo!"*
-
-E corta no meio da gargalhada. *(Opcional, se quiser chamada: "Marca aí quem subia no pé comigo." e a mão na lente.)*
+**Cena 15 — Barnabé também (~10 s · selfie, continuação)**
+Charlie ainda sorrindo com os dentes roxos. Atrás dele, Barnabé aparece mastigando calmamente, com o focinho todo roxo de lamber o restinho da bacia. Charlie percebe o movimento pelo canto do olho, vira, olha o bode e para um instante. Olha o focinho roxo, depois os próprios dentes roxos na tela, depois Barnabé de novo. O sorriso cresce: primeiro um riso pelo nariz, e então **a maior gargalhada do episódio**, com os ombros sacudindo. No meio da risada: *"Olha a cara dele, meu povo!"* Barnabé continua mastigando, completamente tranquilo. Charlie ri ainda mais e passa a mão perto do olho. **Corta no meio da gargalhada.** Sem despedida. Sem CTA.
 
 ---
 
-## 3. Duração estimada
+## Divisão sugerida pro Seedance (blocos ≤ 30 s)
 
-**~2:45** (6 blocos de 26 a 30 s).
+| Bloco | Cenas | Duração | Referências |
+|---|---|---|---|
+| 1 | 1–3 (o cacho escapa, lá embaixo, descida) | **23 s** | @CHARLIE · @ACAIZEIRO |
+| 2 | 4–6 (escorregão, Barnabé no cacho, debulha) | **24 s** | @CHARLIE · @ACAIZEIRO · @TERREIRO · @BODE |
+| 3 | 7–9 (água morna, meia hora depois, amassando) | **25 s** | @CHARLIE · @TERREIRO |
+| 4 | 10–12 (peneira, provando, banana e castanha) | **24 s** | @CHARLIE · @TERREIRO |
+| 5 | 13–14 (castanha e mel, primeira colherada) | **20 s** | @CHARLIE · @TERREIRO |
+| 6 | 15 (Barnabé roxo + gargalhada) | **10 s** | @CHARLIE · @TERREIRO · @BODE |
 
----
-
-## 4. Divisão em blocos
-
-| Bloco | Conteúdo | Duração | Câmera | Referências previstas |
-|---|---|---|---|---|
-| 1 | Gancho no alto → o cacho cai → "agora falta eu" | **26 s** | selfie | @CHARLIE · @ACAIZEIRO |
-| 2 | Descida → tapinhas no tronco → o bode no cacho | **28 s** | selfie | @CHARLIE · @ACAIZEIRO · @BODE |
-| 3 | Debulha → molho → "no Pará é com peixe" | **28 s** | apoiada | @CHARLIE · @TERREIRO · @BODE |
-| 4 | Amassa → esguicho no olho → peneira → "Aí sim" | **28 s** | apoiada → selfie | @CHARLIE · @TERREIRO |
-| 5 | Monta a cuia → a castanha foge → "ó que coisa" | **27 s** | apoiada → selfie | @CHARLIE · @TERREIRO |
-| 6 | Primeira colherada → "Nossa senhora" → "Fiquei roxo" → bode de focinho roxo → gargalhada | **28 s** | selfie | @CHARLIE · @TERREIRO · @BODE |
-
-### Mapa das risadas e expressões
-| Bloco | Expressão |
-|---|---|
-| 1 | sorriso de anúncio → **grito de susto** → "Opa! Opa!" abraçando o tronco → riso nervoso pelo nariz |
-| 2 | esforço e ofegante → "Eita!" de susto → alívio → riso pelo nariz com o bode |
-| 3 | carinho com o bode → paciência → sorrisinho de canto |
-| 4 | força → congela com o esguicho → **risada média** → prazer de olhos fechados |
-| 5 | concentração → acompanha a castanha com os olhos → orgulho |
-| 6 | prazer → sorriso de dentes roxos → riso pelo nariz → **gargalhada grande** |
-
-### Imagens de referência que vamos precisar
-- **@ACAIZEIRO:** um açaizeiro altíssimo e fino na beira da clareira, com cachos roxos lá no alto (blocos 1 e 2).
-- **@TERREIRO:** a frente da cabana com o toco, a bacia de barro e o fogo de chão (blocos 3 a 6).
-- **@BODE:** o Juvêncio.
+**Total:** ~2:06.

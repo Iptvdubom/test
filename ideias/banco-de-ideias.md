@@ -170,7 +170,7 @@
 | # | Receita | Tempo | Potencial |
 |---|---|---|---|
 | 21 | Miojo de três horas | 2:30–2:50 | Muito alto |
-| 22 | Açaí na tigela (direto do pé) ([roteiro](../roteiros/03-acai.md)) ✍️ | 2:40–3:00 | Muito alto |
+| 22 | Açaí na tigela (direto do pé) ([roteiro final](../roteiros/03-acai.md)) ✅ roteiro aprovado | 2:40–3:00 | Muito alto |
 | 23 | Coxinha de jaca | 2:30–2:50 | Muito alto |
 | 24 | Refrigerante de cabaça | 2:20–2:40 | Muito alto |
 | 25 | Batata frita com ketchup de pilão | 2:20–2:40 | Alto |

@@ -76,7 +76,7 @@ Gorila adulto enorme e fotorrealista, com pelagem densa creme/marfim quase branc
 
 São animais reais, nunca humanizados. **Charlie é quem interpreta o comportamento deles** ("Tá ajudando também?"). Evite bicho novo em todo episódio e evite o bicho roubando comida toda vez. Sons de bicho sempre como NON-SPEECH.
 
-**Elenco aprovado:** pato doméstico branco (bico e pés laranja, olhos escuros). Pode voltar organicamente. Não chame de "danado" (é do Sapulha); "folgado" pode aparecer de vez em quando, sem virar nome.
+**Elenco aprovado:** bode **Barnabé** (o mesmo bode que aparecia como "Seu Juvêncio" nos primeiros roteiros) · pato doméstico branco (bico e pés laranja, olhos escuros). Pode voltar organicamente. Não chame de "danado" (é do Sapulha); "folgado" pode aparecer de vez em quando, sem virar nome.
 
 ## 10. História
 
@@ -352,3 +352,16 @@ As descrições dos 9 vídeos citam vários desses detalhes. Eles aparecem nas s
 - Explicar a piada que a imagem já mostra.
 
 **Correção da regra antiga da "frase-regra invertida":** ela NÃO é uma piada pronta. É uma **dica prática com opinião**, do jeito que o Sapulha faz: "Não é pra cozinhar, é pra queimar o fundo." / "Sem pozinho." / "Alho nunca é demais." A paródia de luxo, quando existir, vai de leve e de passagem, ou fica só na imagem.
+
+---
+
+## 24. Aprendizados do roteiro final do açaí (aprovado pelo usuário)
+
+- **Cenas curtas de 6 a 10 s, com cortes internos rápidos**, deixam o episódio mais vivo. A duração total pode ficar em **~2:00–2:15** quando o tema é simples (receita); 2:20+ só quando há jornada.
+- **Charlie fala com frequência**, e sempre enquanto faz alguma coisa. Ele **dá olhadas rápidas pra câmera sorrindo** e volta pro trabalho.
+- **O bicho aparece só quando acrescenta algo**, e o nome nem precisa ser falado.
+- **Continuidade explícita no roteiro:** o estado dos objetos antes e depois ("a banana já começa descascada, com a casca separada", "sem mudança mágica de continuidade"), "dedo limpo" pra provar, e **"come, mastiga e engole antes de falar"**.
+- **"Corte temporal"** resolve esperas (meia hora de molho) sem enrolação.
+- **Final de reação em cadeia:** percebe pelo canto do olho → vira → para → olha o bicho → olha a si mesmo → olha o bicho de novo → o sorriso cresce → riso pelo nariz → gargalhada → corta no meio.
+- **Subida em árvore sem equipamento:** mãos, braços, pernas e pés, com peso realista.
+- **Elenco:** o bode da série se chama **Barnabé**.
