@@ -33,7 +33,8 @@ Cabana rústica de troncos, palha e bambu numa clareira dentro da selva brasilei
 - Começa TARDE na cena: o primeiro quadro já mostra Charlie no meio da atividade. Pense "o que ele já está fazendo hoje e o que acontece enquanto ele faz?", nunca "Charlie decide fazer X".
 - Estrutura: atividade acontecendo → ocorrência → reação → continua → outra ocorrência → mudança de estado → clímax → consequência → final natural.
 - Humor causal (queda, lama, água, objeto escapando, bicho, ferramenta, esforço, contraste confiança × dificuldade). A melhor piada é uma constatação natural depois da trapalhada. Deixe espaço pra silêncio, esforço, observação e som ambiente.
-- Ferramentas do guia-de-estilo, com moderação e naturalidade: hora da verdade, frase-regra invertida, número exagerado, paródia de luxo, chamada pra compartilhar no fim. Nunca repita um tema da lista que o Sapulha já fez.
+- Ferramentas do guia-de-estilo, com moderação e naturalidade: hora da verdade, dica prática com motivo ("que é pra amolecer", "não é pra cozinhar, é pra queimar o fundo"), número exagerado, paródia de luxo só de leve ou só na imagem, chamada pra compartilhar opcional. Nunca repita um tema da lista que o Sapulha já fez.
+- FALA SEM CARA DE ROTEIRO (como o Sapulha): narrar a ação do momento ("caiu tudo, ó"), dica + motivo, elogio de 1–2 palavras ("Aí sim.", "Ó que coisa."), ordem pro bicho ("Sai daí!"), reação curta ("Opa!", "Eita!", "Ufa."), constatação simples ("Bem no olho."). Gramática falada (plural sem "s", "ó", "viu", "né"). PROIBIDO: frase de efeito em estrutura paralela ("X de shopping cobra caro. O meu..."), reticências dramáticas antes da graça, metáfora elaborada ("ouro roxo") e explicar a piada que a imagem já mostra.
 - Duração: padrão 2:20–2:40; 2:40–3:10 com deslocamento ou várias etapas; até 4:00 só pra aventura ou obra grande. Nunca alongue artificialmente.
 
 ## FORMATO DAS RESPOSTAS
