@@ -1,7 +1,7 @@
 # Episódio 04 — A casa de madeira nova
 
 > **Status:** ✍️ storytelling aguardando aprovação → depois vêm as imagens de referência e os prompts do Seedance.
-> **Formato:** obra (construção) · **Duração:** ~2:45 · cenas curtas (6–12 s) com cortes internos.
+> **Formato:** obra (construção) · **Duração:** ~2:15–2:30 · cenas curtas (6–12 s) com cortes internos.
 > **Estilo da casa (referência do usuário):** chalé de madeira de dois andares, telhado de duas águas, varanda com guarda-corpo e escadinha, janelas no andar de cima, cercado de mata e com morros ao fundo. **Diferenças:** o telhado é de **taquinhos de madeira** (e não de telha), e tudo é feito à mão, sem nada moderno.
 > **Elenco:** Charlie · Barnabé (o bode, mastigando a camisa: piada que se repete 3 vezes) · o pato (participações rápidas).
 
@@ -105,7 +105,7 @@ E corta no meio da gargalhada.
 
 ## 3. Duração estimada
 
-**~2:25–2:35** (14 cenas de 8 a 12 s).
+**~2:15–2:30** (14 cenas de 8 a 12 s).
 
 ---
 
