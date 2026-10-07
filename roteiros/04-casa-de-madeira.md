@@ -17,11 +17,11 @@ Charlie decidiu construir uma casa de madeira de verdade, igual chalé de serra,
 
 ## 2. Storytelling completo
 
-**Cena 1 — O gancho: a árvore cai pro lado errado (~8 s · câmera apoiada num toco)**
-**0–3 s:** Charlie dá a última machadada num tronco alto e grosso. A árvore range, estala... e começa a tombar **na direção dele e da câmera**. Ele larga o machado e corre em direção à câmera, de olhos arregalados:
+**Cena 1 — O gancho: a árvore cai pro lado errado (~8 s · selfie)**
+**0–3 s:** selfie. Charlie segura o celular numa mão e, com a outra, dá a última machadada no tronco alto e grosso, com uma mão só, com força: *TOC*. A árvore range e estala por cima dele. Ele olha pra cima e o rosto muda na hora: a árvore está tombando **na direção dele**.
 > *"PRO LADO ERRADO!"*
 
-Ele se joga pro lado e a árvore cai com um **estrondo** atrás dele, com folhas, galhos e poeira voando por cima da câmera. Silêncio.
+Ele larga o machado e corre segurando o celular, com a imagem tremendo toda. Ele se joga pro lado e a árvore cai com um **estrondo** logo atrás, com folhas, galhos e poeira chovendo por cima da câmera. Silêncio.
 
 **Cena 2 — Depois do susto (~5 s · selfie)**
 Charlie deitado de costas no chão, ofegante, com folhas no pelo. Olha pra árvore caída a dois palmos dele e solta um riso nervoso pelo nariz.
@@ -70,12 +70,12 @@ Em cima do telhado, ele vai pregando os taquinhos com pino de madeira, um por ci
 
 O pato olha pra ele e continua andando. Charlie balança a cabeça, rindo.
 
-**Cena 9 — O verniz de jatobá (~11 s · câmera apoiada → selfie)**
-Numa panela de barro no fogo, a resina de jatobá derrete, grossa e dourada. Ele mexe com um pau.
-> *"Resina de jatobá, derretida... que é pra madeira durar."*
+**Cena 9 — O verniz de jatobá (~8 s · câmera POV)**
+Câmera em POV: a gente vê o que o Charlie vê. A mão grande dele passa o pincel de fibra cheio de resina dourada na parede de tábua, e a madeira vai escurecendo e ficando cor de mel conforme o pincel passa. Enquanto passa:
+> *"Resina de jatobá derretida... que é pra madeira durar."*
 
-Passa na parede com um pincel de fibra e a madeira vai ficando cor de mel. Pega a câmera e mostra de perto uma tábua com verniz do lado de uma sem.
-> *"Olha a cor que ficou."*
+Ele volta o pincel por cima de um pedaço que ficou falhado, com capricho. A tábua brilha.
+> *"Olha a cor que fica."*
 
 **Cena 10 — A casa pronta (~12 s · selfie, andando pra trás)**
 Charlie anda de costas, devagar, afastando da casa e mostrando ela inteira: dois andares, telhado de taquinho, varanda com guarda-corpo, a escadinha, a madeira brilhando cor de mel no sol da tarde, a mata e os morros atrás. Para e fica um segundo olhando, sem falar. Solta o ar devagar.
@@ -111,11 +111,11 @@ E cai na **gargalhada grande** do vídeo. O Barnabé continua mastigando. Corta 
 | 1 | 1–3 · a árvore cai, o susto, já virando tábua + Barnabé | **25 s** | @CHARLIE · @MATA · @CLAREIRA_OBRA · @BODE |
 | 2 | 4–5 · base de pedra, paredes e o pato | **18 s** | @CHARLIE · @CLAREIRA_OBRA · @PATO |
 | 3 | 6–7 · de novo a camisa, os taquinhos | **19 s** | @CHARLIE · @CLAREIRA_OBRA · @BODE |
-| 4 | 8–9 · telhado e o pato, verniz | **21 s** | @CHARLIE · @CLAREIRA_OBRA · @PATO |
+| 4 | 8–9 · telhado e o pato, verniz em POV | **18 s** | @CHARLIE · @CLAREIRA_OBRA · @PATO |
 | 5 | 10–11 · a casa pronta, o piso | **21 s** | @CHARLIE · @CASA_PRONTA |
 | 6 | 12 · o final com o Barnabé | **12 s** | @CHARLIE · @CASA_PRONTA · @BODE · @PATO |
 
-**Total:** ~1:56. Se quiser chegar a 2:15, dá pra esticar o processo das paredes (cena 5) e do telhado (cena 8).
+**Total:** ~1:53. Se quiser chegar a 2:15, dá pra esticar o processo das paredes (cena 5) e do telhado (cena 8).
 
 ### Mapa das risadas e expressões
 | Cena | Expressão |
