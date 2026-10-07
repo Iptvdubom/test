@@ -30,7 +30,7 @@ Charlie deitado de costas no chão, ofegante, com folhas no pelo. Olha pra árvo
 Corte seco.
 
 **Cena 3 — Já virando tábua (~12 s · câmera apoiada · cortes internos)**
-O tronco já está deitado na clareira da obra. Com a **enxó**, Charlie vai deixando ele reto, com lascas compridas saindo e um "huff" de esforço a cada golpe. Corte: com o serrote traçador, ele abre o tronco em tábuas. Corte: as tábuas empilhadas com pedacinhos de madeira entre elas.
+O tronco já está deitado na clareira da obra. Charlie enfia uma **cunha de madeira** na ponta do tronco e bate com uma **marreta de madeira pesada**, com as duas mãos: *TÓC... TÓC... CRAAC*. O tronco vai rachando no comprido, com um "huff" de esforço a cada marretada. Corte: ele bate mais cunhas ao longo da rachadura e o tronco se abre em tábuas grossas. Corte: as tábuas empilhadas com pedacinhos de madeira entre elas.
 > *"Empilha separadinho, que é pra secar. Senão empena."*
 
 No meio do serviço, sente um puxão na camisa. Vira: o **Barnabé** está mastigando a barra da camisa dele, tranquilão.
@@ -58,7 +58,7 @@ Ele não pode soltar a viga. Fica parado olhando pro bode, sem ter o que fazer, 
 Cai na risada. A viga treme um pouco.
 
 **Cena 7 — Rachando os taquinhos (~10 s · câmera apoiada)**
-Sentado num toco, ele racha toras curtas com uma **cunha e um martelo de madeira**, e os taquinhos vão saindo: *CRAC, CRAC*, um atrás do outro, numa pilha que só cresce.
+Sentado num toco, ele racha toras curtas encostando um **facão velho** na madeira e batendo nele com um **porrete**, e os taquinhos vão saindo finos: *TEC, TEC*, um atrás do outro, numa pilha que só cresce.
 > *"Taquinho de madeira, um por um."*
 
 Olha a pilha, olha a câmera.
