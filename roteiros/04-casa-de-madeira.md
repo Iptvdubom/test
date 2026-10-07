@@ -80,13 +80,13 @@ Ele volta o pano num pedaço falhado, com capricho, e a tábua brilha.
 Ele vai se afastando devagar e mostrando a casa inteira: dois andares, telhado de taquinho, varanda com guarda-corpo, escadinha, a madeira cor de mel no sol da tarde, a mata e os morros atrás. Para, fica um segundo em silêncio e solta o ar devagar.
 > *"Olha a casa nova, meu povo."*
 
-**Cena 10 — O final (~12 s · selfie)**
-Fim de tarde, sentado na escadinha da varanda, cansado e feliz. Suspiro longo. O pato pousa no guarda-corpo do lado dele. Ele sente o **terceiro puxão** na camisa. Vira a câmera devagar e lá está o Barnabé, mastigando, olhando pra ele.
+**Cena 10 — O final na rede (~13 s · selfie)**
+Fim de tarde. Charlie sobe a escadinha e deita numa **rede verde-musgo** pendurada na varanda, devagar, com o peso todo, e a rede range e afunda. Ele se ajeita, solta um suspiro longo e fecha os olhos, balançando de leve. O pato pousa no guarda-corpo do lado. Com ele deitado, a barra da camisa fica pendurada pra fora da rede, e ele sente o **terceiro puxão**. Abre um olho só e vira a câmera devagar: lá está o Barnabé, embaixo da rede, mastigando a camisa, olhando pra ele.
 
 Charlie olha pro bode, olha pra câmera e olha pro bode de novo. O sorriso cresce e vem um riso pelo nariz.
 > *"Cê num cansa não, né?"*
 
-E cai na **gargalhada grande** do vídeo, com o Barnabé ainda mastigando. Corta no meio da gargalhada.
+E cai na **gargalhada grande** do vídeo, com a rede balançando. O Barnabé continua mastigando. Corta no meio da gargalhada.
 
 ---
 
@@ -104,7 +104,7 @@ E cai na **gargalhada grande** do vídeo, com o Barnabé ainda mastigando. Corta
 | 2 | 3–4 · virando tábua + Barnabé, a pedra do rio | **21 s** | @CHARLIE · @CLAREIRA_OBRA · @BODE |
 | 3 | 5–6 · paredes e o pato, de novo a camisa | **19 s** | @CHARLIE · @CLAREIRA_OBRA · @PATO · @BODE |
 | 4 | 7–8 · telhado (com a explicação dos taquinhos) e o pato, verniz em POV | **21 s** | @CHARLIE · @CLAREIRA_OBRA · @PATO |
-| 5 | 9–10 · a casa pronta, o final | **24 s** | @CHARLIE · @CASA_PRONTA · @BODE · @PATO |
+| 5 | 9–10 · a casa pronta, o final na rede | **25 s** | @CHARLIE · @CASA_PRONTA · @BODE · @PATO |
 
 **Total:** ~1:40.
 
@@ -119,7 +119,7 @@ E cai na **gargalhada grande** do vídeo, com o Barnabé ainda mastigando. Corta
 | 6 | impotência → **risada média** |
 | 7 | surpresa com o pato → riso balançando a cabeça |
 | 9 | silêncio admirando → emoção |
-| 10 | cansaço feliz → olha o bode, a câmera, o bode → riso pelo nariz → **gargalhada grande** |
+| 10 | relaxando na rede de olhos fechados → abre um olho → olha o bode, a câmera, o bode → riso pelo nariz → **gargalhada grande** |
 
 ### Imagens de referência que vamos precisar
 - **@MATA:** a mata fechada com a árvore alta e grossa e a copa bem cheia (cenas 1 e 2).
