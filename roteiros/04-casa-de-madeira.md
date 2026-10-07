@@ -57,8 +57,14 @@ Ele não pode soltar a viga. Fica olhando pro bode, sem ter o que fazer, e já c
 
 Cai na risada, e a viga treme um pouco.
 
-**Cena 7 — O telhado (~10 s · selfie · cortes internos)**
-Em cima do telhado, ele vai prendendo os **taquinhos de madeira** com pino de madeira, um por cima do outro, como escama de peixe. Corte: metade do telhado pronto. O **pato** aparece andando lá em cima, todo tranquilo.
+**Cena 7 — O telhado (~13 s · selfie · cortes internos)**
+Em cima do telhado, ele vai prendendo os **taquinhos de madeira** com pino de madeira, um por cima do outro, como escama de peixe, batendo cada pino com o martelo de madeira: *toc, toc*. Enquanto bate:
+> *"Um por cima do outro, que é pra chuva escorrer."*
+
+Encaixa mais um pino e bate.
+> *"E pino de madeira, que prego enferruja."*
+
+Corte: metade do telhado pronto. O **pato** aparece andando lá em cima, todo tranquilo.
 > *"Como cê subiu aqui?"*
 
 O pato olha pra ele e continua andando. Charlie balança a cabeça, rindo.
@@ -97,10 +103,10 @@ E cai na **gargalhada grande** do vídeo, com o Barnabé ainda mastigando. Corta
 | 1 | 1–2 · a árvore cai, saindo da copa | **15 s** | @CHARLIE · @MATA |
 | 2 | 3–4 · virando tábua + Barnabé, a pedra do rio | **21 s** | @CHARLIE · @CLAREIRA_OBRA · @BODE |
 | 3 | 5–6 · paredes e o pato, de novo a camisa | **19 s** | @CHARLIE · @CLAREIRA_OBRA · @PATO · @BODE |
-| 4 | 7–8 · telhado e o pato, verniz em POV | **18 s** | @CHARLIE · @CLAREIRA_OBRA · @PATO |
+| 4 | 7–8 · telhado (com a explicação dos taquinhos) e o pato, verniz em POV | **21 s** | @CHARLIE · @CLAREIRA_OBRA · @PATO |
 | 5 | 9–10 · a casa pronta, o final | **24 s** | @CHARLIE · @CASA_PRONTA · @BODE · @PATO |
 
-**Total:** ~1:37.
+**Total:** ~1:40.
 
 ### Mapa das risadas e expressões
 | Cena | Expressão |
