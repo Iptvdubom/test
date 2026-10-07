@@ -364,4 +364,4 @@ As descrições dos 9 vídeos citam vários desses detalhes. Eles aparecem nas s
 - **"Corte temporal"** resolve esperas (meia hora de molho) sem enrolação.
 - **Final de reação em cadeia:** percebe pelo canto do olho → vira → para → olha o bicho → olha a si mesmo → olha o bicho de novo → o sorriso cresce → riso pelo nariz → gargalhada → corta no meio.
 - **Subida em árvore sem equipamento:** mãos, braços, pernas e pés, com peso realista.
-- **Elenco:** o bode da série se chama **Barnabé**.
+- **Elenco:** o bode da série se chama **Barnabé**, com a mesma aparência do "Juvêncio": pelagem com manchas grandes marrons e brancas, rosto branco com mancha marrom ao redor do olho esquerdo, barba branca longa, chifres cinza curvados pra trás, orelhas meio caídas, olhos âmbar, sininho de latão numa coleira de corda vermelha. Usa a mesma imagem @BODE. Nos prompts, chame de "Barnabé the goat".
