@@ -365,3 +365,8 @@ As descrições dos 9 vídeos citam vários desses detalhes. Eles aparecem nas s
 - **Final de reação em cadeia:** percebe pelo canto do olho → vira → para → olha o bicho → olha a si mesmo → olha o bicho de novo → o sorriso cresce → riso pelo nariz → gargalhada → corta no meio.
 - **Subida em árvore sem equipamento:** mãos, braços, pernas e pés, com peso realista.
 - **Elenco:** o bode da série se chama **Barnabé**, com a mesma aparência do "Juvêncio": pelagem com manchas grandes marrons e brancas, rosto branco com mancha marrom ao redor do olho esquerdo, barba branca longa, chifres cinza curvados pra trás, orelhas meio caídas, olhos âmbar, sininho de latão numa coleira de corda vermelha. Usa a mesma imagem @BODE. Nos prompts, chame de "Barnabé the goat".
+
+## 25. Regras do usuário (episódio 05)
+
+- **Piadas recorrentes são esporádicas.** O Barnabé mastigando a camisa do Charlie foi a piada do episódio 04 e só volta **de vez em quando**, em vídeos esporádicos, nunca em todo episódio nem várias vezes no mesmo vídeo (fica previsível). Vale pra qualquer piada repetida: o bicho que aparece em lugar absurdo, o pato "pegando lugar" etc. Varie o que o bicho faz (come o que não deve, deita no lugar errado, some, segue o Charlie, fica olhando).
+- **Obra e reforma também são "semi-tutorial"**, como as receitas do Sapulha: o Charlie explica cada etapa enquanto faz, na ordem ("primeiro o cubo...", "agora o aro..."), com **dica + motivo** ("que é pra...", "senão..."), o que aproveita e o que joga fora, e a medida ou quantidade quando faz sentido ("doze raio, tudo do mesmo tamanho"). É a mesma fala curta e natural, nunca aula de apresentador: uma frase por etapa, falada enquanto as mãos trabalham.
