@@ -235,3 +235,50 @@
 - **Acontecimentos:** estacas de madeira dura → piso de bambu → uma tábua solta e ele quase cai de novo → telhado de folha de buriti → a escadinha pro rio.
 - **Final:** pescando sentado na varanda da palafita, de pé balançando sobre a água → o Barnabé fica na margem, olhando de longe, sem coragem de atravessar.
 - **Por que funciona:** cenário muito bonito e diferente; cuidado só com a água no áudio, por causa dos artefatos de som.
+
+---
+
+## Rodada nova: formatos do Sapulha + gancho de 3 s + elenco fixo (Barnabé e o pato)
+
+### 30. Panqueca americana na chapa de pedra (receita rústica · ~1:50)
+- **Gancho (0–3 s):** selfie, frigideira de ferro na mão → Charlie joga a panqueca pro alto pra virar → ela sobe demais, *PLAF*, gruda num galho em cima dele → ele olha pra cima, a panqueca descola e cai na cara dele → gargalhada.
+- **Conceito:** a pilha de panqueca de café da manhã de filme americano, feita no fogão de lenha: ovo do pato, farinha de mandioca, mel da caixa das abelha.
+- **Acontecimentos:** ovo pego no ninho, com o pato reclamando → massa batida com garfo de bambu → a primeira panqueca queima (*"Essa aí foi pro Barnabé."*) → acerta o ponto → monta a pilha bem alta → o mel escorrendo devagar pelos lados.
+- **Final:** primeira garfada, olho fechado → olha pro lado e o Barnabé está comendo a panqueca do galho, que caiu de novo.
+- **Por que funciona:** gancho físico e rápido, comida linda no final (o "food porn" da pilha com mel), e o pato e o bode participando.
+
+### 31. Leite condensado de tacho → brigadeiro gigante (receita rústica · ~2:00)
+- **Gancho (0–3 s):** selfie ordenhando a vaca → o rabo dela chicoteia a cara do Charlie, *PLAFT* → ele pisca, a vaca dá um passo e o balde vira → *"Ô, ô, ô!"*, ele salva o balde no último segundo, com metade do leite.
+- **Conceito:** leite condensado de verdade, feito só com leite e açúcar mexido horas no tacho, e depois um brigadeiro do tamanho de uma bola.
+- **Acontecimentos:** leite com açúcar mascavo no tacho → "tem que mexer sem parar, senão pega no fundo" → corte de tempo: ele ainda mexendo, cansado, trocando de braço → o leite engrossa e fica cor de doce de leite → cacau ralado → enrola a bola gigante com as duas mãos → castanha ralada por fora.
+- **Final:** ele dá a primeira mordida no brigadeiro gigante e fica com a boca toda marrom → o pato bica o brigadeiro do outro lado.
+- **Por que funciona:** "prato industrializado feito do zero" (o formato do Doritos, com outro tema), esforço visível e muita gula no final.
+
+### 32. Sauna de spa feita de barro (obra de luxo · ~2:00)
+- **Gancho (0–3 s):** selfie dentro da saunazinha escura → ele joga uma cuia de água nas pedras quentes → *PSSSSHHH*, uma nuvem de vapor enorme engole a câmera → tosse e sai correndo pela porta, todo suado, rindo.
+- **Conceito:** sauna de spa de rico feita de barro, bambu e pedra do rio, com banco de tábua e balde de cabaça.
+- **Acontecimentos:** o forno de pedras no fogo → paredes de barro (o Barnabé pisa no barro fresco e deixa pegada) → banquinho de tábua → porta de bambu → o teste (o gancho) → ajusta: "pouca água de cada vez, que é pra não cozinhar o Charlie".
+- **Final:** ele sentado lá dentro, relaxado, olho fechado → abre a porta pra respirar e o pato está sentado no banquinho de fora, enrolado num paninho → gargalhada.
+- **Por que funciona:** paródia de luxo (spa) com material da mata, vapor é muito visual, e a "hora da verdade" acontece no gancho.
+- ⚠️ No áudio, descrever o som como *steam hiss* (chiado de vapor), nunca como água.
+
+### 33. A poltrona do papai (obra de luxo · ~1:50)
+- **Gancho (0–3 s):** selfie, Charlie senta com tudo na poltrona reclinável de madeira que acabou de fazer → *CRAC*, o encosto quebra e ele cai pra trás, com as pernas pro alto → silêncio de um segundo → gargalhada de olho fechado.
+- **Conceito:** a poltrona reclinável de rico, com apoio de pé que sobe, feita de madeira, cipó trançado e almofada de paina.
+- **Acontecimentos:** reforça o encosto com uma trava de madeira → trança o assento de cipó → enche a almofada com paina da árvore (a paina voa e gruda no pelo dele) → a alavanca de pau que levanta o apoio de pé → teste com cuidado, dessa vez: "devagarinho agora".
+- **Final:** ele reclina, o pé sobe, o sorriso cresce → o Barnabé sobe no apoio de pé e deita em cima das pernas dele.
+- **Por que funciona:** o gancho é a trapalhada mais universal que existe (cair da cadeira), e o "antes e depois" é muito claro.
+
+### 34. A carroça do Barnabé (resgate e reforma · ~2:20) ⭐ RECOMENDADA
+- **Gancho (0–3 s):** selfie, Charlie puxa uma carroça velha do meio do mato com uma corda → a roda podre se desmancha, *CRAC*, a carroça tomba e derruba ele junto → ele levanta cuspindo folha: *"Essa roda já era, né."*
+- **Conceito:** ele acha uma carroça abandonada na mata, reforma inteira e faz o Barnabé virar o bode de carroça (que existe de verdade no interior).
+- **Acontecimentos:** arrasta a carroça até a cabana (esforço, "hunf") → roda nova de madeira, com raio de pau → troca as tábuas podres → passa resina de jatobá → arreio de corda e couro pro bode → **hora da verdade:** amarra o Barnabé... e o bode não sai do lugar, só mastiga a camisa dele → Charlie oferece uma folha de bananeira na ponta de uma vara e o bode sai andando atrás.
+- **Final:** Charlie sentado na carroça, o Barnabé puxando devagarinho, o pato no banco do lado → *"Olha o carro novo, meu povo."* → o bode para pra comer um mato e não anda mais → gargalhada.
+- **Por que funciona:** resgate e reforma (o formato do fusca do rio, com outro tema), usa o elenco que o público já conhece, e o final fecha a "piada do bode teimoso" do episódio 04.
+
+### 35. Os patinhos no buraco (resgate · ~1:40)
+- **Gancho (0–3 s):** selfie, Charlie andando na trilha → o pato vem correndo, grasnando e bicando a canela dele, *QUÉ QUÉ QUÉ* → *"Ai! Que foi, rapaz?!"* → o pato corre de volta pra mata, e ele vai atrás.
+- **Conceito:** o pato chocou escondido, e os patinhos caíram num buraco fundo; Charlie descobre e tira um por um.
+- **Acontecimentos:** POV da descoberta: o buraco com 4 patinhos piando lá no fundo → a mão dele não alcança → faz uma rampa de tábua, os patinhos não sobem → usa uma cuia amarrada num cipó, pega um de cada vez → o último pula fora da cuia e cai de novo → *"Volta aqui, pequeno!"*
+- **Final:** a fila de patinhos seguindo a mãe pela trilha → o último patinho para e segue o Charlie em vez da mãe → riso pelo nariz, ele aponta a direção certa.
+- **Por que funciona:** filhote de bicho é o tema que mais compartilha; tem tensão (vai conseguir tirar?), carinho e um final fofo.
