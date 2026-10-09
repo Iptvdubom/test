@@ -1,7 +1,7 @@
 # Episódio 06 — Pamonha de milho verde (v2: mais falas)
 
 > **Status:** ✍️ storytelling aguardando aprovação → depois vêm as imagens de referência e os prompts do Seedance.
-> **Formato:** receita de roça, em semi-tutorial · **Duração:** ~1:56 · cenas curtas (8–16 s) com cortes internos.
+> **Formato:** receita de roça, em semi-tutorial · **Duração:** ~1:56 · cenas curtas (8–14 s) com cortes internos.
 > **Fala:** densidade do Sapulha, uma fala curta a cada 3–5 s (3 a 4 por cena), com respiro de ação e som entre elas.
 > **Elenco:** Charlie · as galinhas (catando os grãos) · a vaca (come as palhas que sobram, por cima da cerca) · o porco (ganha os sabugos).
 > **Gancho natural:** só um imprevisto pequeno de verdade (o leitinho do milho espirra no olho).
