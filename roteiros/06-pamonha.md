@@ -1,7 +1,7 @@
 # Episódio 06 — Pamonha de milho verde (v2: mais falas)
 
 > **Status:** ✍️ storytelling aguardando aprovação → depois vêm as imagens de referência e os prompts do Seedance.
-> **Formato:** receita de roça, em semi-tutorial · **Duração:** ~1:58 · cenas curtas (8–16 s) com cortes internos.
+> **Formato:** receita de roça, em semi-tutorial · **Duração:** ~1:56 · cenas curtas (8–16 s) com cortes internos.
 > **Fala:** densidade do Sapulha, uma fala curta a cada 3–5 s (3 a 4 por cena), com respiro de ação e som entre elas.
 > **Elenco:** Charlie · as galinhas (catando os grãos) · a vaca (come as palhas que sobram, por cima da cerca) · o porco (ganha os sabugos).
 > **Gancho natural:** só um imprevisto pequeno de verdade (o leitinho do milho espirra no olho).
@@ -23,8 +23,10 @@ Dia de pamonha. Charlie colhe o milho verde no milharal e faz a pamonha doce do 
 > *"Hoje tem pamonha, meu povo."*
 > *"O milho tá bonito demais, ó."*
 
-Pega outra espiga, puxa a palha da ponta pra trás e aperta um grão com a unha pra mostrar. O leitinho do milho espirra bem no olho dele. Ele fecha o olho na hora e ri.
-> *"Tá no ponto, ó. Espirrou até no olho."*
+Pega outra espiga, puxa a palha da ponta pra trás e aperta um grão com a unha pra mostrar.
+> *"Tá no ponto, ó."*
+
+O leitinho do milho espirra bem no olho dele. Ele fecha o olho na hora, ri e limpa o olho com as costas da mão.
 
 **Cena 2 — Colhendo (~10 s · selfie, andando no milharal)**
 Charlie vai andando entre os pés de milho, quebrando espiga atrás de espiga (*CREC... CREC*) e jogando por cima do ombro no balaio. Mostra o cabelo de uma espiga pra câmera.
@@ -88,7 +90,7 @@ Enche com uma concha de massa até a boca. Quando dobra a ponta, a massa escapa 
 Corte: na segunda, ele enche menos, aperta bem a dobra e amarra com uma tirinha de palha, dando o nó.
 > *"Aperta bem e amarra, senão abre dentro da panela."*
 
-Corte: uma fileira de pamonhas amarradinhas em cima da mesa de tábua. Ele dá 2 tapinhas na mesa.
+Corte: uma fileira de pamonhas amarradinhas em cima da mesa de tábua.
 > *"Ó que coisa bonita."*
 
 **Cena 8 — A vaca na cerca (~8 s · selfie)**
@@ -119,7 +121,7 @@ Charlie tira uma pamonha do panelão com a escumadeira, soltando fumaça, e most
 Chega a pamonha perto do nariz e fecha os olhos por um instante.
 > *"Esse cheiro já tá me dando fome."*
 
-**Cena 11 — O final: a primeira mordida (~16 s · selfie)**
+**Cena 11 — O final: a primeira mordida (~14 s · selfie)**
 Charlie sentado no banco da varanda, com a pamonha num prato esmaltado. Desamarra a tirinha e abre a palha devagar, e a fumaça sobe.
 > *"Olha a fumaça, meu povo."*
 > *"E firminha, do jeito que tem que ser."*
@@ -127,19 +129,16 @@ Charlie sentado no banco da varanda, com a pamonha num prato esmaltado. Desamarr
 Dá uma mordida grande e arregala os olhos: tá quente demais.
 > *"Tá quente!"*
 
-Abana a boca com a mão, sopra, ri. Mastiga, engole e fecha os olhos, com os ombros relaxando.
-> *"Nossa senhora..."*
+Abana a boca com a mão aberta, puxando ar, e ri. Mastiga devagar, engole e fecha os olhos, com os ombros relaxando.
+> *"Nossa senhora... tá pelando, mas tá boa demais."*
 
-Abre os olhos e vê, do lado do banco, o porco com um sabugo na boca, parado, olhando pra pamonha. Charlie olha pro porco, olha pra pamonha, olha pro porco de novo. O sorriso cresce e vem um riso pelo nariz.
-> *"Cê já ganhou o seu."*
-
-E cai na **gargalhada grande**, com o porco ainda olhando, mastigando o sabugo. Corta no meio da gargalhada.
+Assopra a pamonha na mão, com calma, e dá mais uma mordida, agora com cuidado. Mastiga de olhos fechados, satisfeito. Corta.
 
 ---
 
 ## 3. Duração estimada
 
-**~1:58** (11 cenas de 8 a 16 s).
+**~1:56** (11 cenas de 8 a 14 s).
 
 ---
 
@@ -151,9 +150,9 @@ E cai na **gargalhada grande**, com o porco ainda olhando, mastigando o sabugo. 
 | 2 | 4–6 · ralando, o porco e os sabugos, o tempero | **29 s** | @CHARLIE · @TERREIRO · @PORCO |
 | 3 | 7–8 · o saquinho de palha, a vaca na cerca | **22 s** | @CHARLIE · @TERREIRO · @VACA |
 | 4 | 9–10 · no panelão, o ponto | **22 s** | @CHARLIE · @TERREIRO |
-| 5 | 11 · a primeira mordida + o porco | **16 s** | @CHARLIE · @TERREIRO · @PORCO |
+| 5 | 11 · a primeira mordida | **14 s** | @CHARLIE · @TERREIRO |
 
-**Total:** ~1:58.
+**Total:** ~1:56.
 
 ### As etapas do semi-tutorial
 1. Ver o ponto do milho (o grão solta leite).
@@ -168,7 +167,7 @@ E cai na **gargalhada grande**, com o porco ainda olhando, mastigando o sabugo. 
 ### Mapa das risadas e expressões
 | Cena | Expressão |
 |---|---|
-| 1 | animado → o leite espirra no olho → ri de olho fechado |
+| 1 | animado → o leite espirra no olho → ri e limpa o olho com a mão |
 | 2 | animado, andando e colhendo → esforço com o balaio cheio |
 | 3 | explicando → ri sacudindo o cabelo do milho grudado nos dedos |
 | 4 | esforço ralando → funga, gostando do cheiro |
@@ -178,12 +177,12 @@ E cai na **gargalhada grande**, com o porco ainda olhando, mastigando o sabugo. 
 | 8 | surpresa com a vaca → **risada média** |
 | 9 | cuidado → assopra o fogo |
 | 10 | satisfação → fome |
-| 11 | expectativa → queima a boca → sopra e ri → prazer de olho fechado → vê o porco → olha o porco, a pamonha, o porco → **gargalhada grande** |
+| 11 | expectativa → queima a boca → abana e ri → prazer de olho fechado → assopra → segunda mordida, satisfeito (sem gargalhada: final calmo) |
 
 ### Continuidade
 - O balaio fica nas costas no milharal e no chão, do lado do toco, no terreiro.
 - As palhas ficam em **dois montes**: as bonitas (pros saquinhos) e as rasgadas (que a vaca come na cena 8).
-- Os sabugos raspados vão pro monte que o porco fuça na cena 5. Na cena 11, o porco ainda está com um sabugo na boca.
+- Os sabugos raspados vão pro monte que o porco fuça na cena 5. O porco não aparece no final.
 - A vaca fica sempre **do outro lado da cerca** de madeira, só com o pescoço passando por cima.
 - A pamonha pronta tem a palha **amarelada** e a tirinha amarrada; aberta, a massa é amarelo-clara, firme e soltando fumaça.
 
