@@ -284,3 +284,45 @@
 - **Acontecimentos:** POV da descoberta: o buraco com 4 patinhos piando lá no fundo → a mão dele não alcança → faz uma rampa de tábua, os patinhos não sobem → usa uma cuia amarrada num cipó, pega um de cada vez → o último pula fora da cuia e cai de novo → *"Volta aqui, pequeno!"*
 - **Final:** a fila de patinhos seguindo a mãe pela trilha → o último patinho para e segue o Charlie em vez da mãe → riso pelo nariz, ele aponta a direção certa.
 - **Por que funciona:** filhote de bicho é o tema que mais compartilha; tem tensão (vai conseguir tirar?), carinho e um final fofo.
+
+---
+
+## Receitas com os bichos (semi-tutorial · ingrediente vem do bicho · gancho de 3 s)
+
+> Regra: os ingredientes vêm dos bichos **vivos** (ovo, leite) ou da roça. Nunca cozinhar carne de bicho que aparece na série. Bicho fixo: Barnabé, o pato, galinhas, a vaca, o porco. Piada recorrente (camisa) fica de fora.
+
+### 36. Café da manhã de hotel (receita rústica · ~2:10)
+- **Gancho (0–3 s):** selfie, Charlie dormindo de boca aberta na rede → o galo pula na beirada da rede e canta *COCORICÓ* colado na cara dele → ele acorda no susto, a rede vira e ele cai no chão → gargalhada deitado.
+- **Conceito:** o café da manhã de bufê de hotel chique, só que tudo vem do terreiro: ovo das galinhas, leite da vaca, mel, fruta do pé, pão de mandioca.
+- **Acontecimentos (semi-tutorial):** ovo no galinheiro ("pega só o que tá quentinho, que é de hoje") → ordenha da vaca ("devagar e com a mão quente, senão ela num deixa") → o pato segue o Charlie em todos os lugares → ovo mexido na frigideira de ferro ("fogo baixo, que é pra ficar molinho") → fruta cortada na tábua → monta a mesa comprida na varanda, tudo em cuia e travessa de barro.
+- **Final:** ele senta pra comer e o galo pula na mesa e canta de novo, bem na cara dele → gargalhada.
+- **Potencial:** muito alto · **Por que funciona:** paródia de luxo (bufê de hotel), passeio por todos os bichos, comida linda no final, e o final repete o gancho (fecha o círculo).
+
+### 37. Pudim de padaria (receita rústica · ~2:00) ⭐
+- **Gancho (0–3 s):** selfie, Charlie enfia a mão embaixo de uma galinha pra pegar o ovo → ela bica a mão dele e bate as asas na cara → o ovo escapa, voa e quebra na cabeça dele, escorrendo no pelo → *"Ai!"* → olha pra câmera com a gema escorrendo → riso.
+- **Conceito:** pudim de leite de padaria, com aquela calda brilhante, feito com ovo das galinhas e leite da vaca, em banho-maria no fogão de lenha.
+- **Acontecimentos (semi-tutorial):** pega os ovos com cuidado agora ("devagarinho, que ela tá brava") → leite fresco da vaca → caramelo na forma de ferro ("deixa ficar cor de mel, se passar fica amargo") → bate tudo com garfo de bambu → banho-maria tampado no fogão → corte temporal → **hora da verdade:** desenformar ("se grudar, deu errado") → o pudim desce inteiro e treme no prato, com a calda escorrendo.
+- **Final:** primeira colherada, olho fechado → a galinha da gancho sobe na mesa e bica a calda do prato → *"Agora tá certo, né, ajudou a fazer."* → riso.
+- **Potencial:** altíssimo · **Por que funciona:** pudim é paixão nacional, o "desenforma ou não desenforma" é suspense natural, e o pudim tremendo é hipnótico.
+
+### 38. Queijo coalho de praia (receita rústica · ~2:10)
+- **Gancho (0–3 s):** selfie, Charlie sentado no banquinho ordenhando → o bezerro chega correndo e dá uma cabeçada nele pra mamar → o banquinho vira, ele cai de costas e o bezerro toma o lugar dele → *"Ô! Ô! Esse é o meu!"*
+- **Conceito:** o queijo coalho no espetinho, com mel, igual vendem na praia, feito na selva do zero.
+- **Acontecimentos (semi-tutorial):** divide o leite com o bezerro ("metade é dele, que ele é pequeno") → leite morno com o coalho ("morno, num pode ferver") → corta a coalhada em cubinhos → espreme no pano e põe na forma de madeira → pedra em cima ("que é pra sair o soro") → corte temporal → queijo firme → espetinho de bambu na brasa, dourando → mel por cima.
+- **Final:** ele morde o queijo, que range no dente (*nhec nhec*) → olha pra câmera rindo → o bezerro lambe a mão dele melada de mel.
+- **Potencial:** muito alto · **Por que funciona:** filhote de vaca é fofo e caótico, e o "queijo que range" é um detalhe que todo mundo comenta.
+
+### 39. O bolo de aniversário do Barnabé (receita · ~2:20)
+- **Gancho (0–3 s):** selfie, Charlie mexendo a massa do bolo, de costas pro terreiro → o Barnabé dá uma cabeçada no traseiro dele → ele cai pra frente e a cara afunda na tigela de massa → levanta a cara toda melada → gargalhada.
+- **Conceito:** é aniversário do Barnabé, e o Charlie faz **dois bolos**: um de cenoura com calda pra ele e um "bolo de bode", feito de folha de bananeira, milho, cenoura e capim, com uma velinha de cera de abelha.
+- **Acontecimentos (semi-tutorial):** ovo das galinhas + leite da vaca no bolo de cenoura → assa no forno de barro → calda de cacau → o bolo do bode: camadas de folha, rodela de cenoura, milho debulhado, "cobertura" de capim picado → velinha de cera nos dois.
+- **Final:** ele canta "parabéns" batendo palma (curto) → o Barnabé ignora o bolo dele e enfia a cara no bolo de cenoura do Charlie → Charlie olha os dois bolos, olha pra câmera → gargalhada.
+- **Potencial:** altíssimo · **Por que funciona:** aniversário de bicho gera marcação e comentário ("parabéns, Barnabé!"), e o público já conhece o bode.
+- ⚠️ "Parabéns pra você" tem direito autoral na melodia: o Charlie só **fala** "parabéns, Barnabé!" e bate palma, sem cantar.
+
+### 40. Restaurante dos bichos (receita · ~2:00)
+- **Gancho (0–3 s):** selfie, Charlie atravessa o terreiro carregando uma bandeja de madeira cheia de tigelas → o porco vem correndo, passa no meio das pernas dele → ele perde o equilíbrio e a bandeja voa → milho chovendo em cima dele → as galinhas correm todas pra cima dele.
+- **Conceito:** Charlie abre um "restaurante chique" no terreiro e prepara um prato pra cada bicho, com cuidado de chef, e serve um por um.
+- **Acontecimentos (semi-tutorial):** milho debulhado e triturado no pilão pras galinhas ("quebradinho, que é pra caber no bico") → mingau de abóbora e sobra de fruta pro porco → verdura cortada miudinha e boiando numa bacia pro pato → folha de bananeira enrolada como charuto pro Barnabé → serve cada um com um paninho no braço, de garçom → cada bicho come do seu jeito (o porco faz bagunça, o pato chacoalha a cabeça).
+- **Final:** ele senta pra comer o próprio prato e todos os bichos se viram e ficam olhando pra comida dele → ele olha em volta → riso → divide.
+- **Potencial:** muito alto · **Por que funciona:** todos os bichos num vídeo só, paródia de restaurante fino, e muito "fofo" pra compartilhar.
