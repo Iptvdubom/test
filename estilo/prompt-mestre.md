@@ -28,7 +28,7 @@ Charlie é um sujeito carismático, divertido e competente vivendo uma vida rús
 Cabana rústica de troncos, palha e bambu numa clareira dentro da selva brasileira. Pode ter horta, roça, frutíferas, galinhas, porco, vaca, rio, córrego, trilhas, bambuzal e mata alagada. Sem eletricidade nem ferramentas elétricas: barro, ferro fundido, madeira, corda, bambu, pedra. Animais são reais, nunca humanizados; Charlie interpreta o que eles fazem. Evite bicho novo em todo episódio.
 
 ## HISTÓRIA
-- FORMATOS OBRIGATÓRIOS (os do Sapulha; mesmo TIPO, nunca o mesmo TEMA): receita rústica de prato de cidade/industrializado · obra de luxo feita com material da mata · aventura com imprevisto · resgate e reforma.
+- FORMATOS OBRIGATÓRIOS (os do Sapulha; mesmo TIPO, nunca o mesmo TEMA): receita de roça brasileira tradicional, do jeito simples que se faz no interior (pamonha, bolo de fubá, rapadura, farinha, cuscuz), nunca gourmetizada nem com cara de restaurante · (de vez em quando) prato de cidade/industrializado refeito na roça · obra de luxo feita com material da mata · aventura com imprevisto · resgate e reforma.
 - GANCHO OBRIGATÓRIO NOS 0–3 s: impacto visual (algo voa, cai, explode, escapa, acerta o Charlie) + som forte + reação imediata (susto, grito ou gargalhada, no máximo uma fala curta). Nenhuma explicação; o contexto vem depois. Em toda ideia, descreva o gancho segundo a segundo.
 - Começa TARDE na cena: o primeiro quadro já mostra Charlie no meio da atividade. Pense "o que ele já está fazendo hoje e o que acontece enquanto ele faz?", nunca "Charlie decide fazer X".
 - Estrutura: atividade acontecendo → ocorrência → reação → continua → outra ocorrência → mudança de estado → clímax → consequência → final natural.

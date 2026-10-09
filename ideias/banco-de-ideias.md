@@ -289,6 +289,8 @@
 
 ## Receitas com os bichos (semi-tutorial · ingrediente vem do bicho · gancho de 3 s)
 
+> ⚠️ **Fora da linha (usuário):** estas ficaram gourmetizadas (hotel, padaria, restaurante, bolo de festa). Aproveitar só os ganchos e os bichos. As receitas certas são as de roça, logo abaixo.
+
 > Regra: os ingredientes vêm dos bichos **vivos** (ovo, leite) ou da roça. Nunca cozinhar carne de bicho que aparece na série. Bicho fixo: Barnabé, o pato, galinhas, a vaca, o porco. Piada recorrente (camisa) fica de fora.
 
 ### 36. Café da manhã de hotel (receita rústica · ~2:10)
@@ -326,3 +328,42 @@
 - **Acontecimentos (semi-tutorial):** milho debulhado e triturado no pilão pras galinhas ("quebradinho, que é pra caber no bico") → mingau de abóbora e sobra de fruta pro porco → verdura cortada miudinha e boiando numa bacia pro pato → folha de bananeira enrolada como charuto pro Barnabé → serve cada um com um paninho no braço, de garçom → cada bicho come do seu jeito (o porco faz bagunça, o pato chacoalha a cabeça).
 - **Final:** ele senta pra comer o próprio prato e todos os bichos se viram e ficam olhando pra comida dele → ele olha em volta → riso → divide.
 - **Potencial:** muito alto · **Por que funciona:** todos os bichos num vídeo só, paródia de restaurante fino, e muito "fofo" pra compartilhar.
+
+---
+
+## Receitas de roça com os bichos (comida simples do interior · semi-tutorial · gancho de 3 s)
+
+### 41. Pamonha de milho verde (~2:10) ⭐
+- **Gancho (0–3 s):** selfie no meio do milharal, Charlie quebrando espiga → o porco sai do meio do milho correndo com uma espiga na boca e passa entre as pernas dele → Charlie gira, perde o equilíbrio e cai sentado no meio dos pés de milho → *"Ô, ladrão!"* → gargalhada.
+- **Etapas:** quebra as espigas e joga no balaio → descasca guardando as palhas boas ("as palha mais bonita guarda, que é pra fazer o saquinho") → rala o milho no ralo, escorrendo o caldo → tempera com sal e açúcar ("um pouquinho de sal, senão fica sem graça") → dobra a palha em saquinho, enche e amarra com tira de palha → panelão de água fervendo no fogão de lenha → corte temporal.
+- **Bichos:** as galinhas catando os grãos que caem; a vaca estica o pescoço por cima da cerca e come as palhas que sobraram; o porco ganha os sabugos.
+- **Final:** ele abre a pamonha soltando fumaça e dá a primeira mordida, queimando a boca (*"Tá quente!"*, soprando) → o porco volta e fica olhando pra ele, ainda mastigando a espiga roubada → riso.
+- **Por que funciona:** comida que todo brasileiro tem memória afetiva, muito processo na mão (ralar, dobrar, amarrar) e os bichos em volta o tempo todo.
+
+### 42. Bolo de fubá na panela de ferro, com café coado no pano (~2:00)
+- **Gancho (0–3 s):** selfie, Charlie enfia a mão embaixo da galinha pra pegar o ovo → ela bica a mão e bate as asas na cara dele → o ovo escapa e quebra na cabeça dele, escorrendo no pelo → *"Ai!"* → riso com a gema escorrendo.
+- **Etapas:** pega os ovos com cuidado agora ("devagarinho, que ela tá brava") → leite da vaca → bate fubá, ovo, leite e banha com colher de pau ("bate até ficar lisinha") → unta a panela de ferro → **forno de roça:** panela tampada em cima da brasa e brasa em cima da tampa ("brasa embaixo e em cima, que é pra assar por igual") → enquanto assa, coa o café no coador de pano → **hora da verdade:** destampa → o bolo cresceu e está dourado.
+- **Bichos:** galinhas, a vaca, o pato rondando a mesa.
+- **Final:** um pedaço de bolo e a caneca esmaltada de café, no banco da varanda → a galinha do gancho sobe no banco e belisca o bolo → *"Essa aí ajudou, né."* → riso.
+- **Por que funciona:** "bolo de vó" com café é memória afetiva pura, e o forno de brasa na tampa é uma técnica que pouca gente conhece.
+
+### 43. Garapa e rapadura (~2:20)
+- **Gancho (0–3 s):** selfie, Charlie dá um golpe de facão na base da cana → a cana alta tomba pro lado dele e dá uma chicotada de folha na cara → ele fecha os olhos, cospe folha → *"Pfff... essa me pegou."*
+- **Etapas:** corta e limpa a cana → moenda de madeira, girando a manivela com força ("huff") → a garapa escorrendo verdinha na cuia → prova a garapa → ferve a garapa no tacho, tirando a espuma com a escumadeira ("tira a espuma, senão a rapadura fica escura") → mexe até dar o ponto ("quando fizer fio, tá no ponto") → despeja na forma de madeira → corte temporal → desenforma a rapadura.
+- **Bichos:** o porco comendo o bagaço da cana; o Barnabé roubando um pedaço de cana do monte.
+- **Final:** ele quebra um pedaço de rapadura com o cabo do facão (*CREC*) e morde → o Barnabé estica o pescoço e lambe a rapadura na mão dele.
+- **Por que funciona:** moenda e tacho fervendo são muito visuais, e é tradição de roça de verdade.
+
+### 44. Farinha de mandioca (casa de farinha) com beiju (~2:20)
+- **Gancho (0–3 s):** selfie, Charlie puxa o pé de mandioca com as duas mãos e o celular preso no peito → não sai → puxa com mais força → a rama quebra de repente e ele cai de costas, com terra voando em cima dele → gargalhada.
+- **Etapas:** arranca as raízes com a enxada de pau → descasca com a faca → rala no ralo grande → espreme a massa no **tipiti** de palha, pendurado ("espreme bem, que é pra sair o caldo") → peneira → torra no forno de barro mexendo com o rodo de madeira, sem parar ("num pode parar de mexer, senão queima") → com a goma, faz um beiju na chapa.
+- **Bichos:** as galinhas ciscando em volta do forno; o pato tentando entrar na peneira.
+- **Final:** ele come o beiju quentinho e enche a cuia de farinha torradinha → *"Isso aqui dura o ano inteiro, meu povo."* → uma galinha bica a farinha da cuia na mão dele.
+- **Por que funciona:** técnica brasileira de raiz (o tipiti é da selva mesmo), muito processo manual e satisfatório.
+
+### 45. Cuscuz de milho com ovo e manteiga (~1:50)
+- **Gancho (0–3 s):** selfie, Charlie sai correndo do galinheiro com um ovo na mão e uma galinha choca brava voando atrás, bicando as costas dele → ele tropeça, cai protegendo o ovo com as duas mãos → abre a mão: o ovo está inteiro → *"Salvei!"* → riso ofegante.
+- **Etapas:** fubá de milho molhado com água e sal, esfarelando com a mão ("molha aos pouquinho, que é pra ficar soltinho") → descansa → enche o cuscuzeiro de barro sem apertar ("num aperta, senão empelota") → vapor no fogão de lenha → frita o ovo na banha na frigideira de ferro → desenforma o cuscuz.
+- **Bichos:** a galinha choca de cara feia rondando; a vaca, e um pouco de leite pra molhar o cuscuz.
+- **Final:** cuscuz com manteiga derretendo e ovo por cima, ele dá a primeira garfada → a galinha choca aparece na janela, olhando torto pra ele → ele esconde o prato devagar → riso.
+- **Por que funciona:** café da manhã de roça de verdade, rápido de fazer e com a galinha brava como "vilã" do vídeo.
