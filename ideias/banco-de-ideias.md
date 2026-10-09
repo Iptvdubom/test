@@ -5,7 +5,7 @@
 
 | # | Ideia | Tipo | Status |
 |---|---|---|---|
-| 1 | Pastel de feira no tacho | Receita | 💡 |
+| 1 | Pastel de feira no tacho | Receita | ❌ o Sapulha já fez (pastel com caldo de cana) |
 | 2 | Mel direto da colmeia | Aventura | 💡 |
 | 3 | Academia de rico feita na roça ([roteiro](../roteiros/01-academia-de-rico-na-roca.md)) | Obra | ✍️ |
 | 4 | Pizza no forno de cupinzeiro | Receita | 💡 |
@@ -16,7 +16,7 @@
 
 ---
 
-## 1. Pastel de feira no tacho
+## 1. Pastel de feira no tacho ❌ DESCARTADA: o Sapulha já fez pastel com caldo de cana
 - **Gancho:** abre a massa com um tronco no lugar do rolo, o tronco rola por cima do pé dele e ele gargalha pulando num pé só.
 - **Frase-regra:** "Pastel de vento é golpe. Aqui o recheio chega a escorrer."
 - **Final:** o queijo estica um metro, ele vai andando pra trás e cai sentado rindo.
@@ -347,7 +347,7 @@
 - **Final:** um pedaço de bolo e a caneca esmaltada de café, no banco da varanda → a galinha do gancho sobe no banco e belisca o bolo → *"Essa aí ajudou, né."* → riso.
 - **Por que funciona:** "bolo de vó" com café é memória afetiva pura, e o forno de brasa na tampa é uma técnica que pouca gente conhece.
 
-### 43. Garapa e rapadura (~2:20)
+### 43. Garapa e rapadura (~2:20) ⚠️ cuidado: o Sapulha já fez caldo de cana na prensa de madeira. Se fizer, o foco é a **rapadura no tacho**, sem mostrar a moenda espremendo a garapa como destaque
 - **Gancho (0–3 s):** selfie no canavial, Charlie dá o último golpe de facão na cana (*TOC*), corta um pedaço e já morde ali mesmo, chupando o caldo. *"Ó, doce que só."* Limpa o queixo melado com as costas da mão: *"Essa vai dar rapadura boa, meu povo."*
 - **Etapas:** corta e limpa a cana → moenda de madeira, girando a manivela com força ("huff") → a garapa escorrendo verdinha na cuia → prova a garapa → ferve a garapa no tacho, tirando a espuma com a escumadeira ("tira a espuma, senão a rapadura fica escura") → mexe até dar o ponto ("quando fizer fio, tá no ponto") → despeja na forma de madeira → corte temporal → desenforma a rapadura.
 - **Bichos:** o porco comendo o bagaço da cana; o Barnabé roubando um pedaço de cana do monte.

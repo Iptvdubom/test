@@ -1,6 +1,6 @@
 # Guia de Estilo — O "DNA" dos vídeos
 
-Extraído da análise de 9 vídeos de referência: receita da vaca atolada, Doritos artesanal, onça que roubou a picanha, pesca em alto mar, casa na árvore, tobogã de bananeira, abóbora gigante recheada, Fusca resgatado do rio e piscina de borda infinita na cachoeira.
+Extraído da análise de 9 vídeos de referência: receita da vaca atolada, Doritos artesanal, onça que roubou a picanha, pesca em alto mar, casa na árvore, tobogã de bananeira, abóbora gigante recheada, Fusca resgatado do rio e piscina de borda infinita na cachoeira · **pastel de feira com caldo de cana** (prensa de madeira pra cana, massa fina no rolo, fritura na brasa).
 
 > Resumo em uma frase: **um bicho grande, desajeitado e caipira grava o próprio dia como se fosse um vlogueiro. Ele é muito brincalhão: ri de tudo, principalmente das próprias trapalhadas, apanha do ambiente, se diverte com o ajudante pequeno e no fim sempre come ou descansa feliz da vida.**
 >
@@ -80,7 +80,19 @@ Dá pra usar o mesmo **tipo** de ideia (receita, obra, resgate, aventura), mas n
 
 ## 4. Como ele fala (regras do diálogo)
 
-- **Frases curtas:** 3 a 12 palavras cada. Por cena, 1 a 4 frases no máximo.
+- **Frases curtas:** 3 a 12 palavras cada.
+- **Densidade (vídeo do pastel com caldo de cana):** ele fala **uma frase a cada 3–5 s**, ou seja, **3 a 5 falas a cada ~20 s**. Nunca uma frase solta por cena: é uma narração contínua, com respiros de ação e som entre as falas.
+- **Os tipos de fala que se alternam num trecho:**
+  1. Narra o que vai fazer: "Agora eu fecho a beirada com o dedo mesmo."
+  2. Dica + motivo/consequência: "Aperte bem senão abre lá dentro do óleo." / "Se ficar grossa, perdeu."
+  3. Probleminha e resolução: "Espera aí que essa cana não quer entrar." → "Opa! Agora foi."
+  4. Observação do que aparece: "Olha o caldo descendo." / "Olha ele levantando sozinho!"
+  5. Prova visual da técnica: "Já dá pra ver a madeira por baixo." / "Essas bolinha em cima é que a massa tava fina."
+  6. Exagero divertido: "Bota queijo até quase não fechar mais."
+  7. Pergunta brincalhona: "Sai verdinho assim mesmo?"
+  8. Prazer sensorial: "Isso aqui é o barulho mais bonito da selva." / "Minha boca já tá cheia d'água."
+  9. Conclusão triunfante: "Fechou! Esse aqui não escapa não."
+- **Abertura com pedido do público:** "Vocês pediram pastel com caldo de cana..." (e no fim: "Vocês pediram os dois e eu fiz os dois").
 - **Fala enquanto trabalha:** ele quase nunca para a ação pra falar.
 - **Bordões que fecham as frases:** o Sapulha usa "meus fi", "fi", "rapaz", "ó", "viu", "hein". ⚠️ O "fi"/"meus fi" é a **marca dele**. O nosso personagem precisa de um bordão PRÓPRIO pra chamar o espectador.
 - **Apelido do ajudante:** usado em toda bronca ("Danado, sai daí", "Larga meu torresmo rapaz!").
