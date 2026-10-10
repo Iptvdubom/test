@@ -371,7 +371,7 @@
 ---
 
 ### 46. Biscoito de mel (ideia do usuário, melhorada) · aventura + receita de roça · ~2:20
-- **Gancho (0–3 s):** selfie na mata, Charlie com o braço enfiado no oco de um tronco, puxando um favo pingando mel: *"Olha isso, meu povo..."* → o zumbido vai crescendo → ele olha pra tocha de folha na outra mão: a fumaça apagou → *"Ih... a fumaça apagou."*
+- **Gancho (0–3 s):** selfie na mata, Charlie com o braço enfiado no oco de um tronco, puxando um favo pingando mel: *"Olha isso, meu povo..."* → o zumbido vai crescendo → ele olha pra tocha de folha na outra mão: a fumaça acabou → *"Ih... a fumaça acabou."*
 - **A fuga:** as abelhas saem do oco → Charlie corre gritando com o favo numa mão e o celular na outra (imagem chacoalhando) → o Barnabé dando pinote e saltando de lado, o pato correndo e batendo asa, grasnando sem parar → entram na cabana, ele fecha a porta e encosta nela ofegante → conta os bichos ("Barnabé tá aqui... cadê o pato?") → *QUÉ QUÉ* do lado de fora → abre uma fresta, o pato entra, fecha de novo.
 - **Receita (semi-tutorial):** mel + banha derretendo na panela de ferro ("só amornar, num pode ferver") → ovo das galinhas, canela e cravo socados no pilãozinho → farinha aos pouquinho na tigela de barro, até soltar da mão → abre com o rolo de madeira ("nem fina nem grossa, um dedinho") → corta as rodelas com um **pedaço de bambu** ("bambu cortado serve de forminha") → assa no forno de barro do quintal (antes, espia pela porta: *"Já foram?"*) → o cheiro, os biscoitos dourados.
 - **Bichos na cozinha:** o pato bicando a farinha e ficando com o bico branco; o Barnabé mastigando o pano de prato (no lugar da camisa).
